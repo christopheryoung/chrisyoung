@@ -1,4 +1,6 @@
 
+.DS_Store
+
 site/_cache/*
 site/_site/*
 site/site.o
