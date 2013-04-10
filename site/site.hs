@@ -28,8 +28,11 @@ main = hakyll $ do
 
     match "index.html" $ do
         route idRoute
+        let frontPageContext =
+                constField "title" "" `mappend`
+                defaultContext
         compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= loadAndApplyTemplate "templates/default.html" frontPageContext
             >>= relativizeUrls
 
     -- Blog
