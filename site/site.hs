@@ -9,7 +9,7 @@ main :: IO ()
 main = hakyll $ do
 
     -- resources
-    match "images/*" $ do
+    match "media/*" $ do
         route   idRoute
         compile copyFileCompiler
 
@@ -28,6 +28,9 @@ main = hakyll $ do
 
     match "index.html" $ do
         route idRoute
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= relativizeUrls
 
     -- Blog
     match "prose/blog/posts/*" $ do
@@ -63,7 +66,6 @@ main = hakyll $ do
 
 
 
-
 --------------------------------------------------------------------------------
 postCtx :: Context String
 postCtx =
@@ -74,7 +76,7 @@ postCtx =
 --------------------------------------------------------------------------------
 postList :: ([Item String] -> Compiler [Item String]) -> Compiler String
 postList sortFilter = do
-    posts   <- sortFilter =<< loadAll "posts/*"
+    posts   <- sortFilter =<< loadAll "prose/blog/posts/*"
     itemTpl <- loadBody "templates/post-item.html"
     list    <- applyTemplateList itemTpl postCtx posts
     return list
