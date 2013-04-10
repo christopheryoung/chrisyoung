@@ -1,6 +1,6 @@
 /* Main stylesheet */
 
-body { 
+body {
 }
 
 
@@ -14,34 +14,34 @@ border-bottom: 3px solid #990000;
 }
 
 a {
-text-decoration: none; 
+text-decoration: none;
 outline: none;
 }
 
-img a:link, a:visited, a:hover, a:focus, a:active { 
+img a:link, a:visited, a:hover, a:focus, a:active {
 border-bottom: none;
  }
 
-ul.regular { 
+ul.regular {
 margin-top: 30px;
 margin-bottom: 30px;
  }
 
-ol.regular { 
+ol.regular {
 list-style-type: decimal;
  }
 
-li.regular { 
+li.regular {
 margin-bottom: 15px;
 margin-left: 15px;
  }
 
-tr { 
+tr {
 text-align: left;
 padding-right: 30px;
  }
 
-.photo-in-post { 
+.photo-in-post {
 margin-left: auto;
 margin-right: auto;
 text-align: center;
@@ -49,54 +49,54 @@ margin-top: 20px;
 margin-bottom: 20px;
  }
 
-#comments { 
+#comments {
 margin-top: 30px;
  }
 
-#comments h1 { 
+#comments h1 {
 margin-bottom: 20px;
  }
 
-#comments h2 { 
+#comments h2 {
 margin-bottom: 15px;
  }
 
-#comments form { 
+#comments form {
 margin-left: 50px;
  }
 
-#comments li { 
+#comments li {
 margin-top: 20px;
 margin-bottom: 20px;
 padding: 20px;
  }
 
-#comments li.odd { 
+#comments li.odd {
 background: #F0F8FF;
  }
 
-#comments li.even { 
+#comments li.even {
 background: #F0FFFF;
  }
 
 
-#pagination { 
+#pagination {
 text-align: center;
  }
 
-#banner-pic { 
+#banner-pic {
 float: left;
  }
 
 
-#content { 
+#content {
 clear: both;
 margin-top: 30px;
 padding-right: 30px;
 padding-left: 30px;
 }
 
-#content h1 { 
+#content h1 {
 font-size: 2.0em;
 text-align: left;
 font-size: 1.3em;
@@ -109,10 +109,10 @@ line-height: 1.2em;
 margin-top: 1.6em;
  }
 
-#frontbox { 
+#frontbox {
 float: left;
 width: 600px;
-font-family: "Helvetica Neue", Helvetica, Veridana, sans-serif; 
+font-family: "Helvetica Neue", Helvetica, Veridana, sans-serif;
 font-weight: bold;
 }
 
@@ -131,7 +131,7 @@ margin-left: 40px;
 
 
 
-#footer { 
+#footer {
 clear: both;
 margin-top: 100px;
 margin-bottom: 30px;
@@ -142,16 +142,16 @@ font-size: 11px;
 }
 
 
-#header { 
-background: url('../images/header_background.png');
+#header {
+background: url('../media/header_background.png');
 height: 200px;
 width: 900px;
 
 }
 
 
-#nav { 
-position: absolute; 
+#nav {
+position: absolute;
 right: 50px;
 top: 50px;
 font-weight: bold;
@@ -160,13 +160,13 @@ font-weight: bold;
 
 
 
-#nav ul { 
+#nav ul {
 list-style: none;
 font-size: 1.5em;
  }
 
 
-#nav li { 
+#nav li {
 display: inline;
 float: right;
 margin-left: 15px;
@@ -175,27 +175,27 @@ margin-left: 15px;
 
 
 
-#subnav { 
+#subnav {
 position: absolute;
 right: 50px;
 top: 100px;
  }
 
-#subnav ul { 
+#subnav ul {
 display: block;
 
  }
 
-#subnav li { 
+#subnav li {
 display: inline;
  }
 
-a.active { 
+a.active {
 border-bottom: 3px solid #990000;
  }
 
 
-#pagetitle { 
+#pagetitle {
 clear: both;
 width: 900px;
 margin-left: auto;
@@ -203,32 +203,32 @@ margin-right: auto;
 text-align: center;
  }
 
-#post-frontpage { 
+#post-frontpage {
 margin-bottom: 50px;
  }
 
 
-#series-box { 
+#series-box {
 width: 500px;
 padding: 20px;
 background: #E0E0E0;
 margin-top: 25px;
 margin-bottom: 10px;
 margin-left: auto;
-margin-right: auto; 
+margin-right: auto;
  }
 
-#links { 
+#links {
 
  }
 
-#links p { 
+#links p {
 margin-left: 40px;
 line-height: 1em;
 margin-top: 5px;
  }
 
-#blog-sections { 
+#blog-sections {
 width: 300px;
 margin-left: auto;
 margin-right: auto;
@@ -236,12 +236,12 @@ text-align: center;
 font-size: 1em;
  }
 
-#links li { 
+#links li {
 list-style-type:square;
  }
 
-#wrapper { 
-font-family: Verdana, "Helvetica Neue", Helvetica, sans-serif; 
+#wrapper {
+font-family: Verdana, "Helvetica Neue", Helvetica, sans-serif;
 width: 900px;
 margin-right: auto;
 margin-left: auto;
@@ -252,7 +252,7 @@ position: relative;
 /* GENERAL CONTENT STYLES */
 
 
-h1.pagetitle { 
+h1.pagetitle {
 font-size: 1.4em;
 text-align: center;
 margin-top: 30px;
@@ -265,9 +265,9 @@ h2.content {
 font-size: 1.2em;
 font-weight: bold;
 margin-top: 10px;
- } 
+ }
 
-h3.content { 
+h3.content {
 font-size: 0.8em;
 font-weight: normal;
 margin-top: 10px;
@@ -290,7 +290,7 @@ padding-top: 15px;
 padding-bottom: 15px;
 text-align: center;
 width: 500px;
- } 
+ }
 
 
 
