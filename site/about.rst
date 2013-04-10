@@ -1,17 +1,19 @@
 ---
-title: About
+title: Disambiguation
 ---
-Nullam imperdiet sodales orci vitae molestie. Nunc quam orci, pharetra a
-rhoncus vitae, eleifend id felis. Suspendisse potenti. Etiam vitae urna orci.
-Quisque pellentesque dignissim felis, egestas tempus urna luctus vitae. In hac
-habitasse platea dictumst. Morbi fringilla mattis odio, et mattis tellus
-accumsan vitae.
 
-1. Amamus Unicode 碁
-2. Interdum nex magna.
+Welcome to the website of Christopher Young.
 
-Vivamus eget mauris sit amet nulla laoreet lobortis. Nulla in diam elementum
-risus convallis commodo. Cras vehicula varius dui vitae facilisis. Proin
-elementum libero eget leo aliquet quis euismod orci vestibulum. Duis rhoncus
-lorem consequat tellus vestibulum aliquam. Quisque orci orci, malesuada porta
-blandit et, interdum nec magna.
+This is not the website of the composer named Christopher Young, the country
+singer named Christopher Young, the football player named Christopher Young,
+the baseball player named Christopher Young, or the British Christopher Young
+who leaves astute comments on the same blogs I read using our name, thus saving
+me the trouble of leaving those comments myself. These Christopher Youngs are
+undoubtedly all excellent in their own way, but they're not me.
+
+You're at the right place if you're looking for the Canadian Christopher Young
+who grew up (mostly) in Ottawa, studied philosophy at the University of
+Toronto, went to Cornell to do graduate work in the same field, dropped out,
+became a developer passionate about Python, Clojure and Haskell, and now lives
+very happily in Brooklyn, NY with his wife, `Yoon Sun Choi
+<http://yoonsunchoi.com>`_, and his son, Oliver.
