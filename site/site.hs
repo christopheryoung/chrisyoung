@@ -30,7 +30,7 @@ main = hakyll $ do
             >>= loadAndApplyTemplate "templates/default.html" frontPageContext
             >>= relativizeUrls
 
-    match (fromList ["meta.rst"]) $ do
+    match (fromList staticPages) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
@@ -91,4 +91,4 @@ postList sortFilter = do
 appendExtension :: String -> String -> String
 appendExtension extension page = page ++ "." ++ extension
 
-staticPages = map (appendExtension "rst") ["meta"]
+staticPages = map (fromFilePath . appendExtension "rst") ["meta"]
