@@ -1,5 +1,6 @@
 
 .DS_Store
+TAGS
 
 site/_cache/*
 site/_site/*
