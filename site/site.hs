@@ -1,10 +1,11 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.Monoid (mappend)
+import           Data.Monoid ((<>))
 import           Hakyll
 
 
 --------------------------------------------------------------------------------
+
 main :: IO ()
 main = hakyll $ do
 
@@ -20,19 +21,19 @@ main = hakyll $ do
     match "templates/*" $ compile templateCompiler
 
     -- Static pages
-    match (fromList ["about.rst", "contact.markdown"]) $ do
-        route   $ setExtension "html"
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/default.html" defaultContext
-            >>= relativizeUrls
-
     match "index.html" $ do
         route idRoute
         let frontPageContext =
-                constField "title" "" `mappend`
+                constField "title" "" <>
                 defaultContext
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" frontPageContext
+            >>= relativizeUrls
+
+    match (fromList ["meta.rst"]) $ do
+        route   $ setExtension "html"
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
 
     -- Blog
@@ -47,8 +48,8 @@ main = hakyll $ do
         route idRoute
         compile $ do
             let archiveCtx =
-                    field "posts" (\_ -> postList recentFirst) `mappend`
-                    constField "title" "Archives"              `mappend`
+                    field "posts" (\_ -> postList recentFirst) <>
+                    constField "title" "Archives"              <>
                     defaultContext
 
             makeItem ""
@@ -72,7 +73,7 @@ main = hakyll $ do
 --------------------------------------------------------------------------------
 postCtx :: Context String
 postCtx =
-    dateField "date" "%B %e, %Y" `mappend`
+    dateField "date" "%B %e, %Y" <>
     defaultContext
 
 
@@ -82,4 +83,12 @@ postList sortFilter = do
     posts   <- sortFilter =<< loadAll "prose/blog/posts/*"
     itemTpl <- loadBody "templates/post-item.html"
     list    <- applyTemplateList itemTpl postCtx posts
-    return list
+    return
+      list
+
+--------------------------------------------------------------------------------
+
+appendExtension :: String -> String -> String
+appendExtension extension page = page ++ "." ++ extension
+
+staticPages = map (appendExtension "rst") ["meta"]
