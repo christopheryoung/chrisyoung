@@ -101,9 +101,6 @@ postList sortFilter = do
 appendExtension :: String -> String -> String
 appendExtension extension page = page ++ "." ++ extension
 
--- proseBaseUrl :: String
--- proseBaseUrl = "prose/blog/"
-
 staticPages :: [Identifier]
 staticPages = map (fromFilePath . appendExtension "rst")
               ["meta", "prose", "other", "code"]
