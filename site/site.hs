@@ -74,7 +74,7 @@ main = hakyll $ do
         route idRoute
         compile $ do
             let feedCtx = postCtx <> bodyField "description"
-            posts <- fmap (take 3) . recentFirst =<<
+            posts <- fmap (take 10) . recentFirst =<<
                      loadAllSnapshots "prose/blog/posts/*" "content"
             renderAtom myFeedConfiguration feedCtx posts
 
@@ -82,7 +82,7 @@ main = hakyll $ do
         route idRoute
         compile $ do
             let feedCtx = postCtx <> bodyField "description"
-            posts <- fmap (take 3) . recentFirst =<<
+            posts <- fmap (take 10) . recentFirst =<<
                      loadAllSnapshots "prose/blog/posts/*" "content"
             renderRss myFeedConfiguration feedCtx posts
 
