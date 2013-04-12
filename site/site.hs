@@ -41,6 +41,7 @@ main = hakyll $ do
         route $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
+            >>= saveSnapshot "content"
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
 
@@ -68,27 +69,52 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/default.html" postCtx
                 >>= relativizeUrls
 
+    -- Feeds
+    create ["prose/blog/atom.xml"] $ do
+        route idRoute
+        compile $ do
+            let feedCtx = postCtx <> bodyField "description"
+            posts <- fmap (take 3) . recentFirst =<<
+                     loadAllSnapshots "prose/blog/posts/*" "content"
+            renderAtom myFeedConfiguration feedCtx posts
 
+    create ["prose/blog/rss.xml"] $ do
+        route idRoute
+        compile $ do
+            let feedCtx = postCtx <> bodyField "description"
+            posts <- fmap (take 3) . recentFirst =<<
+                     loadAllSnapshots "prose/blog/posts/*" "content"
+            renderRss myFeedConfiguration feedCtx posts
 
 --------------------------------------------------------------------------------
+
 postCtx :: Context String
-postCtx =
-    dateField "date" "%B %e, %Y" <>
-    defaultContext
+postCtx = dateField "date" "%B %e, %Y" <> defaultContext
 
-
---------------------------------------------------------------------------------
 postList :: ([Item String] -> Compiler [Item String]) -> Compiler String
 postList sortFilter = do
     posts   <- sortFilter =<< loadAll "prose/blog/posts/*"
     itemTpl <- loadBody "templates/post-item.html"
     list    <- applyTemplateList itemTpl postCtx posts
-    return
-      list
-
---------------------------------------------------------------------------------
+    return list
 
 appendExtension :: String -> String -> String
 appendExtension extension page = page ++ "." ++ extension
 
-staticPages = map (fromFilePath . appendExtension "rst") ["meta"]
+-- proseBaseUrl :: String
+-- proseBaseUrl = "prose/blog/"
+
+staticPages :: [Identifier]
+staticPages = map (fromFilePath . appendExtension "rst")
+              ["meta", "prose", "other", "code"]
+
+myFeedConfiguration :: FeedConfiguration
+myFeedConfiguration = FeedConfiguration
+    { feedTitle       = "Christopher Young: Notes and Queries"
+    , feedDescription = "The Blog of Christopher Young"
+    , feedAuthorName  = "Christopher Young"
+    , feedAuthorEmail = "chris@chrisyoung.net"
+    , feedRoot        = "http://chrisyoung.net/prose/blog"
+    }
+
+
