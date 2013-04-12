@@ -1,0 +1,5 @@
+
+redirect .html > no extension
+
+List (original > new)
+
