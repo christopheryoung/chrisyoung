@@ -24,6 +24,11 @@ became a developer passionate about Python, Clojure and Haskell, and now lives
 very happily in Brooklyn, NY with his wife, `Yoon Sun Choi
 <http://yoonsunchoi.com>`_, and his son, Oliver.
 
+Elsewhere
+---------
+
+I'm on Twitter at `@donkeyhotty <https://twitter.com/donkeyhotty>`_.
+
 
 Credits
 --------
