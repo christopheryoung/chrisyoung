@@ -1,5 +1,6 @@
-
-redirect .html > no extension
-
-List (original > new)
-
+writings/how-to-teach-intro-to-applied-ethics.html prose/essays/how-to-teach-introduction-to-applied-ethics/
+classes.html                                       teaching/
+miser.6.html                                       prose/essays/miser/
+other/teaching                                     etc/teaching/
+other/yeahyeahrecords/                             etc/yeahyeahrecords/
+/prose/blog/2009/06/29/a-note-about-notes-and-queries/  /prose/blog/2009-
