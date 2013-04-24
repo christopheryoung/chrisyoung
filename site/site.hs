@@ -81,7 +81,7 @@ main = hakyll $ do
         route idRoute
         compile $ do
             let indexCtx = field "posts" $ \_ ->
-                                postList $ fmap (take 20) . recentFirst
+                                postList $ fmap (take 100) . recentFirst
 
             getResourceBody
                 >>= applyAsTemplate indexCtx
@@ -102,7 +102,7 @@ main = hakyll $ do
         route idRoute
         compile $ do
             let feedCtx = postCtx <> bodyField "description"
-            posts <- fmap (take 10) . recentFirst =<<
+            posts <- fmap (take 100) . recentFirst =<<
                      loadAllSnapshots "prose/blog/posts/*" "content"
             renderRss myFeedConfiguration feedCtx posts
 
