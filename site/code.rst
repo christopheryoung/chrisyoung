@@ -1,5 +1,6 @@
 ---
 title: Code
+tags: code
 ---
 
 `Github <https://github.com/christopheryoung/>`_
