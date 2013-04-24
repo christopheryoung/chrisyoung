@@ -1,8 +1,9 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
+import           Data.List (isInfixOf)
 import           Data.Monoid ((<>))
 import           Hakyll
-
+import           System.FilePath.Posix  (takeBaseName,takeDirectory,(</>),splitFileName)
 
 --------------------------------------------------------------------------------
 
@@ -31,30 +32,39 @@ main = hakyll $ do
     -- Static pages
     match "index.html" $ do
         route idRoute
-        let frontPageContext =
-                constField "title" "" <>
-                defaultContext
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/default.html" frontPageContext
-            >>= relativizeUrls
+        compile copyFileCompiler
+
+    match "404.html" $ do
+        route idRoute
+        compile copyFileCompiler
 
     match (fromList staticPages) $ do
-        route   $ setExtension "html"
+        route niceRoute
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
+            >>= removeIndexHtml
 
     -- Blog
     match "prose/blog/posts/*" $ do
-        route $ setExtension "html"
+        route $ niceRoute
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
             >>= saveSnapshot "content"
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
+            >>= removeIndexHtml
+
+    match "prose/blog/posts/**.jpg" $ do
+        route   idRoute
+        compile copyFileCompiler
+
+    match "prose/blog/posts/**.png" $ do
+        route   idRoute
+        compile copyFileCompiler
 
     create ["prose/blog/archive.html"] $ do
-        route idRoute
+        route niceRoute
         compile $ do
             let archiveCtx =
                     field "posts" (\_ -> postList recentFirst) <>
@@ -65,17 +75,19 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
                 >>= loadAndApplyTemplate "templates/default.html" archiveCtx
                 >>= relativizeUrls
+                >>= removeIndexHtml
 
     match "prose/blog/index.html" $ do
         route idRoute
         compile $ do
             let indexCtx = field "posts" $ \_ ->
-                                postList $ fmap (take 3) . recentFirst
+                                postList $ fmap (take 20) . recentFirst
 
             getResourceBody
                 >>= applyAsTemplate indexCtx
                 >>= loadAndApplyTemplate "templates/default.html" postCtx
                 >>= relativizeUrls
+                >>= removeIndexHtml
 
     -- Feeds
     create ["prose/blog/atom.xml"] $ do
@@ -111,7 +123,27 @@ appendExtension extension page = page ++ "." ++ extension
 
 staticPages :: [Identifier]
 staticPages = map (fromFilePath . appendExtension "rst")
-              ["meta", "prose", "other", "code"]
+              ["meta", "prose", "etc", "code", "teaching"]
+
+-- Thanks to: http://yannesposito.com/Scratch/en/blog/Hakyll-setup/
+-- replace a foo/bar.md by foo/bar/index.html
+-- this way the url looks like: foo/bar in most browsers
+niceRoute :: Routes
+niceRoute = customRoute createIndexRoute where
+    createIndexRoute ident =
+        takeDirectory p </> takeBaseName p </> "index.html" where
+            p = toFilePath ident
+
+-- replace url of the form foo/bar/index.html by foo/bar
+removeIndexHtml :: Item String -> Compiler (Item String)
+removeIndexHtml item = return $ fmap (withUrls removeIndexStr) item
+
+removeIndexStr :: String -> String
+removeIndexStr url = case splitFileName url of
+    (dir, "index.html") | isLocal dir -> dir
+                        | otherwise   -> url
+    _                                 -> url
+    where isLocal uri = not (isInfixOf "://" uri)
 
 myFeedConfiguration :: FeedConfiguration
 myFeedConfiguration = FeedConfiguration
