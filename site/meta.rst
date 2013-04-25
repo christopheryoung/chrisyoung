@@ -2,13 +2,11 @@
 title: Meta
 ---
 
-Contact
---------
+**Contact**
 
 Contact me at chris@chrisyoung.net.
 
-Disambiguation
----------------
+**Disambiguation**
 
 This is not the website of the composer named Christopher Young, the country
 singer named Christopher Young, the football player named Christopher Young,
@@ -24,18 +22,16 @@ became a developer passionate about Python, Clojure and Haskell, and now lives
 very happily in Brooklyn, NY with his wife, `Yoon Sun Choi
 <http://yoonsunchoi.com>`_, and his son, Oliver.
 
-Elsewhere
----------
+**Elsewhere**
 
 I'm on Twitter at `@donkeyhotty <https://twitter.com/donkeyhotty>`_.
 
+I collect interesting links at `Pinboard <https://pinboard.in/u:chrisyoung>`_.
 
-Credits
---------
+**Credits**
 
 A previous incarnation of this site was put together with Django. This version
-uses the lovely Hakyll_, a static site generator.
-
-.. _Hakyll: a href="http://jaspervdj.be/Hall
-
+uses the lovely `Hakyll<http://jaspervdj.be/hakyll/>`_, a static site generator
+written in Haskell. The code that generates the site is
+`here<https://github.com/christopheryoung/chrisyoung>`_.
 
