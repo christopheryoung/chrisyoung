@@ -1,6 +1,31 @@
-writings/how-to-teach-intro-to-applied-ethics.html prose/essays/how-to-teach-introduction-to-applied-ethics/
-classes.html                                       teaching/
-miser.6.html                                       prose/essays/miser/
-other/teaching                                     etc/teaching/
-other/yeahyeahrecords/                             etc/yeahyeahrecords/
-/prose/blog/2009/06/29/a-note-about-notes-and-queries/  /prose/blog/2009-
+
+# legacy urls from the very first incarnation of the site
+writings/how-to-teach-intro-to-applied-ethics.html      prose/essays/how-to-teach-introduction-to-applied-ethics/
+classes.html                                            teaching/
+miser.6.html                                            prose/essays/miser/
+
+# rss
+/prose/blog/feeds/latest-posts/                         /prose/blog/rss.xml
+
+# changed other to etc.
+other                                                   etc
+other/teaching                                          etc/teaching
+other/yeahyeahrecords/                                  etc
+
+# obsolete pages that have plausible redirects under my reorganization scheme
+code/projects/                                          code/
+code/config/                                            code/
+prose/publications                                      prose/
+# the front page of the blog now *is* the archive
+prose/blog/archive/                                     prose/blog/
+
+# old blog posts with new slugs
+prose/blog/2010/02/23/test-every-unicode-method-every-object-every-m/ prose/blog/posts/2010-02-23-test-every-unicode-method-every-object-every-m/
+prose/blog/2009/12/09/remove-pyc-files-step-test-process/ prose/blog/posts/2009-12-09-remove-pyc-files-step-test-process/
+prose/blog/2009/12/06/dynamically-constructing-or-queries-djangos-orm/ prose/blog/posts/2009-12-06-dynamically-constructing-or-queries-djangos-orm/
+prose/blog/2009/11/28/very-very-gentle-introduction-linux-command-line/ prose/blog/posts/2009-11-28-very-very-gentle-introduction-linux-command-line/
+prose/blog/2009/11/01/spooky-ui-story-one-day-too-late/ prose/blog/posts/2009-11-01-spooky-ui-story-one-day-too-late/
+prose/blog/2009/06/29/a-note-about-notes-and-queries/ prose/blog/posts/2009-06-29-a-note-about-notes-and-queries/
+
+
+
