@@ -45,6 +45,13 @@ main = hakyll $ do
             >>= relativizeUrls
             >>= removeIndexHtml
 
+    match "prose/essays/*" $ do
+        route $ niceRoute
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= relativizeUrls
+            >>= removeIndexHtml
+
     -- Blog
     match "prose/blog/posts/*" $ do
         route $ niceRoute
