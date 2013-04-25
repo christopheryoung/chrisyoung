@@ -91,6 +91,8 @@ tr {
     margin-top: 30px;
     padding-right: 30px;
     padding-left: 30px;
+    font-family: 'Noto Serif', serif;
+    font-size: 18px;
 }
 
 #content h1 {
@@ -134,7 +136,7 @@ font-weight: bold;
 
 
 #header {
-    background: url('../media/header_background.png');
+    background: white;
     height: 200px;
     width: 900px;
 }
@@ -184,12 +186,10 @@ a.active {
     margin-top: 5px;
 }
 
-#blog-sections {
-    width: 300px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    font-size: 1em;
+blockquote {
+    margin: 50px;
+    border-left: 1px solid #990000;
+    padding-left: 10px;
 }
 
 #links li {
