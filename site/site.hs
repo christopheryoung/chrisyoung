@@ -45,12 +45,9 @@ main = hakyll $ do
             >>= relativizeUrls
             >>= removeIndexHtml
 
-    match "prose/essays/*" $ do
-        route $ niceRoute
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/default.html" defaultContext
-            >>= relativizeUrls
-            >>= removeIndexHtml
+    addStaticDirectory "prose/essays/*"
+
+    addStaticDirectory "etc/*"
 
     -- Blog
     match "prose/blog/posts/*" $ do
@@ -100,6 +97,14 @@ main = hakyll $ do
             renderRss myFeedConfiguration feedCtx posts
 
 --------------------------------------------------------------------------------
+
+addStaticDirectory :: Pattern -> Rules ()
+addStaticDirectory matchPattern = match matchPattern $ do
+    route $ niceRoute
+    compile $ pandocCompiler
+        >>= loadAndApplyTemplate "templates/default.html" defaultContext
+        >>= relativizeUrls
+        >>= removeIndexHtml
 
 postCtx :: Context String
 postCtx = dateField "date" "%B %e, %Y" <> defaultContext
