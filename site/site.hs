@@ -70,20 +70,6 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
-    create ["prose/blog/archive.html"] $ do
-        route niceRoute
-        compile $ do
-            let archiveCtx =
-                    field "posts" (\_ -> postList recentFirst) <>
-                    constField "title" "Archives"              <>
-                    defaultContext
-
-            makeItem ""
-                >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
-                >>= loadAndApplyTemplate "templates/default.html" archiveCtx
-                >>= relativizeUrls
-                >>= removeIndexHtml
-
     match "prose/blog/index.html" $ do
         route idRoute
         compile $ do
