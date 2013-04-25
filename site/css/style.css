@@ -207,6 +207,9 @@ blockquote {
 
 /* GENERAL CONTENT STYLES */
 
+li.post {
+    margin-top: 20px;
+}
 
 h1.pagetitle {
     font-size: 1.4em;
