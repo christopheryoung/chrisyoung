@@ -56,8 +56,7 @@ main = hakyll $ do
     match "prose/blog/index.html" $ do
         route idRoute
         compile $ do
-            let indexCtx = field "posts" $ \_ ->
-                                postList $ fmap (take 100) . recentFirst
+            let indexCtx = field "posts" $ \_ -> postList recentFirst
 
             getResourceBody
                 >>= applyAsTemplate indexCtx
