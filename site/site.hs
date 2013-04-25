@@ -10,33 +10,18 @@ import           System.FilePath.Posix  (takeBaseName,takeDirectory,(</>),splitF
 main :: IO ()
 main = hakyll $ do
 
-    -- resources
-    match "media/*" $ do
-        route   idRoute
+    -- straightforward copying
+    match (fromList ["index.html", "404.html", "media/*", "js/*", "classes/*"]) $ do
+        route idRoute
         compile copyFileCompiler
 
     match "css/*" $ do
         route   idRoute
         compile compressCssCompiler
 
-    match "js/*" $ do
-        route   idRoute
-        compile copyFileCompiler
-
-    match "classes/*" $ do
-        route idRoute
-        compile copyFileCompiler
-
     match "templates/*" $ compile templateCompiler
 
     -- Static pages
-    match "index.html" $ do
-        route idRoute
-        compile copyFileCompiler
-
-    match "404.html" $ do
-        route idRoute
-        compile copyFileCompiler
 
     match (fromList staticPages) $ do
         route niceRoute
