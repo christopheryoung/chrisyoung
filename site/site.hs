@@ -11,14 +11,19 @@ main :: IO ()
 main = hakyll $ do
 
     -- straightforward copying
-    match (fromList ["index.html", "404.html", "media/*", "js/*", "classes/*"]) $ do
+    match (fromList ["index.html", "404.html"]) $ do
         route idRoute
         compile copyFileCompiler
+
+    copyDirectory "media/*"
+    copyDirectory "js/*"
+    copyDirectory "classes/*"
 
     match "css/*" $ do
         route   idRoute
         compile compressCssCompiler
 
+    -- compile templates
     match "templates/*" $ compile templateCompiler
 
     -- Static pages
@@ -31,7 +36,6 @@ main = hakyll $ do
             >>= removeIndexHtml
 
     addStaticDirectory "prose/essays/*"
-
     addStaticDirectory "etc/*"
 
     -- Blog
@@ -65,23 +69,28 @@ main = hakyll $ do
                 >>= removeIndexHtml
 
     -- Feeds
-    create ["prose/blog/atom.xml"] $ do
-        route idRoute
-        compile $ do
-            let feedCtx = postCtx <> bodyField "description"
-            posts <- fmap (take 10) . recentFirst =<<
-                     loadAllSnapshots "prose/blog/posts/*" "content"
-            renderAtom myFeedConfiguration feedCtx posts
 
-    create ["prose/blog/rss.xml"] $ do
-        route idRoute
-        compile $ do
-            let feedCtx = postCtx <> bodyField "description"
-            posts <- fmap (take 100) . recentFirst =<<
-                     loadAllSnapshots "prose/blog/posts/*" "content"
-            renderRss myFeedConfiguration feedCtx posts
+    makeBlogFeed "prose/blog/atom.xml" renderAtom
+
+    makeBlogFeed "prose/blog/rss.xml" renderRss
 
 --------------------------------------------------------------------------------
+
+makeBlogFeed :: Identifier ->
+                (FeedConfiguration -> Context String -> [Item String] -> Compiler (Item String)) ->
+                Rules ()
+makeBlogFeed feedName renderFunction = create [feedName] $ do
+    route idRoute
+    compile $ do
+        let feedCtx = postCtx <> bodyField "description"
+        posts <- fmap (take 10) . recentFirst =<<
+                 loadAllSnapshots "prose/blog/posts/*" "content"
+        renderFunction myFeedConfiguration feedCtx posts
+
+copyDirectory :: Pattern -> Rules ()
+copyDirectory dir = match dir $ do
+    route idRoute
+    compile copyFileCompiler
 
 addStaticDirectory :: Pattern -> Rules ()
 addStaticDirectory matchPattern = match matchPattern $ do
