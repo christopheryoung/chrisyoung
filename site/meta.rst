@@ -17,9 +17,10 @@ undoubtedly all excellent in their own way, but they're not me.
 
 You're at the right place if you're looking for the Canadian Christopher Young
 who grew up (mostly) in Ottawa, studied philosophy at the University of
-Toronto, went to Cornell to do graduate work in the same field, dropped out,
-became a developer passionate about Python, Clojure and Haskell, and now lives
-very happily in Brooklyn, NY with his wife, `Yoon Sun Choi
+Toronto, went to Cornell to do graduate work in the same field, eventually
+dropped out, taught himself to code while waiting for a green card, became a
+developer passionate about Python, Clojure and Haskell, and now lives very
+happily in Brooklyn, NY with his wife, `Yoon Sun Choi
 <http://yoonsunchoi.com>`_, and his son, Oliver.
 
 **Elsewhere**
