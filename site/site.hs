@@ -52,6 +52,7 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
+    -- index functions as an archive, since we simply list all posts there
     match "prose/blog/index.html" $ do
         route idRoute
         compile $ do
