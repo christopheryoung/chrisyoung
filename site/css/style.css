@@ -109,8 +109,7 @@ tr {
 }
 
 .frontbox {
-font-family: "Helvetica Neue", Helvetica, Veridana, sans-serif;
-font-weight: bold;
+    font-weight: bold;
 }
 
 #front-text {
