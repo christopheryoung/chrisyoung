@@ -3,8 +3,15 @@ title: Code
 tags: code
 ---
 
-`Github <https://github.com/christopheryoung/>`_
+My first language was Python. My current passion is for functional programming
+languages: Haskell, Clojure, and Erlang.
 
-`Bitbucket <https://bitbucket.org/chrisyoung/>`_
+I've written code for small startups and for a large bank.
 
-My dotfiles, including my beloved .emacs, are on `Github <https://github.com/christopheryoung/dotfiles>`_
+My Github repo is `here <https://github.com/christopheryoung/>`_.
+
+An old Bitbucket repo is `here <https://bitbucket.org/chrisyoung/>`_.
+
+My dotfiles, including my beloved .emacs, are on Github `here <https://github.com/christopheryoung/dotfiles>`_
+
+The code that generates this site is `also on Github <https://github.com/christopheryoung/chrisyoung>`_.
