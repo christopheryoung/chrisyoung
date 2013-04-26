@@ -1,0 +1,54 @@
+Action php54-cgi /php54.cgi
+<FilesMatch \.php$>
+  SetHandler php54-cgi
+</FilesMatch>
+
+<Files ~ "^\.ht">
+    Order allow,deny
+    Deny from all
+</Files>
+
+RewriteCond %{HTTP_HOST} ^www\.chrisyoung\.net [NC]
+RewriteRule ^(.*)$ http://chrisyoung.net/$1 [L,R=301]
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !(.*).html
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*)$ http://chrisyoung.net/$1/ [L,R=301]
+
+redirect 301 /writings/how-to-teach-intro-to-applied-ethics.html http://chrisyoung.net/prose/essays/how-to-teach-introduction-to-applied-ethics/
+
+redirect 301 /classes.html http://chrisyoung.net/teaching/
+
+redirect 301 /miser.6.html http://chrisyoung.net/prose/essays/miser/
+
+redirect 301 /prose/blog/feeds/latest-posts/ http://chrisyoung.net//prose/blog/rss.XL
+
+redirect 301 /other http://chrisyoung.net/etc/
+
+redirect 301 /other/teaching http://chrisyoung.net/etc/teaching/
+
+redirect 301 /other/yeahyeahrecords/ http://chrisyoung.net/etc/
+
+redirect 301 /code/projects/ http://chrisyoung.net/code/
+
+redirect 301 /code/config/ http://chrisyoung.net/code/
+
+redirect 301 /prose/publications/ http://chrisyoung.net/prose/
+
+redirect 301 /prose/blog/archive/ http://chrisyoung.net/prose/blog/
+
+redirect 301 /prose/blog/2010/02/23/test-every-unicode-method-every-object-every-m/ http://chrisyoung.net/prose/blog/posts/2010-02-23-test-every-unicode-method-every-object-every-m/
+
+redirect 301 /prose/blog/2009/12/09/remove-pyc-files-step-test-process/ http://chrisyoung.net/prose/blog/posts/2009-12-09-remove-pyc-files-step-test-process/
+
+redirect 301 /prose/blog/2009/12/06/dynamically-constructing-or-queries-djangos-orm/ http://chrisyoung.net/prose/blog/posts/2009-12-06-dynamically-constructing-or-queries-djangos-orm/
+
+redirect 301 /prose/blog/2009/11/28/very-very-gentle-introduction-linux-command-line/ http://chrisyoung.net/prose/blog/posts/2009-11-28-very-very-gentle-introduction-linux-command-line/
+
+redirect 301 /prose/blog/2009/11/01/spooky-ui-story-one-day-too-late/ http://chrisyoung.net/prose/blog/posts/2009-11-01-spooky-ui-story-one-day-too-late/
+
+redirect 301 /prose/blog/2009/06/29/a-note-about-notes-and-queries/ http://chrisyoung.net/prose/blog/posts/2009-06-29-a-note-about-notes-and-queries/
+
