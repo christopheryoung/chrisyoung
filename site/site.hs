@@ -4,14 +4,13 @@ import           Data.List (isInfixOf)
 import           Data.Monoid ((<>))
 import           Hakyll
 import           System.FilePath.Posix  (takeBaseName,takeDirectory,(</>),splitFileName)
-
 --------------------------------------------------------------------------------
 
 main :: IO ()
-main = hakyll $ do
+main = hakyllWith siteConfig $ do
 
     -- straightforward copying
-    match (fromList ["index.html", "404.html"]) $ do
+    match (fromList ["index.html", "404.html", ".htaccess"]) $ do
         route idRoute
         compile copyFileCompiler
 
@@ -75,6 +74,12 @@ main = hakyll $ do
     makeBlogFeed "prose/blog/rss.xml" renderRss
 
 --------------------------------------------------------------------------------
+myIgnoreFile :: FilePath -> Bool
+myIgnoreFile ".htaccess" = False
+myIgnoreFile path        = ignoreFile defaultConfiguration path
+
+siteConfig :: Configuration
+siteConfig = defaultConfiguration { ignoreFile = myIgnoreFile }
 
 makeBlogFeed :: Identifier ->
                 (FeedConfiguration -> Context String -> [Item String] -> Compiler (Item String)) ->
