@@ -1,2 +1,2 @@
 
-Static site generator written with Hakyll to be deployed soon to chrisyoung.net
+Hakyll-powered static site generator for <a href="chrisyoung.net">chrisyoung.net</a>.
