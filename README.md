@@ -1,2 +1,2 @@
 
-Hakyll-powered static site generator for <a href="chrisyoung.net">chrisyoung.net</a>.
+Hakyll-powered static site generator for <a href="http://chrisyoung.net">chrisyoung.net</a>.
