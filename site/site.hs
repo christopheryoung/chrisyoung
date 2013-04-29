@@ -17,6 +17,7 @@ main = hakyllWith siteConfig $ do
     copyDirectory "media/*"
     copyDirectory "js/*"
     copyDirectory "classes/*"
+    copyDirectory "fonts/*"
 
     match "css/*" $ do
         route   idRoute

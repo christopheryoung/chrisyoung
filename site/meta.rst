@@ -33,6 +33,8 @@ I collect interesting links at `Pinboard <https://pinboard.in/u:chrisyoung>`_.
 
 A previous incarnation of this site was put together with Django. This version
 uses the lovely `Hakyll<http://jaspervdj.be/hakyll/>`_, a static site generator
-written in Haskell. The code that generates the site is
+written in Haskell. The code that generates this site is
 `here<https://github.com/christopheryoung/chrisyoung>`_.
 
+I'm using the Computer Modern font, courtesy of `this
+site<http://checkmyworking.com/cm-web-fonts/>`_.
