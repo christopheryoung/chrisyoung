@@ -18,11 +18,12 @@ Here's what my prompt looks like:
 
     chris@bobo:~$
 
+
 Yours will no doubt look different.  My user name is "chris" and my laptop's name is "bobo," which was also a nickname for <a href="http://www.explananda.com/2007/12/18/coltrane-choi-rip-march-1993-december-2007/">he of beloved memory</a>  Different terminals can be customized in all sorts of ways, so yours might have the date, or display exactly where you are in the file system at all times, etc.
 
 The first question when we get to some new place is "Where am I?"  We can learn the answer to this at the command line by asking the computer to <em>p</em>rint our <em>w</em>orking <em>d</em>irectory:
 
-    chris@bobo:~$ pwd
+    $ pwd
     /home/chris
 
 Each user gets his or her own home directory.  It's where we keep our files and it's where we start when we open up a new terminal.

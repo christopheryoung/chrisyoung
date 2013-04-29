@@ -206,6 +206,19 @@ blockquote {
 
 /* GENERAL CONTENT STYLES */
 
+pre code {
+    border: 1px solid;
+    padding: 20px;
+    display: block;
+    margin: 30px;
+}
+
+.sourceCode {
+    display: block;
+    border: none;
+    background-color: #E2F4F4;
+}
+
 li.post {
     margin-top: 20px;
 }
