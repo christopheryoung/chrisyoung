@@ -18,6 +18,13 @@ RewriteCond %{REQUEST_URI} !(.*).html
 RewriteCond %{REQUEST_URI} !(.*)/$
 RewriteRule ^(.*)$ http://chrisyoung.net/$1/ [L,R=301]
 
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !(.*).pdf
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*)$ http://chrisyoung.net/$1/ [L,R=301]
+
 redirect 301 /writings/how-to-teach-intro-to-applied-ethics.html http://chrisyoung.net/prose/essays/how-to-teach-introduction-to-applied-ethics/
 
 redirect 301 /classes.html http://chrisyoung.net/teaching/
