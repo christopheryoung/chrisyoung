@@ -4,7 +4,7 @@ title: Prose
 
 **Blogs**
 
-My rarely updated personal blog, *Notes and Queries* is `here </prose/blog/>`_
+My rarely updated personal blog, *Notes and Queries*, is `here </prose/blog/>`_
 
 For several years I ran a group blog devoted to politics, books, etc., called
 `explananda <http://explananda.com>`_.
