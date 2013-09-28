@@ -43,10 +43,10 @@ main = hakyllWith siteConfig $ do
         route $ niceRoute
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
-            >>= saveSnapshot "content"
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
             >>= removeIndexHtml
+            >>= saveSnapshot "content"
 
     match "prose/blog/posts/**.jpg" $ do
         route   idRoute
