@@ -149,7 +149,7 @@ myFeedConfiguration = FeedConfiguration
     , feedDescription = "The Blog of Christopher Young"
     , feedAuthorName  = "Christopher Young"
     , feedAuthorEmail = "chris@chrisyoung.net"
-    , feedRoot        = "http://chrisyoung.net/prose/blog"
+    , feedRoot        = "http://chrisyoung.net"
     }
 
 
