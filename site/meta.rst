@@ -5,7 +5,7 @@ title: Meta
 **Contact**
 
 Contact me at chris@chrisyoung.net. Find my resume `here
-</media/Christopher_Young_Resume_April_2013.pdf>`_
+</media/Christopher_Young_Resume_Sept_2013.pdf>`_
 
 **Disambiguation**
 
