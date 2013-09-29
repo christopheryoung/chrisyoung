@@ -4,9 +4,10 @@ tags: code
 ---
 
 My first language was Python. My current passion is for functional programming
-languages: Haskell, Clojure, and Erlang.
+languages, especially Haskell and Clojure.
 
-I've written code for small startups and for a large bank.
+I've written code for small startups, for a large investment bank, and now for
+a company that does computational bio-chemistry.
 
 My Github repo is `here <https://github.com/christopheryoung/>`_.
 
