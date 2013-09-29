@@ -49,7 +49,7 @@ class TestUnicodeMethods(TestCase):
         if meta.object_name not in no_unicode_method:
             objs = model.objects.all()
             for obj in objs:
-                `obj.__unicode__()`
+                obj.__unicode__()
 ```
 
 Obviously, if you have some fancy-schmancy `__unicode__` method, you'll want to give it a proper test of its own.  But this single test can be helpful, especially when you're getting your project off the ground.
