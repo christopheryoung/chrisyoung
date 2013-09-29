@@ -151,5 +151,3 @@ myFeedConfiguration = FeedConfiguration
     , feedAuthorEmail = "chris@chrisyoung.net"
     , feedRoot        = "http://chrisyoung.net"
     }
-
-
