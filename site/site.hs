@@ -29,24 +29,15 @@ main = hakyllWith siteConfig $ do
     -- Static pages
 
     match (fromList staticPages) $ do
-        route niceRoute
+        route $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
-            >>= removeIndexHtml
 
     addStaticDirectory "prose/essays/*"
     addStaticDirectory "etc/*"
 
     -- Blog
-    match "prose/blog/posts/*" $ do
-        route $ niceRoute
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/post.html"    postCtx
-            >>= loadAndApplyTemplate "templates/default.html" postCtx
-            >>= relativizeUrls
-            >>= removeIndexHtml
-            >>= saveSnapshot "content"
 
     match "prose/blog/posts/**.jpg" $ do
         route   idRoute
@@ -55,6 +46,14 @@ main = hakyllWith siteConfig $ do
     match "prose/blog/posts/**.png" $ do
         route   idRoute
         compile copyFileCompiler
+
+    match "prose/blog/posts/*" $ do
+        route $ setExtension "html"
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/post.html"    postCtx
+            >>= loadAndApplyTemplate "templates/default.html" postCtx
+            >>= relativizeUrls
+            >>= saveSnapshot "content"
 
     -- index functions as an archive, since we simply list all posts there
     match "prose/blog/index.html" $ do
@@ -66,7 +65,6 @@ main = hakyllWith siteConfig $ do
                 >>= applyAsTemplate indexCtx
                 >>= loadAndApplyTemplate "templates/default.html" postCtx
                 >>= relativizeUrls
-                >>= removeIndexHtml
 
     -- Feeds
 
@@ -100,11 +98,10 @@ copyDirectory dir = match dir $ do
 
 addStaticDirectory :: Pattern -> Rules ()
 addStaticDirectory matchPattern = match matchPattern $ do
-    route $ niceRoute
+    route $ setExtension "html"
     compile $ pandocCompiler
         >>= loadAndApplyTemplate "templates/default.html" defaultContext
         >>= relativizeUrls
-        >>= removeIndexHtml
 
 postCtx :: Context String
 postCtx = dateField "date" "%B %e, %Y" <> defaultContext
@@ -122,26 +119,6 @@ appendExtension extension page = page ++ "." ++ extension
 staticPages :: [Identifier]
 staticPages = map (fromFilePath . appendExtension "rst")
               ["meta", "prose", "etc", "code", "teaching"]
-
--- Thanks to: http://yannesposito.com/Scratch/en/blog/Hakyll-setup/
--- replace a foo/bar.md by foo/bar/index.html
--- this way the url looks like: foo/bar in most browsers
-niceRoute :: Routes
-niceRoute = customRoute createIndexRoute where
-    createIndexRoute ident =
-        takeDirectory p </> takeBaseName p </> "index.html" where
-            p = toFilePath ident
-
--- replace url of the form foo/bar/index.html by foo/bar
-removeIndexHtml :: Item String -> Compiler (Item String)
-removeIndexHtml item = return $ fmap (withUrls removeIndexStr) item
-
-removeIndexStr :: String -> String
-removeIndexStr url = case splitFileName url of
-    (dir, "index.html") | isLocal dir -> dir
-                        | otherwise   -> url
-    _                                 -> url
-    where isLocal uri = not (isInfixOf "://" uri)
 
 myFeedConfiguration :: FeedConfiguration
 myFeedConfiguration = FeedConfiguration
