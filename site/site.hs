@@ -15,6 +15,7 @@ main = hakyllWith siteConfig $ do
         compile copyFileCompiler
 
     copyDirectory "media/*"
+    copyDirectory "media/book_covers/*"
     copyDirectory "js/*"
     copyDirectory "classes/*"
     copyDirectory "fonts/*"
