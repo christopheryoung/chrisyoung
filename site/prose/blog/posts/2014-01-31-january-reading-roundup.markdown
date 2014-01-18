@@ -23,4 +23,18 @@ and they prefer it to the alternatives."
 
 ## Best of the Interwebs
 
-Steve on Business versus Consumer confidence
+Steve on Business versus Consumer confidence: stevereads.com/weblog/2014/01/10/business-confidence-how-about-middle-class-confidence/
+
+Schnier on how NSA: https://www.schneier.com/blog/archives/2014/01/how_the_nsa_thr.html
+
+Linda Holmes on joking about Chris Christie's weight:
+http://www.npr.org/blogs/monkeysee/2014/01/13/262076085/chris-christie-and-pulling-the-red-handle
+via http://upyernoz.blogspot.com/
+
+How the NYPD uses civil forfeiture
+http://gothamist.com/2014/01/14/nypd_civil_forfeiture.php
+
+
+http://www.outsidethebeltway.com/how-the-drug-war-disappeared-the-jury-trial
+
+http://prospect.org/article/want-predict-future-surveillance-ask-poor-communities
