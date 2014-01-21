@@ -44,3 +44,5 @@ http://gothamist.com/2014/01/14/nypd_civil_forfeiture.php
 http://www.outsidethebeltway.com/how-the-drug-war-disappeared-the-jury-trial
 
 http://prospect.org/article/want-predict-future-surveillance-ask-poor-communities
+
+http://www.npr.org/blogs/codeswitch/2013/12/03/248515217/why-chaucer-said-ax-instead-of-ask-and-why-some-still-do
