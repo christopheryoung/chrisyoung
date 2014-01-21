@@ -1,4 +1,10 @@
 
+## **Alasdair Roberts, *The End of Protest: How Free-Market Capitalism Learned
+     To Control Dissent***
+Finished: 1/13/2014
+
+[![The End of Protest](/media/book_covers/end_of_protest.jpg)](http://www.cornellpress.cornell.edu/book/?GCOI=80140100222390)
+
 
 ## **Paul Wells, *The Longer I'm Prime Minister: Stephen Harper and Canada, 2006-***
 Finished:
