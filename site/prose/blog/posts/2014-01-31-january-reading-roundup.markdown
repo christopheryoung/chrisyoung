@@ -1,48 +1,39 @@
+---
+title: January Reading
+---
 
-## **Alasdair Roberts, *The End of Protest: How Free-Market Capitalism Learned
-     To Control Dissent***
-Finished: 1/13/2014
+## **Alasdair Roberts, *The End of Protest: How Free-Market Capitalism Learned To Control Dissent***
 
 [![The End of Protest](/media/book_covers/end_of_protest.jpg)](http://www.cornellpress.cornell.edu/book/?GCOI=80140100222390)
 
 
-## **Paul Wells, *The Longer I'm Prime Minister: Stephen Harper and Canada, 2006-***
-Finished:
-
-[![The Longer I'm Prime Minister](/media/book_covers/longer_im_prime_minister.jpg)](http://www.powells.com/biblio/1-9780307361325-0)
-
-"Aristotle taught that character is defined by habitual action. There is no
-such thing as a good man who happens to do unjust things, Aristotle believed,
-because what a man does defines him. Indeed, Aristotle's prescription for
-virtue was simply to keep doing the sort of thing a virtuous man does. Modern
-specialists in political communication are an Aristotelian species." (p. 34)
-
-We better hope that no one plagiarizes this passage in a term paper.
-
-p. 44 - "This book seeks to explain Harpers's success as something more than an
-accident and his appeal as something more than a trick. My argument is that
-Harper wins elections because millions of people want somebody like him to be
-prime minister. They have a broad sense of who he is and what he wants to do,
-and they prefer it to the alternatives."
-
-
-
 ## Best of the Interwebs
 
-Steve on Business versus Consumer confidence: stevereads.com/weblog/2014/01/10/business-confidence-how-about-middle-class-confidence/
+Steve Laniel
+[objects to rhetorical appeals to business confidence in economic discourse](stevereads.com/weblog/2014/01/10/business-confidence-how-about-middle-class-confidence/).
 
-Schnier on how NSA: https://www.schneier.com/blog/archives/2014/01/how_the_nsa_thr.html
+Rob Schnier [explains how the NSA is a threat to national security](https://www.schneier.com/blog/archives/2014/01/how_the_nsa_thr.html).
 
-Linda Holmes on joking about Chris Christie's weight:
-http://www.npr.org/blogs/monkeysee/2014/01/13/262076085/chris-christie-and-pulling-the-red-handle
-via http://upyernoz.blogspot.com/
+As for the future of surveillance, Virginia Eubanks [argues that our current
+surveillance of marginalized groups gives us a glimpse at our own future](http://prospect.org/article/want-predict-future-surveillance-ask-poor-communities).
 
-How the NYPD uses civil forfeiture
-http://gothamist.com/2014/01/14/nypd_civil_forfeiture.php
+Linda Holmes
+[takes on jokes about Chris Christie's weight](http://www.npr.org/blogs/monkeysee/2014/01/13/262076085/chris-christie-and-pulling-the-red-handle)
+(via [Upernoz](http://upyernoz.blogspot.com/)).
 
+Max Rivlin-Nadler writes in The Gothamist about the NYPD's [abuse of civil forfeiture rules](http://gothamist.com/2014/01/14/nypd_civil_forfeiture.php).
 
-http://www.outsidethebeltway.com/how-the-drug-war-disappeared-the-jury-trial
+In more bad news from the War on Drugs, Brad Schlesinger writes about [the
+decline of the jury trial over the course of the war on drugs](http://www.outsidethebeltway.com/how-the-drug-war-disappeared-the-jury-trial).
 
-http://prospect.org/article/want-predict-future-surveillance-ask-poor-communities
+And finally,
+[a post](http://www.npr.org/blogs/codeswitch/2013/12/03/248515217/why-chaucer-said-ax-instead-of-ask-and-why-some-still-do)
+for anyone whoever axed themselves how Chaucer pronounced "ask".
 
-http://www.npr.org/blogs/codeswitch/2013/12/03/248515217/why-chaucer-said-ax-instead-of-ask-and-why-some-still-do
+## In Progress . . .
+
+Evelyn Waugh's **Sword Of Honour** series
+
+Paul Wells's **The Longer I'm Prime Minister: Stephen Harper and Canada, 2006-**
+
+Benjamin Pierce's **Types and Programming Languages**
