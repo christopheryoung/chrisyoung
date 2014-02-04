@@ -26,6 +26,8 @@ Max Rivlin-Nadler writes in The Gothamist about the NYPD's [abuse of civil forfe
 In more bad news from the War on Drugs, Brad Schlesinger writes about [the
 decline of the jury trial over the course of the war on drugs](http://www.outsidethebeltway.com/how-the-drug-war-disappeared-the-jury-trial).
 
+Tom Slee takes [a sceptical look at the sharing economy](https://www.jacobinmag.com/2014/01/sharing-and-caring/).
+
 And finally,
 [a post](http://www.npr.org/blogs/codeswitch/2013/12/03/248515217/why-chaucer-said-ax-instead-of-ask-and-why-some-still-do)
 for anyone whoever axed themselves how Chaucer pronounced "ask".
