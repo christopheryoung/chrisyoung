@@ -1,41 +1,44 @@
 ---
-title: January Reading
+title: Recent Reading: The End of Protest
 ---
 
 ## **Alasdair Roberts, *The End of Protest: How Free-Market Capitalism Learned To Control Dissent***
 
 [![The End of Protest](/media/book_covers/end_of_protest.jpg)](http://www.cornellpress.cornell.edu/book/?GCOI=80140100222390)
 
+Periodic convulsions seem to be in the nature of capitalist economies. The
+catastrophe of the Great Depression still looms so large in the popular
+imagination that it's easy to forget that it was only one of many busts to
+follow a boom. Collapse has always been accompanied by social upheaval,
+sometimes of sufficient intensity to shake the very foundations of the system.
+Our most recent economic catastrophe shuddered through the system in 2008, yet
+ popular unrest was muted in comparison to previous crises. Why?
 
-## Best of the Interwebs
+Aladair Roberts's *The End of Protest* is a look at this recent history through
+a broader historical lens. He identifies four general strategies governments
+might take to the social and economic upheaval: do nothing; repress protest;
+contain it; appease it, by retreating from free market principles. Capitalist
+governments have experimented with a mix of all four of these strategies at
+different times.
 
-Steve Laniel
-[objects to rhetorical appeals to business confidence in economic discourse](stevereads.com/weblog/2014/01/10/business-confidence-how-about-middle-class-confidence/).
+Looks back to Schumpeter. Schumpeter argued that capitalism was inherently
+unstable and warned, from the position of an advocate, that the flaw might
+prove fatal.
 
-Rob Schnier [explains how the NSA is a threat to national security](https://www.schneier.com/blog/archives/2014/01/how_the_nsa_thr.html).
 
-As for the future of surveillance, Virginia Eubanks [argues that our current
-surveillance of marginalized groups gives us a glimpse at our own future](http://prospect.org/article/want-predict-future-surveillance-ask-poor-communities).
 
-Linda Holmes
-[takes on jokes about Chris Christie's weight](http://www.npr.org/blogs/monkeysee/2014/01/13/262076085/chris-christie-and-pulling-the-red-handle)
-(via [Upernoz](http://upyernoz.blogspot.com/)).
+The development of neoliberalism:
 
-Max Rivlin-Nadler writes in The Gothamist about the NYPD's [abuse of civil forfeiture rules](http://gothamist.com/2014/01/14/nypd_civil_forfeiture.php).
+Myth of stable, efficient markets persisted up to 2008. The crisis proved that
+neoliberals "had vastly underestimated the potential for unrest that laid
+within the free-market model."
 
-In more bad news from the War on Drugs, Brad Schlesinger writes about [the
-decline of the jury trial over the course of the war on drugs](http://www.outsidethebeltway.com/how-the-drug-war-disappeared-the-jury-trial).
 
-Tom Slee takes [a sceptical look at the sharing economy](https://www.jacobinmag.com/2014/01/sharing-and-caring/).
 
-And finally,
-[a post](http://www.npr.org/blogs/codeswitch/2013/12/03/248515217/why-chaucer-said-ax-instead-of-ask-and-why-some-still-do)
-for anyone whoever axed themselves how Chaucer pronounced "ask".
+captures the ironies well. The neoliberal project of dismantling the social
+safety net has not been completely successful---lucky for the neoliberal
+project, since what remains of our safety net helped to contain unrest during
+the crisis.
 
-## In Progress . . .
 
-Evelyn Waugh's **Sword Of Honour** series
 
-Paul Wells's **The Longer I'm Prime Minister: Stephen Harper and Canada, 2006-**
-
-Benjamin Pierce's **Types and Programming Languages**
