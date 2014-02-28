@@ -11,3 +11,18 @@ consequences of those actions."
 Futility Closet writes about
 [probability and the law](http://www.futilitycloset.com/2014/02/12/justice-confused/).
 
+A
+[very satisfying post](http://www.theatlantic.com/education/archive/2014/02/-em-dead-poets-society-em-is-a-terrible-defense-of-the-humanities/283853/)
+at the Atlantic Monthly site explains at length why *The Dead Poets Society*
+was an awful movie.
+
+[Language Log](http://languagelog.ldc.upenn.edu/nll/) continues to provide
+excellent coverage of the way scientific results are presented, interpreted,
+remembered, and reported on, in
+[this post](http://languagelog.ldc.upenn.edu/nll/?p=1396) by Mark Liberman,
+which takes a closer look at a much cited 1978 paper in the field of social
+psychology.
+
+Corey Robin writes at Crooked Timber about how socialism [converts hysterical
+misery into ordinary unhappiness](http://crookedtimber.org/2014/02/14/death-and-taxes/).
+
