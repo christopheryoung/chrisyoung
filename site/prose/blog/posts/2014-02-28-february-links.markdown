@@ -26,3 +26,15 @@ psychology.
 Corey Robin writes at Crooked Timber about how socialism [converts hysterical
 misery into ordinary unhappiness](http://crookedtimber.org/2014/02/14/death-and-taxes/).
 
+Cathy O'Neill looks at a recent paper on the Credit Card Accountability
+Responsibility and Disclosure (CARD) Act (2009) in the United States and
+[concludes](http://mathbabe.org/2014/02/21/the-card-act-works/):
+
+> This data, and the results in this paper, fly directly in the face of the myth
+> that if you regulate away predatory fees in one way, they will pop up in
+> another way. That myth is based on the assumption of a competitive market with
+> informed participants. Unfortunately the consumer credit card industry, as well
+> as the small business card industry, is not filled with informed participants.
+> This is a great example of how asymmetric information causes predatory
+> opportunities.
+
