@@ -1,5 +1,5 @@
 ---
-title: February links
+title: February Links
 ---
 
 Mind Hacks makes a sensible point about
@@ -14,7 +14,7 @@ Futility Closet writes about
 A
 [very satisfying post](http://www.theatlantic.com/education/archive/2014/02/-em-dead-poets-society-em-is-a-terrible-defense-of-the-humanities/283853/)
 at the Atlantic Monthly site explains at length why *The Dead Poets Society*
-was an awful movie.
+sucked.
 
 [Language Log](http://languagelog.ldc.upenn.edu/nll/) continues to provide
 excellent coverage of the way scientific results are presented, interpreted,
