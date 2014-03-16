@@ -1,5 +1,6 @@
 ---
 title: Very Recent History
+date: 2014-03-31
 ---
 
 # Choire Sicha's Very Recent History: An Entirely Factual Account of a Year (c. AD 2009) in a Large City
