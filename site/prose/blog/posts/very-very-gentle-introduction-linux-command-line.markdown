@@ -1,5 +1,6 @@
 ---
 title: A very, very gentle introduction to the Linux Command Line
+date: 2009-11-28
 ---
 
 I recently set a friend of mine up with a fresh install of Ubuntu on her laptop.  Ubuntu is such a user friendly version of Linux that you can go a long way without having to touch the command line.  Still, I thought it would be good to give her a few tips about using the command line, since sooner or later she might end up needing it (say, at a web page that only tells her how to install software from the command line).  Anyway, it's fun and liberating to learn something new.  And then I thought I might as well post a tutorial here in case it helps someone else (even though there are already about a hundred thousand of them out there already).

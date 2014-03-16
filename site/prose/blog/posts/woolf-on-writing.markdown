@@ -1,5 +1,6 @@
 ---
 title: Woolf on Writing
+date: 2013-10-12
 ---
 
 > "Anyone moderately familiar with the rigours of composition will not need to

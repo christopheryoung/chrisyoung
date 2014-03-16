@@ -1,5 +1,6 @@
 ---
 title: Remove .pyc files as a step in the test process
+date: 2009-12-09
 ---
 
 I got burned the other day at work by a dangling .pyc file.  Although I had deleted the corresponding .py file, the tests failed to register that I was still importing it elsewhere because they were finding the .pyc file and running on their merry way.  We only found this because my boss and I were running the tests at the same time on different computers while chatting on IM, and he had properly deleted the .pyc file too.

@@ -1,5 +1,6 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
+import qualified Data.Map as M (lookup)
 import           Data.List (isInfixOf)
 import           Data.Monoid ((<>))
 import           Control.Monad (liftM)
@@ -60,8 +61,9 @@ main = hakyllWith siteConfig $ do
 
     -- Blog
     match "prose/blog/posts/*" $ do
-        route $ niceRoute
-        compile $ pandocCompiler
+        route $ metadataRoute niceDateRoute
+        compile $ do
+          pandocCompiler
           >>= loadAndApplyTemplate "templates/post.html"    postCtx
           >>= loadAndApplyTemplate "templates/default.html" postCtx
           >>= relativizeUrls
@@ -155,10 +157,19 @@ staticPages = map (fromFilePath . appendExtension "rst")
 -- replace a foo/bar.md by foo/bar/index.html
 -- this way the url looks like: foo/bar in most browsers
 niceRoute :: Routes
-niceRoute = customRoute createIndexRoute where
-    createIndexRoute ident =
-        takeDirectory p </> takeBaseName p </> "index.html" where
-            p = toFilePath ident
+niceRoute = customRoute $ createIndexRoute where
+  createIndexRoute ident =
+    takeDirectory p </> takeBaseName p </> "index.html" where
+      p = toFilePath ident
+
+-- This is niceRoute but grabs date metadata from the posts
+niceDateRoute :: Metadata -> Routes
+niceDateRoute md = customRoute $ createIndexRoute where
+  createIndexRoute ident =
+    takeDirectory p </> baseWithDate </> "index.html" where
+      p = toFilePath ident
+      baseWithDate = date ++ "-" ++ (takeBaseName p)
+      date = fromMaybe "" $ M.lookup "date" md
 
 -- replace url of the form foo/bar/index.html by foo/bar
 removeIndexHtml :: Item String -> Compiler (Item String)
