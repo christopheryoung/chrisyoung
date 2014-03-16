@@ -2,8 +2,11 @@
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.List (isInfixOf)
 import           Data.Monoid ((<>))
+import           Control.Monad (liftM)
+import           Data.Maybe (fromMaybe)
 import           Hakyll
 import           System.FilePath.Posix  (takeBaseName,takeDirectory,(</>),splitFileName)
+import           Text.Pandoc.Options (def)
 --------------------------------------------------------------------------------
 
 main :: IO ()
@@ -39,15 +42,31 @@ main = hakyllWith siteConfig $ do
     addStaticDirectory "prose/essays/*"
     addStaticDirectory "etc/*"
 
+    match "biblio/*.bib" $ compile $ biblioCompiler
+    match "biblio/*.csl" $ compile $ cslCompiler
+
+    -- Reading lists
+    match "reading/**.markdown" $ do
+      route   $ setExtension "html"
+      compile $ do
+        item <- getUnderlying
+        bibFile <- liftM (fromMaybe "files.bib") $ getMetadataField item "biblio"
+        cslFile <- liftM (fromMaybe "chicago.csl") $ getMetadataField item "csl"
+        let compiler = if bibFile /= "" then bibtexCompiler cslFile bibFile else pandocCompiler
+        compiler
+        >>= loadAndApplyTemplate "templates/default.html" defaultContext
+        >>= relativizeUrls
+        >>= removeIndexHtml
+
     -- Blog
     match "prose/blog/posts/*" $ do
         route $ niceRoute
         compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/post.html"    postCtx
-            >>= loadAndApplyTemplate "templates/default.html" postCtx
-            >>= relativizeUrls
-            >>= removeIndexHtml
-            >>= saveSnapshot "content"
+          >>= loadAndApplyTemplate "templates/post.html"    postCtx
+          >>= loadAndApplyTemplate "templates/default.html" postCtx
+          >>= relativizeUrls
+          >>= removeIndexHtml
+          >>= saveSnapshot "content"
 
     match "prose/blog/posts/**.jpg" $ do
         route   idRoute
@@ -76,6 +95,14 @@ main = hakyllWith siteConfig $ do
     makeBlogFeed "prose/blog/rss.xml" renderRss
 
 --------------------------------------------------------------------------------
+
+bibtexCompiler :: String -> String -> Compiler (Item String)
+bibtexCompiler cslFileName bibFileName = do
+    csl <- load (fromFilePath $ "" ++ "biblio/" ++ cslFileName)
+    bib <- load (fromFilePath $ "" ++ "biblio/" ++ bibFileName)
+    liftM writePandoc
+        (getResourceBody >>= readPandocBiblio def csl bib)
+
 myIgnoreFile :: FilePath -> Bool
 myIgnoreFile ".htaccess" = False
 myIgnoreFile path        = ignoreFile defaultConfiguration path
