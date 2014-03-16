@@ -1,5 +1,6 @@
 ---
 title: March links
+date: 2014-03-31
 ---
 
 Rortybomb writes about the the Black Panther's most alarming activity, from J.
