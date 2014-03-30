@@ -1,5 +1,5 @@
 ---
-title: Reading in Computational Stemmatology
+title: Readings in Computational Stemmatology
 date: 2014-01-01
 biblio: files.bib
 csl: chicago-manual-of-style-16th-edition-modified-full-note.csl
