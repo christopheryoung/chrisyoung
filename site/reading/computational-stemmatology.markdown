@@ -34,6 +34,10 @@ Glenn Most, who must never sleep:
 
 > @timpanaro2005genesis
 
+Other notable early work includes:
+
+> @housman1921application
+
 Introductions to the practice of textual criticism include:
 
 > @maas1958textual
@@ -45,11 +49,17 @@ worth reading, including the Maas, which is a little gem of a book summing up
 the hard won insights of a true master. The West has a deeper discussion of the
 phenomenon of contamination, if I recall, and is a great read too.
 
+Maas is as controversial as he is influential. For a review of the controversy
+and the influence, see Chapter 2 of
+
+> @bordalejo2003phylogeny
+
+which is also available [here](http://www.bordalejo.net/NYU/Chapter2.pdf).
+
 I have long been interested in reading this odd-sounding book, but haven't yet
 gotten my hands on a copy:
 
 > @timpanaro1976freudian
-
 
 # Computational Stemmatology
 
@@ -59,7 +69,7 @@ important in the development of modern phylogenetics:
 
 > @Buneman1971
 
-A triplet of papers by Flight in the early 1990s outline his own approach:
+A trio of papers by Flight in the early 1990s outline his own approach:
 
 > @flight1990many
 
@@ -105,6 +115,18 @@ These include, but are not limited to:
 
 > @spencer2004effects
 
+A number of resources for textual criticism are online:
+
+> [http://www.textualscholarship.org/](http://www.textualscholarship.org/]
+> (the source of some of the references on this page).
+
+> [Interedition](http://www.interedition.eu/)
+
+> [Centre for Manuscript Genetics](https://www.uantwerp.be/en/rg/centre-for-manuscript-genetics/)
+
+> [European Society for Textual Scholarship](http://www.textualscholarship.eu/)
+
+
 I list the remaining papers in this category in chronological order:
 
 > @silva1969identification
@@ -113,19 +135,35 @@ I list the remaining papers in this category in chronological order:
 
 > @gjessing1994stochastic
 
+> @robinson1996cladistic
+
 > @salemans2000building
+
+> @mooney2001stemmatic
+
+> @spencer2002greek
+
+> @spencer2003reliable
 
 > @howe2004parallels
 
 > @mink2004problems
 
+> @robinson2004making
+
 > @schmid2004genealogy
 
 > @spencer2004effects
 
+> @spencer2004article
+
+> @spencer2004representing
+
 > @eagleton2006copying
 
 > @bourdaillet2007practical
+
+> @windram2008dante
 
 > @andrews2009prolegomena
 
@@ -142,6 +180,17 @@ I list the remaining papers in this category in chronological order:
 > @howe2012responding
 
 > @andrews2013beyond
+
+# Tools
+
+Manuscripts often contain information that is both genealogically relevant and
+tricky to capture. A few works that address this side of the problem:
+
+> @maddison1997nexus
+
+The [Interedition Github page](https://github.com/interedition) contains a
+number of repositories for projects dealing with textual criticism, including
+especially the [collatex](https://github.com/interedition/collatex) project.
 
 # Phylogenetics
 
