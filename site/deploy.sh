@@ -1,3 +1,4 @@
+git push
 
 ghc --make site.hs
 
