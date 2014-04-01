@@ -34,9 +34,11 @@ Glenn Most, who must never sleep:
 
 > @timpanaro2005genesis
 
-Other notable early work includes:
+Other notable early work includes
 
 > @housman1921application
+
+which is a frontal attack on the mechanical aspects of Lachmann's method.
 
 Introductions to the practice of textual criticism include:
 
