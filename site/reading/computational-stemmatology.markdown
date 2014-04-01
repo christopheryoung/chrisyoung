@@ -201,6 +201,12 @@ The [Interedition Github page](https://github.com/interedition) contains a
 number of repositories for projects dealing with textual criticism, including
 especially the [collatex](https://github.com/interedition/collatex) project.
 
+[Juxta](http://www.juxtasoftware.org/) "is an open-source tool for comparing
+and collating multiple witnesses to a single textual work." Its source is
+available on github
+([desktop](https://github.com/performant-software/juxta-desktop), [web service](https://github.com/performant-software/juxta-service)).
+
+
 # Phylogenetics
 
 A rather mathematically demanding introduction to Phylogenetics is:
