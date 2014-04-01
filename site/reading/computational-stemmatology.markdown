@@ -91,7 +91,14 @@ A sensible first step in the development of algorithms and techniques for
 handling manuscript traditions is probably to generate artificial traditions to
 various specifications so that we can observe how well the techniques fare
 under different conditions (e.g., levels of contamination, mss loss, etc.).
-This is not an original idea, as the following papers make clear:
+
+This is not an original idea. A friend informs me that Pasquali mentions a
+scholar by the name of Kantorowicz who had the idea in 1912: "He asked a batch
+of his students to make copies of a Latin document, and his task was to edit it
+properly; his conclusion was to stress how fallible this process is." The idea
+has been carried forward in more recent work:
+
+as the following papers make clear:
 
 > @spencer2004phylogenetics
 
