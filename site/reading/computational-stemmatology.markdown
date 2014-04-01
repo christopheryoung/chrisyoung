@@ -96,9 +96,7 @@ This is not an original idea. A friend informs me that Pasquali mentions a
 scholar by the name of Kantorowicz who had the idea in 1912: "He asked a batch
 of his students to make copies of a Latin document, and his task was to edit it
 properly; his conclusion was to stress how fallible this process is." The idea
-has been carried forward in more recent work:
-
-as the following papers make clear:
+has been carried forward in more recent work, as the following papers make clear:
 
 > @spencer2004phylogenetics
 
