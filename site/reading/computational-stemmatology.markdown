@@ -39,6 +39,9 @@ Other notable early work includes
 > @housman1921application
 
 which is a frontal attack on the mechanical aspects of Lachmann's method.
+The other notable early attack on Lachmann is due to:
+
+> @bedier1970tradition
 
 Introductions to the practice of textual criticism include:
 
