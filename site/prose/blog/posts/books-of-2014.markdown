@@ -77,9 +77,7 @@ it looks good, and he was like, okay."
 "I'm going to take a vacation. I'm going to take like three days off next week.
 Whatever," John said.
 
-
 ## **Evelyn Waugh, *Sword of Honour***
-
 
 trilogy comprising . . . 
 shabbiness, with pockets of luxury. misery distributed very unevenly.
@@ -89,3 +87,85 @@ the changing conceptions of honour
 the horrors of the war are almost all far offstage
 
 End of Battle - p. 305b: sums it up.
+
+## **Donleavey, *The Ginger Man***
+
+[![The Ginger Man](/media/book_covers/ginger_man.jpg)](http://www.powells.com/biblio/61-9780802144669-0)
+
+## **Waldman, *The Love Affairs of Nathaniel P.***
+[![The Love Affairs of Nathaniel P.](/media/book_covers/love_affairs_of_nathaniel_p.jpg)](http://www.powells.com/biblio/1-9780805097450-1)
+
+## **Festinger, et. al., *When Prophesy Fails***
+[![When Prophesy Fails](/media/book_covers/when_prophesy_fails.jpg)]()
+
+## **Urasawa and Tezuka, *Pluto, Volumes 1-8***
+[![Pluto, Vol. 1](/media/book_covers/pluto_1.jpg)]()
+[![Pluto, Vol. 2](/media/book_covers/pluto_2.jpg)]()
+[![Pluto, Vol. 3](/media/book_covers/pluto_3.jpg)]()
+[![Pluto, Vol. 4](/media/book_covers/pluto_4.jpg)]()
+[![Pluto, Vol. 5](/media/book_covers/pluto_5.jpg)]()
+[![Pluto, Vol. 6](/media/book_covers/pluto_6.jpg)]()
+[![Pluto, Vol. 7](/media/book_covers/pluto_7.jpg)]()
+[![Pluto, Vol. 8](/media/book_covers/pluto_8.jpg)]()
+
+## **Mary Gaitskill, *Bad Behavior***
+[![Bad Behavior](/media/book_covers/bad_behavior.jpg)]()
+
+## **Ottaviani and Myrick, *Feynman***
+[![Feynman](/media/book_covers/feynman.jpg)]()
+
+## **Jeff Hawkins, *On Intelligence***
+[![On Intelligence](/media/book_covers/on_intelligence.jpg)]()
+
+## **Henry Fielding, *Joseph Andrews***
+[![Joseph Andrews](/media/book_covers/joseph_andrews.jpg)]()
+
+## **Lance Fortnow, *The Golden Ticket: P, NP, and the Search for the Impossible***
+[![The Golden Ticket](/media/book_covers/golden_ticket.jpg)]()
+
+Had been looking forward to book; a little disappointing.
+
+Moves too quickly over issues while lingering over other tangential issues
+A little sloppy in places.
+
+p.2: "A typical laptop can process about a trillion operations a second" (the
+correct number, a billion, is given on p. 33)
+
+p. 36: "Path, Trees and Flowers" should be Paths
+
+p. 83 has Novosibirsk  1750 miles *West* of Moscow (or "west" uncapitalized).
+
+p. 74: On halting problem: "no computer can look at some code of a program and
+determine whether the code will run forever or eventually halt"  That seems
+likely to mislead a beginner into thinking that there no program that could
+inspect *any* program and determine whether it will halt. But of course there
+are many, many programs that we can say will halt (e.g., print "hello world" in
+Python). We could write a simple program to detect loops and then say with
+confidence that such a program composed simply of non-looping statements will
+halt after the execution of the statements. It seems important to explain that
+we could always *craft* program input that will be impossible for a second
+program to settle whether it will halt in a finite amount of time. 
+
+p. 74 : "All programming languages are functionally equivalent, and all can
+compute exactly what can be computed by the simple Turing machine." The word
+"functionally" seems especially helpful here. Perhaps "effectively" would have
+done the trick better. The fact that "all programming languages" is unexplained
+is the real problem here. A beginning might wonder what makes a programming
+language a full fledged programming language. E.g., why, the beginnger might
+wonder, is html not a programming langauge but javascript is, when they both
+use a bunch of funny text? (A good answer is that a programming language is a
+fully fledged programming language when it is Turing complete, but now we've
+closed a very tight circle). Fortnow punts on this issue, but it's a shame
+since it matters to the book.
+
+Book has a good overview of the stakes in N=NP, and some nice expository
+passages.
+
+
+## **, * ***
+[![](/media/book_covers/.jpg)]()
+
+## **, * ***
+[![](/media/book_covers/.jpg)]()
+
+
