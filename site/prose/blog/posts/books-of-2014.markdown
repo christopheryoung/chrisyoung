@@ -162,10 +162,31 @@ Book has a good overview of the stakes in N=NP, and some nice expository
 passages.
 
 
-## **, * ***
+
+## **Michelle Alexander, *The New Jim Crow: Mass Incarceration in the Age of Colorblindness ***
 [![](/media/book_covers/.jpg)]()
 
-## **, * ***
+Mention in passing:
+http://www.addictinginfo.org/2014/06/07/billionaire-gets-off/
+
+
+## **Daniel Dennett, *Intuition Pumps and Other Tools For Thinking***
+
 [![](/media/book_covers/.jpg)]()
 
+Dennett eschews convention, including the convention about repeating your own
+zingers (I can never resist either).
+
+Much of Dennett's considerable firepower goes to attacking opponents for views
+I find implausible. It might be profess hazzard of a software developer, but I
+can't see what the mind might be besides some sort of fancy computing device.
+Dualism bonkers.
+
+I haven't read Dennett's "Darwin's Dangerous Idea," so I'm not sure. Even
+though he is only concerned to attack views I find stupid, and defend many
+views I find congenial, I suspect the focus might obscure other disagreements.
+One thing Dennett does not do is try to guard against the stupider blunders
+that naive but enthusiastic people who take themselves to be Darwinian do
+(extrapolative ev psych, social Darwinism, esp. naively drawing oughts from
+is's here).
 
