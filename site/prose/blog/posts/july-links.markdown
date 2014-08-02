@@ -30,7 +30,7 @@ drummer Vinnie Sperrazza has started a
 [blog](http://www.vinniesperrazza.org/blog). It's like sitting around the
 kitchen table and listening to him hold forth all over again! Here, for
 example, is a piece on
-[the tradition grip](http://www.vinniesperrazza.org/blog/2014/4/22/on-traditional-grip).
+[the traditional grip](http://www.vinniesperrazza.org/blog/2014/4/22/on-traditional-grip).
 Love it.
 
 William Deresiewicz implores you
