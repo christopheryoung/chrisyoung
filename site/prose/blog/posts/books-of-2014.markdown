@@ -161,18 +161,22 @@ since it matters to the book.
 Book has a good overview of the stakes in N=NP, and some nice expository
 passages.
 
+## **Jo Walton, *My Real Children***
+[![](/media/book_covers/my_real_children.jpg)](http://www.powells.com/biblio/1-9780765332653-2)
 
+## **Art Spiegelman, *The Complete Maus: A Survivors Tale***
+[![](/media/book_covers/complete_maus.jpg)](http://www.powells.com/biblio/1-9780679406419-0)
 
 ## **Michelle Alexander, *The New Jim Crow: Mass Incarceration in the Age of Colorblindness ***
-[![](/media/book_covers/.jpg)]()
+[![](/media/book_covers/new_jim_crow.jpg)](http://www.powells.com/biblio/1-9781595581037-20)
 
-Mention in passing:
-http://www.addictinginfo.org/2014/06/07/billionaire-gets-off/
+## **Charles Portis, *True Grit***
 
+[![](/media/book_covers/true_grit.jpg)](http://www.powells.com/biblio/1-9781590204597-3)
 
 ## **Daniel Dennett, *Intuition Pumps and Other Tools For Thinking***
 
-[![](/media/book_covers/.jpg)]()
+[![](/media/book_covers/intuition_pumps.jpg)](http://www.powells.com/biblio/1-9780393348781-6)
 
 Dennett eschews convention, including the convention about repeating your own
 zingers (I can never resist either).
@@ -189,4 +193,116 @@ One thing Dennett does not do is try to guard against the stupider blunders
 that naive but enthusiastic people who take themselves to be Darwinian do
 (extrapolative ev psych, social Darwinism, esp. naively drawing oughts from
 is's here).
+
+## **Thomas Geoghegan, *Which Side Are You On? Trying to Be For Labor When It's Flat on its Back***
+
+[![](/media/book_covers/which_side_are_you_on.jpg)](http://www.powells.com/biblio/61-9781565848863-2)
+
+## **Laurie Penny, *Unspeakable Things: Sex, Lies and Revolution***
+
+[![](/media/book_covers/.jpg)]()
+
+p. 2: "This is a book about love and sex in austerity, about gender under
+neoliberalism. 'Neoliberalism' refers to the attempt to reorganize society and
+the state on the basis of an ideal of 'the market'. Neoliberalism proclaims
+that the logic of business and money is the best determinant of human
+happiness."
+
+p. 5: "The feminism that has mattered to the media and made magazine headlines
+in recent years has been the feminism most useful to heterosexual, high-earning
+middle- and upper-middle-class white women. Public 'career feminists' have been
+more concerned with getting more women into 'boardrooms', when the problem is
+that there are altogether too many boardrooms, and none of them are on fire."
+
+-p. 60 tries to broaden the scope: "Feminism has never just been about
+ liberating women from men, but about freeing every human being from the
+ straightjacket of gender oppression. For the first time, men and boys as a
+ whole are starting to realize how profoundly messed up masculinity is---and to
+ ask how they might make it different."
+
+p. 75: two big secrets about traditional masculine power: "The first big secret
+is this: most men have never really been powerful. Throughout human history,
+the vast majority of men have had almost no structural power, except over women
+and children. In fact, power over women and children---technical and physical
+domininance wthin the sphere of one's own home---has been the sop offered to
+men who had almost no power outside of it." The second secret is that many men
+never fit the standard in the first place.
+
+p. 89: "Miley Cyrus is castigated for being a poor role model, but Justin
+Bieber can trash all the hotel rooms he likes. He's young. He'll learn."
+
+p. 100: "Let's be perfectly clear: we have created a society in which it is
+structurally difficult and existentially stressful for any male person not to
+behave like a complete and utter arsehole."
+
+-she stresses the non-zero sum nature of the interactions between men and
+ women.
+
+p. 122: "Sexual objectification doesn't get oppressive until it is done
+consistently, and to a specific group of people, and with no regard whatsoever
+paid to their humanity. Then it ceases to be about desire and starts to be
+about control. . . Structural sexual objection [sic] of women draws that
+instant out into an entire matrix of hurt. It tells us that women are bodies
+first, idealised, subservient bodies, and men are not."
+
+p. 195: on ev psych: "It's a eugenics of gender that would be seen for the
+throat-closingly vile propaganda it is were the tests being done on people of
+different races, ethnicities or sexual preferences. And yet these myths persist
+because they are soothing, comforting, because they provide a halfway rational
+basis for the prejudices that poison our society. . . Otherwise rational
+individuals cling to bad science to justify the . . . .in the same way that
+people once clung to religion to provide the same justification . . . This is,
+apart from anything else, a terrible misuse of a respected theory."
+
+-Writing is more passionate than focused (though occasionally comes into great
+ focus, as with the passage on sexual objectification). Impressionistic,
+ sweeping. Presenting the world as she sees it. Describing more than arguing.
+
+
+## **Annie Dillard, *Teaching a Stone to Talk: Expeditions and Encounters***
+
+[![](/media/book_covers/.jpg)]()
+
+p. 9 (Total Eclipse) - "It had been like dying, that sliding down the mountain
+pass. It had been like the death of someone, irrational, that sliding down the
+mountain pass and into the region of dread. It was like slipping into fever, or
+falling down that hole in sleep from which you wake yourself wimpering. We had
+crossed the mountains that day, and now we were in a strange place---a hotel in
+central Washington, in a town near Yakima. The eclipse we had traveled here to
+see would occur early the next morning."
+
+p. 24 (Total Eclipse) - "The mind wants to live forever, or to learn a very good reason why
+not. The mind wants the world to return its love, or its awareness; the mind
+wants to know all the world, and all eternity, and God. The mind's sidekick,
+however, will settle for two eggs over easy.
+"The dear, stupid body is as easily satisfied as a spaniel. And, incredibly,
+the simple spaniel can lure the brawling mind to its dish. It is everlastingly
+funny that the proud, metaphysically ambitious, clamoring mind will hush if you
+give it an egg."
+
+incantory, repetetive
+rueful, tricks of memory.
+
+p. 73 (In the Jungle): "The point of going somewhere like the Napo River in Ecuador is not to
+see the most spectacular anyting. It is simply to see what is there. We are
+here on the planet only once, and might as well get a feel for the place. We
+might as well get a feel for the fringes and hollows in which live is lived,
+for the Amazon basin, which covers half the continent, and for the life
+that---there, like anywhere else---is always and necessarily lived in detail:
+on the tributaries, in the riverside villages, scking this particular
+white-fleshed guava in this particular pattern of shade."
+
+Out of date on molecular genetics.
+
+- p.175 (Aces and Eights) : "A ripple of wind comes down from the woods and
+  across the clearing toward us. We see a wave of shadow and gloss where the
+  short grass bends and the cottage eaves tremble. It hits us in the back. It
+  is a single gust, a sport, a rogue breeze out of the north, as if some
+  reckless, impatient wind has bumped the north door open on its hinges and let
+  out this acre of scent familiar and forgotten, this cool scent of tundra, and
+  of November. Fall! Who authorized this intrusion? Stop or I'll shoot. It is
+  an entirely misplaced air---fall, that I have utterly forgotten, that could
+  be here again, <em>another</em> fall, and here it is only July. I thought I
+  was younger, and would have more time. The gust crosses the river and
+  blackens the water where it passes, like a finger closing slats."
 
