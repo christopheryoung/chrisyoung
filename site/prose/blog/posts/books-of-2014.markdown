@@ -306,3 +306,92 @@ Out of date on molecular genetics.
   was younger, and would have more time. The gust crosses the river and
   blackens the water where it passes, like a finger closing slats."
 
+## **Allen Shawn, *Wish I Could Be There: Notes From a Phobic Life***
+
+[![Allen Shawn's Wish I Could Be There](/media/book_covers/wish_i_could_be_there.jpg)]()
+
+p. 121: "The phobic not only becomes afraid of his own fearful thoughts but
+also unconsciously believes that those very thoughts will bring about changes
+in what happens. He believes, in a quasi-superstitious way, that because he is
+afraid of the highway, it is more likely that a traffic jam will occur while he
+is on it. (A very solipsistic view of life!) At the same time the actual
+feelings and ideas stirred by the phobic response are completely rational; they
+relate to the very real terrors of being a human being. And since they connect
+with the real, they make the places and circumstances that so readily stimulate
+them seem truly dangerous. Because of the associate powers of the mind, the
+flavors of truth---the truth of our mortality and of life's
+unpredictability---are folded into the dough of anticipatory and interpretive
+fantasy. The daily bread of phobics is a strange mix of deep truth and magical
+thinking."
+
+p. 134: "The cognitive behavioral therapists made a momentous discovery in the
+1980s, when they found that many people with agoraphobia and many specific
+phobias have a fear of the physical and psychological effects of fear which is
+stronger than their dread of the context in which they experience them. It
+meant that the task of cure can in some cases be simplified into demystifying
+fear, and learning not to aggravate its symptoms. After many years of being
+told so, I have finally begun to understand that the tangled thoughts
+accompanying my irrational fears are merely the sparks thrown off by the
+grinding machinery of panic when it has no external cause."
+
+## **Charles Bowden, *Down By the River: Drugs, Money, Murder, and Family***
+
+[![](/media/book_covers/.jpg)]()
+
+-p. 228: "The image in my head is always the same and hardly original since it
+ is an image that in some variation comes to visitors who seek facts in Mexico:
+ there is an onion, you keep peeling it to get to the center and when you get
+ to the center there is nothing there, nothing at all, and you are left with
+ this disorderly heap of peelings that now denies even the idea that it was
+ once an onion."
+
+-p. 258: "Carlos Salinas has his future sketched out as he approaches the end
+ of his six-year term. He is a top candidate to head the new World Trade
+ Organization. He is going on the board of the Dow Jones. He is celebrates in
+ the world press. Britain's *The Economist* concludes, 'Mr. Salinas has a claim
+ to be hailed as one of the great men of the twentieth century.' In 1992,
+ *Time* magazine almost made him Man of the Year. Henry Kissinger in 1993
+ offered that Salinas had 'quelled corruption and brought into office an
+ extraordinary group of young, highly trained technocrats. I know of no
+ government anywhere that is more competent.'"
+
+-p. 4: "There are things---the gulag of slave labor camps in the former Soviet
+ Union, the burning bodies of the Holocaust in Europe, the clanking chains of
+ human bondage in the United States---that intelligent and honest pepole know
+ occurred and yet grow weary of contemplating. The drug business is not like
+ such things. Beyond some songs, a few action-packed movies, the drug business
+ is never really acknowledged. Drugs may be the major American story of our
+ era, the thing that did more to alter behavior and law, that redistributed
+ income to the poor far more dramatically than any tinkering with tax codes,
+ that jailed more people and killed more people than any U.S. foreign policy
+ initiative since the Vietnam War. But this vital force, this full-tilt-boogie
+ economic activity, is absent from our daily consciousness and only surfaces
+ when discussed as a problem. And this problem is always placed on the other
+ side of town or the other side of a line or the other side of the river."
+
+-p. 7: "The official history is about the corruption of Mexico. The unwritten
+ history, or the one that is almost instantly erased, is about the corruption
+ of both nations. In this unwritten history, the drug merchants are almost the
+ only honest players: vicious, greedy, murderous, and candid about their
+ behavior. They are also the only real defenders of cutthroat capitalism since
+ they literally cut throats and employ people based on their talents and with
+ little regard to their sex, race, class, color, or religion. They are also one
+ of the few industries in the developing sectors of the earth that really do
+ redistribute income and do so at a level without parallel in the thousands of
+ assembly plants now employing the poor of the planet."
+
+======
+
+2015
+
+Irvine, A Guide to the Good Life
+
+* Keeps talking about 'evolutionary programming'. 
+
+* He can’t help that he doesn’t like spiders. “These examples suggest that Epictetus is wrong to include our impulses, desires, and aversions in the category of things over which we have complete control. They belong instead in the category of things over which we have some but not complete control, or, in some instances, in teh category of things over which we hae no control at all. But having said this, I should add that it is possible that something important has been lost in translation—that in speaking of impulses, desires, and aversions, Epicurus had in mind something different than we do.” This is a lost opportunity to go deeper.
+
+* Not as strong when he dips into examples.
+
+* E.g., He argues that Stoicism doesn’t mean we should be complacent about social injustices like slavery, even though slaves have the means of happiness in hand. This is actually controversial (see Kraut). But in any case, it seems to contract his later comments, misguided in my opinion, about ‘political correctness,’ which advises us to teach the disadvantaged better insults. I think that would be great, but this is a pretty inept handling of a complex issue, one that leaves readers who take it to hard worse off in their thinking about the subject.
+
+* E.g., The practical advice about sex also strikes me as simplifying a vastly complicated realm of human experience in a way that’s not all that helpful.
