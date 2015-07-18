@@ -34,6 +34,10 @@ Glenn Most, who must never sleep:
 
 > @timpanaro2005genesis
 
+The following book was kindly recommended to me by a correspondent:
+
+> @trovato2014everything
+
 Other notable early work includes
 
 > @housman1921application
@@ -137,7 +141,7 @@ A number of resources for textual criticism are online:
 > [European Society for Textual Scholarship](http://www.textualscholarship.eu/)
 
 
-I list the remaining papers in this category in chronological order:
+I list the remaining items in this category in chronological order:
 
 > @silva1969identification
 
@@ -192,6 +196,14 @@ I list the remaining papers in this category in chronological order:
 > @howe2012responding
 
 > @andrews2013beyond
+
+> @nassourou2013computer
+
+> @Hoenen:2015
+
+> @hoenen2015simulating
+
+> @hoenenlachmannian
 
 # Tools
 
