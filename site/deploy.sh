@@ -1,6 +1,6 @@
 git push
 
-ghc --make site.hs
+ghc --make Main.hs
 
 if [ $? -eq 0 ]
 then
