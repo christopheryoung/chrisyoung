@@ -1,8 +1,9 @@
-
 .DS_Store
 TAGS
 dist/*
 .hsenv
+site/Main*
+site/biblio/auto*
 site/_cache/*
 site/_site/*
 site/site.o
