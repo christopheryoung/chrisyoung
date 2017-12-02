@@ -1,5 +1,5 @@
 ---
-title: Welcome to "Notes and Queries: An Occasional Blog."
+title: Welcome to "Notes and Queries":" An Occasional Blog."
 date: 2009-06-29
 ---
 

@@ -1,11 +1,11 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
-import qualified Data.Map as M (lookup)
 import           Data.List (isInfixOf)
 import           Data.Monoid ((<>))
 import           Control.Monad (liftM)
 import           Data.Maybe (fromMaybe)
 import           Hakyll
+import           Hakyll.Core.Metadata (lookupString)
 import           System.FilePath.Posix  (takeBaseName,takeDirectory,(</>),splitFileName)
 import           Text.Pandoc.Options (def)
 --------------------------------------------------------------------------------
@@ -169,7 +169,7 @@ niceDateRoute md = customRoute $ createIndexRoute where
     takeDirectory p </> baseWithDate </> "index.html" where
       p = toFilePath ident
       baseWithDate = date ++ "-" ++ (takeBaseName p)
-      date = fromMaybe "" $ M.lookup "date" md
+      date = fromMaybe "" $ lookupString "date" md
 
 -- replace url of the form foo/bar/index.html by foo/bar
 removeIndexHtml :: Item String -> Compiler (Item String)
