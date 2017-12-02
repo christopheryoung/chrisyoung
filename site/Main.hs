@@ -110,7 +110,8 @@ myIgnoreFile ".htaccess" = False
 myIgnoreFile path        = ignoreFile defaultConfiguration path
 
 siteConfig :: Configuration
-siteConfig = defaultConfiguration { ignoreFile = myIgnoreFile }
+siteConfig = defaultConfiguration { ignoreFile = myIgnoreFile,
+                                    deployCommand = "bash deploy.sh"}
 
 makeBlogFeed :: Identifier ->
                 (FeedConfiguration -> Context String -> [Item String] -> Compiler (Item String)) ->
