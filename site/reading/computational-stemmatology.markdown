@@ -10,11 +10,13 @@ csl: chicago-manual-of-style-16th-edition-modified-full-note.csl
 What follows is a to-do list in the form of a (thin, unsatisfying)
 bibliographical essay. Watch this space: the essay will, circumstances
 permitting, grow over time as I collect references and record brief remarks on
-a few of them. I have a lot to add; it will take time to dump my private list
-of resources into something worthwhile; still longer to find more resources;
+a few of them. I have a lot to add and it will take time to dump my private list
+of resources into something worthwhile, still longer to find more resources,
 and even longer still to say anything sensible about them.
 Eventually---remember, circumstances permitting---this page may be of use to
 someone other than me.
+
+You can find all the references on this page collected at the bottom of this page. You can find my complete bibtex file [here](https://raw.githubusercontent.com/christopheryoung/chrisyoung/master/site/biblio/files.bib).
 
 If you see an especially glaring error or omission, please feel free to let me
 know at chris@chrisyoung.net.
@@ -33,6 +35,12 @@ in the following book, whose recent translation from the Italian we owe to
 Glenn Most, who must never sleep:
 
 > @timpanaro2005genesis
+
+Introductions to the practice of textual criticism include:
+
+> @maas1958textual
+
+> @west1973textual
 
 The following book was kindly recommended to me by a correspondent:
 
@@ -58,17 +66,16 @@ worth reading, including the Maas, which is a little gem of a book summing up
 the hard won insights of a true master. The West has a deeper discussion of the
 phenomenon of contamination, if I recall, and is a great read too.
 
-Maas is as controversial as he is influential. For a review of the controversy
+And I recently picked up this odd-sounding book, but haven't gotten around to it yet:
+
+> @timpanaro1976freudian
+
+Note that Maas is as controversial as he is influential. For a review of the controversy
 and the influence, see Chapter 2 of
 
 > @bordalejo2003phylogeny
 
 which is also available [here](http://www.bordalejo.net/NYU/Chapter2.pdf).
-
-I have long been interested in reading this odd-sounding book, but haven't yet
-gotten my hands on a copy:
-
-> @timpanaro1976freudian
 
 # Computational Stemmatology
 
@@ -78,7 +85,7 @@ important in the development of modern phylogenetics:
 
 > @Buneman1971
 
-A trio of papers by Flight in the early 1990s outline his own approach:
+A trio of papers by Flight in the early 1990s outlines his own approach:
 
 > @flight1990many
 
@@ -86,7 +93,7 @@ A trio of papers by Flight in the early 1990s outline his own approach:
 
 > @flight1994complete
 
-This work seems to have been mainly ignored in subsequent work on the subject.
+This work seems to have been mostly ignored in subsequent work on the subject.
 To do: check if this is the right attitude.
 
 An important early spur to the development of the field was a challenge issued
@@ -99,8 +106,7 @@ handling manuscript traditions is probably to generate artificial traditions to
 various specifications so that we can observe how well the techniques fare
 under different conditions (e.g., levels of contamination, mss loss, etc.).
 
-This is not an original idea. A friend informs me that Pasquali mentions a
-scholar by the name of Kantorowicz who had the idea in 1912: "He asked a batch
+This is not an original idea. A friend informs me that Pasquali mentions the Kantorowicz had the idea in 1912: "He asked a batch
 of his students to make copies of a Latin document, and his task was to edit it
 properly; his conclusion was to stress how fallible this process is." The idea
 has been carried forward in more recent work, as the following papers make clear:
@@ -128,6 +134,28 @@ These include, but are not limited to:
 > @wattel2004constructing
 
 > @spencer2004effects
+
+I list the remaining papers in this category in chronological order:
+
+> @silva1969identification
+
+> @o1993computer
+
+> @gjessing1994stochastic
+
+> @salemans2000building
+
+> @howe2004parallels
+
+> @mink2004problems
+
+> @schmid2004genealogy
+
+> @spencer2004effects
+
+> @eagleton2006copying
+
+> @andrews2009prolegomena
 
 A number of resources for textual criticism are online:
 
@@ -172,8 +200,6 @@ I list the remaining items in this category in chronological order:
 > @spencer2004article
 
 > @spencer2004representing
-
-> @eagleton2006copying
 
 > @bourdaillet2007practical
 
@@ -221,7 +247,6 @@ and collating multiple witnesses to a single textual work." Its source is
 available on github
 ([desktop](https://github.com/performant-software/juxta-desktop), [web service](https://github.com/performant-software/juxta-service)).
 
-
 # Phylogenetics
 
 A rather mathematically demanding introduction to Phylogenetics is:
@@ -236,6 +261,8 @@ without apparent sacrifice of mathematical rigour is:
 As the book's title suggests, its emphasis is on phylogenetic *networks* as
 opposed to simply *trees*, which should make it of special interest of
 stemmatologists.
+
+And speaking of phylogenetic networks, don't miss [The Genealogical World of Phylogenetic Networks](http://phylonetworks.blogspot.com/), a blog that is chock full of references and interesting posts.
 
 A random selection of papers I've come across follows, to be structured and commented on
 later:
