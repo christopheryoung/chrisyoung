@@ -1,5 +1,5 @@
 ---
-title: Miser: A Card Game
+title: Miser":" A Card Game
 ---
 
 **Description**

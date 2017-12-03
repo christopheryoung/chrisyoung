@@ -2,8 +2,12 @@
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.List (isInfixOf)
 import           Data.Monoid ((<>))
+import           Control.Monad (liftM)
+import           Data.Maybe (fromMaybe)
 import           Hakyll
+import           Hakyll.Core.Metadata (lookupString)
 import           System.FilePath.Posix  (takeBaseName,takeDirectory,(</>),splitFileName)
+import           Text.Pandoc.Options (def)
 --------------------------------------------------------------------------------
 
 main :: IO ()
@@ -39,15 +43,32 @@ main = hakyllWith siteConfig $ do
     addStaticDirectory "prose/essays/*"
     addStaticDirectory "etc/*"
 
+    match "biblio/*.bib" $ compile $ biblioCompiler
+    match "biblio/*.csl" $ compile $ cslCompiler
+
+    -- Reading lists
+    match "reading/**.markdown" $ do
+      route   $ setExtension "html"
+      compile $ do
+        item <- getUnderlying
+        bibFile <- liftM (fromMaybe "files.bib") $ getMetadataField item "biblio"
+        cslFile <- liftM (fromMaybe "chicago.csl") $ getMetadataField item "csl"
+        let compiler = if bibFile /= "" then bibtexCompiler cslFile bibFile else pandocCompiler
+        compiler
+        >>= loadAndApplyTemplate "templates/default.html" defaultContext
+        >>= relativizeUrls
+        >>= removeIndexHtml
+
     -- Blog
     match "prose/blog/posts/*" $ do
-        route $ niceRoute
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/post.html"    postCtx
-            >>= loadAndApplyTemplate "templates/default.html" postCtx
-            >>= relativizeUrls
-            >>= removeIndexHtml
-            >>= saveSnapshot "content"
+        route $ metadataRoute niceDateRoute
+        compile $ do
+          pandocCompiler
+          >>= loadAndApplyTemplate "templates/post.html"    postCtx
+          >>= loadAndApplyTemplate "templates/default.html" postCtx
+          >>= relativizeUrls
+          >>= removeIndexHtml
+          >>= saveSnapshot "content"
 
     match "prose/blog/posts/**.jpg" $ do
         route   idRoute
@@ -76,12 +97,21 @@ main = hakyllWith siteConfig $ do
     makeBlogFeed "prose/blog/rss.xml" renderRss
 
 --------------------------------------------------------------------------------
+
+bibtexCompiler :: String -> String -> Compiler (Item String)
+bibtexCompiler cslFileName bibFileName = do
+    csl <- load (fromFilePath $ "" ++ "biblio/" ++ cslFileName)
+    bib <- load (fromFilePath $ "" ++ "biblio/" ++ bibFileName)
+    liftM writePandoc
+        (getResourceBody >>= readPandocBiblio def csl bib)
+
 myIgnoreFile :: FilePath -> Bool
 myIgnoreFile ".htaccess" = False
 myIgnoreFile path        = ignoreFile defaultConfiguration path
 
 siteConfig :: Configuration
-siteConfig = defaultConfiguration { ignoreFile = myIgnoreFile }
+siteConfig = defaultConfiguration { ignoreFile = myIgnoreFile,
+                                    deployCommand = "bash deploy.sh"}
 
 makeBlogFeed :: Identifier ->
                 (FeedConfiguration -> Context String -> [Item String] -> Compiler (Item String)) ->
@@ -128,10 +158,19 @@ staticPages = map (fromFilePath . appendExtension "rst")
 -- replace a foo/bar.md by foo/bar/index.html
 -- this way the url looks like: foo/bar in most browsers
 niceRoute :: Routes
-niceRoute = customRoute createIndexRoute where
-    createIndexRoute ident =
-        takeDirectory p </> takeBaseName p </> "index.html" where
-            p = toFilePath ident
+niceRoute = customRoute $ createIndexRoute where
+  createIndexRoute ident =
+    takeDirectory p </> takeBaseName p </> "index.html" where
+      p = toFilePath ident
+
+-- This is niceRoute but grabs date metadata from the posts
+niceDateRoute :: Metadata -> Routes
+niceDateRoute md = customRoute $ createIndexRoute where
+  createIndexRoute ident =
+    takeDirectory p </> baseWithDate </> "index.html" where
+      p = toFilePath ident
+      baseWithDate = date ++ "-" ++ (takeBaseName p)
+      date = fromMaybe "" $ lookupString "date" md
 
 -- replace url of the form foo/bar/index.html by foo/bar
 removeIndexHtml :: Item String -> Compiler (Item String)

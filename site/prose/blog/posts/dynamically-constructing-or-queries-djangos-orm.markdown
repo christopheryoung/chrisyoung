@@ -1,5 +1,6 @@
 ---
 title: Dynamically Constructing "Or" Queries with Django's ORM
+date: 2009-12-06
 ---
 
 A quick point for people who are already familiar with Django's ORM.

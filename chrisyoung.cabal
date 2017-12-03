@@ -1,0 +1,31 @@
+name:                chrisyoung
+version:             0.1.0.0
+synopsis:            Personal Blog
+description:         Personal Website of Christopher Young
+homepage:            http://chrisyoung.net
+license:             MIT
+license-file:        LICENSE
+author:              Christopher Young
+maintainer:          chris@chrisyoung.net
+copyright:           MIT 
+category:            Web
+build-type:          Simple
+extra-source-files:  README.md
+cabal-version:       >=1.8
+
+executable chrisyoung
+  Hs-source-dirs: site
+  Main-is:        Main.hs
+  Ghc-options:    -Wall
+  -- other-modules:       
+  other-extensions:    OverloadedStrings
+  -- hs-source-dirs:      
+  Build-depends: 
+    base,      
+    binary, 
+    directory, 
+    filepath, 
+    hakyll,  
+    pandoc, 
+    process,
+    containers
