@@ -1,5 +1,6 @@
 ---
 title: Books of 2013
+date: 2014-01-12
 ---
 
 ## Books, Book, Books
