@@ -106,74 +106,84 @@ End of Battle - p. 305b: sums it up.
 ## **Festinger, et. al., *When Prophesy Fails***
 [![When Prophesy Fails](/media/book_covers/when_prophesy_fails.jpg)]()
 
+
 ## **Urasawa and Tezuka, *Pluto, Volumes 1-8***
-[![Pluto, Vol. 1](/media/book_covers/pluto_1.jpg)]()
-[![Pluto, Vol. 2](/media/book_covers/pluto_2.jpg)]()
-[![Pluto, Vol. 3](/media/book_covers/pluto_3.jpg)]()
-[![Pluto, Vol. 4](/media/book_covers/pluto_4.jpg)]()
-[![Pluto, Vol. 5](/media/book_covers/pluto_5.jpg)]()
-[![Pluto, Vol. 6](/media/book_covers/pluto_6.jpg)]()
-[![Pluto, Vol. 7](/media/book_covers/pluto_7.jpg)]()
-[![Pluto, Vol. 8](/media/book_covers/pluto_8.jpg)]()
+[![Pluto, Vol. 1](/media/book_covers/pluto_vol1.jpg)](http://www.powells.com/book/pluto-9781421519180/62-0)
+[![Pluto, Vol. 2](/media/book_covers/pluto_vol2.jpg)](http://www.powells.com/book/pluto-9781421519197/62-0)
+[![Pluto, Vol. 3](/media/book_covers/pluto_vol3.jpg)](http://www.powells.com/book/pluto-9781421519203/62-0)
+[![Pluto, Vol. 4](/media/book_covers/pluto_vol4.jpg)](http://www.powells.com/book/pluto-9781421519210/62-0)
+[![Pluto, Vol. 5](/media/book_covers/pluto_vol5.jpg)](http://www.powells.com/book/pluto-9781421525839/61-0)
+[![Pluto, Vol. 6](/media/book_covers/pluto_vol6.jpg)](http://www.powells.com/book/pluto-volume-6-9781421527215/62-0)
+[![Pluto, Vol. 7](/media/book_covers/pluto_vol7.jpg)](http://www.powells.com/book/pluto-volume-7-9781421532677/62-0)
+[![Pluto, Vol. 8](/media/book_covers/pluto_vol8.jpg)](http://www.powells.com/book/pluto-9781421533438/62-0)
+
+I found these pretty forgettable, but the problem is probably with me not the books. I read these back when I was trying to understand why people liked graphic novels, but I'm pretty visually stupid, so I think a lot of the value just goes over my head.
 
 ## **Mary Gaitskill, *Bad Behavior***
-[![Bad Behavior](/media/book_covers/bad_behavior.jpg)]()
+[![Bad Behavior](/media/book_covers/bad_behavior.jpg)](http://www.powells.com/book/bad-behavior-9781439148877/17-3)
+
+Great writing. Would read again.
 
 ## **Ottaviani and Myrick, *Feynman***
-[![Feynman](/media/book_covers/feynman.jpg)]()
+[![Feynman](/media/book_covers/feynman.jpg)](http://www.powells.com/book/feynman-9781596438279/62-0)
+
+This was a disappointment. There was nothing here that wasn't better covered in Feynman's own writings.
 
 ## **Jeff Hawkins, *On Intelligence***
 [![On Intelligence](/media/book_covers/on_intelligence.jpg)]()
 
+I picked this up on a whim after seeing Hawkins speak at Strange Loop (I hit "purchase" on the web page in the middle of the talk). His ideas seem interesting, but I haven't the faintest idea whether they're actually plausible.
+
 ## **Henry Fielding, *Joseph Andrews***
 [![Joseph Andrews](/media/book_covers/joseph_andrews.jpg)]()
+
+Fielding is wonderful. This is his gender-inverted take on Richardson's *Pamela*, a work that acted as a spur more than once to Fielding's satire. I plan to read this again soon, since I'm interested in everything that went on in British literature in that marvellous decade, the 1740s.
+
 
 ## **Lance Fortnow, *The Golden Ticket: P, NP, and the Search for the Impossible***
 [![The Golden Ticket](/media/book_covers/golden_ticket.jpg)]()
 
-Had been looking forward to book; a little disappointing.
+I had been looking forward to this book, and ended up finding it a little
+disappointing. Fortnow moves too quickly over some issues while lingering over
+tangential issues in other places. It's also unfortunately a little sloppy and
+could have been better proof read. E.g., on the second page he tells us that
+"[a] typical laptop can process about a trillion operations a second." The
+correct number, a billion, is given on p. 33. He has Novosibirsk 1750 miles
+*West* of Moscow (or "west", uncapitalized) on p. 83. Etc., etc.
 
-Moves too quickly over issues while lingering over other tangential issues
-A little sloppy in places.
+Even the halting problem gets a sloopy statement: "no computer can look at some
+code of a program and determine whether the code will run forever or eventually
+halt." Fortnow means that we cannot write a general purpose program that could
+determine whether an arbitrary second program will halt, but the statement
+might mislead a beginner into thinking that we could never tell of any program
+whether it will halt. Of course it is trivially easy to determine of *some*
+programs that they will halt. It would have been worth explaining that we could
+always *craft* program input that will be impossible for a second program to
+settle whether it will halt in a finite amount of time.
 
-p.2: "A typical laptop can process about a trillion operations a second" (the
-correct number, a billion, is given on p. 33)
+On p. 74, Fortnow writes "All programming languages are functionally
+equivalent, and all can compute exactly what can be computed by the simple
+Turing machine." The word "functionally" seems especially helpful here. Perhaps
+"effectively" would have done the trick better. The fact that "all programming
+languages" is unexplained is the real problem here. A beginning might wonder
+what makes a programming language a full fledged programming language. E.g.,
+why, the beginnger might wonder, is html not a programming langauge but
+javascript is, when they both use a bunch of funny text? (A good answer is that
+a programming language is a fully fledged programming language when it is
+Turing complete, but now we've closed a very tight circle). Fortnow punts on
+this issue, but it's a shame since it matters to the book.
 
-p. 36: "Path, Trees and Flowers" should be Paths
-
-p. 83 has Novosibirsk  1750 miles *West* of Moscow (or "west" uncapitalized).
-
-p. 74: On halting problem: "no computer can look at some code of a program and
-determine whether the code will run forever or eventually halt"  That seems
-likely to mislead a beginner into thinking that there no program that could
-inspect *any* program and determine whether it will halt. But of course there
-are many, many programs that we can say will halt (e.g., print "hello world" in
-Python). We could write a simple program to detect loops and then say with
-confidence that such a program composed simply of non-looping statements will
-halt after the execution of the statements. It seems important to explain that
-we could always *craft* program input that will be impossible for a second
-program to settle whether it will halt in a finite amount of time.
-
-p. 74 : "All programming languages are functionally equivalent, and all can
-compute exactly what can be computed by the simple Turing machine." The word
-"functionally" seems especially helpful here. Perhaps "effectively" would have
-done the trick better. The fact that "all programming languages" is unexplained
-is the real problem here. A beginning might wonder what makes a programming
-language a full fledged programming language. E.g., why, the beginnger might
-wonder, is html not a programming langauge but javascript is, when they both
-use a bunch of funny text? (A good answer is that a programming language is a
-fully fledged programming language when it is Turing complete, but now we've
-closed a very tight circle). Fortnow punts on this issue, but it's a shame
-since it matters to the book.
-
-Book has a good overview of the stakes in N=NP, and some nice expository
-passages.
+That said, the book has a good overview of the stakes in the N=NP debate, and
+some nice expository passages.
 
 ## **Jo Walton, *My Real Children***
 [![](/media/book_covers/my_real_children.jpg)](http://www.powells.com/biblio/1-9780765332653-2)
 
+Haunting and though-provoking.
+
 ## **Art Spiegelman, *The Complete Maus: A Survivors Tale***
 [![](/media/book_covers/complete_maus.jpg)](http://www.powells.com/biblio/1-9780679406419-0)
+
 
 ## **Michelle Alexander, *The New Jim Crow: Mass Incarceration in the Age of Colorblindness ***
 [![](/media/book_covers/new_jim_crow.jpg)](http://www.powells.com/biblio/1-9781595581037-20)
