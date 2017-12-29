@@ -1,0 +1,26 @@
+---
+title: Back
+date: 2017-12-28
+---
+
+It's been more than three years since I posted here. The hiatus began when I
+was busy, and continued because I was too busy and too tired to simultaneously
+figure out how I had borked the hsenv I was using to run Hakyll to build this
+site and upgrade from Hakyll version 3 to 4. After much dithering and
+procrastinating upgrading Hakyll and switching to use stack instead of hsenv
+turned out to be <a
+href="https://github.com/christopheryoung/chrisyoung/commit/f7faeee58d4c4b30747db3f42c81639421acbeda">trivial</a>.
+
+Excited by how easy this was, I turned to the database dump I had from my old,
+now defunct, group blog, explananda. I wasn't able to get that database
+cooperating with a local installation of WordPress, so I wrote a little Python
+script to query the database and then format the posts in a Hakyll-friendly
+way. I then sat down and read some of the posts. Painful! My writing from that
+period is mostly excruciating to read, so I imported just a few of the
+thousands of posts I wrote for the old site, and marked them as such. Going
+back over old posts, it was the comments that I really enjoyed and that, sparse
+as they usually were, gave the blog its life and the little value it had. Oh
+well.
+
+And I'm back! Now that I once again have a place to write, I'll try to make an
+effort to do it once in a while.

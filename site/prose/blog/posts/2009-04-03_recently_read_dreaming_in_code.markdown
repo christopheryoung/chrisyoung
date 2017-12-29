@@ -1,0 +1,21 @@
+---
+{date: '2009-04-03', explananda: '', title: 'Recently read: Dreaming in Code'}
+
+---
+<strong>Scott Rosenberg. <em>Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software</em></strong>
+
+A few years ago, I saw an announcement about a revolutionary new program that promised to change the way we manage our digital lives.  We often keep to do lists in one program, manage our email with another, handle our schedules with a third, and so on.  But what if---oh, what if indeed!---all these functions and more were gathered into a single program that made swapping information between these different spheres seamless and easy?  What if an incoming email could be turned into a to do item as it arrived and then attached to a date in your calendar?  (What?  You can do that now in Gmail?  Remember that this was a few years ago, and Gmail still lay in the future.)  Cool!  And this project was open source!  It was being developed under the leadership of a software veteran, Mitch Kapor, who made a fortune on Lotus 1-2-3, and was now helping to bankroll the project out of the goodness of his very good heart.  It sounded to me like all kinds of awesome.
+
+But when I checked out the actual program, called "Chandler," it quickly became clear that the project was still in its infancy.  Indeed, it carried a warning that you should not under any circumstances trust it with important information.  When I downloaded and installed it out of curiosity anyway, I quickly realized that the warning wasn't just a modest cover-your-ass disclaimer.  Chandler was buggy and incredibly slow.
+
+After that, every once in a while---especially when trying to organize my digital life---I would wonder what happened to the project that promised to change everything.  But whenever I did check it out, Chandler seemed to have made little progress since I last looked.  I would wonder idly what was going on, and then move on.
+
+And now I know what was going on, because the project had a chronicler, Scott Rosenberg, who followed it for three years and then wrote a book about it.  <em>Dreaming in Code</em> is about the many setbacks, delays, dead-ends, and minor triumphs that took the project from a glimmer in Kapor's eye to . . . well, not to the release of a polished product, unfortunately.  By the time Rosenberg gave up waiting and published his book in 2007 the project still wasn't complete.  (The 1.0 release didn't actually happen until the end of 2008.)
+
+<em>Dreaming in Code</em> uses the story of Chandler to explore larger questions about software development.  It asks why software is so hard to write, often so buggy, and why software projects are so plagued by cost overruns and scheduling disasters.  Of course most human projects of even modest complexity are radically imperfect.  But each branch of human endeavor has its own special difficulties, and software design is not an exception.
+
+Software developers may find the book interesting, but they should be prepared to wade through a lot of background material that Rosenberg needs to assemble in order to make this story accessible to non-programmers.  This is not the most elegant book ever written, but the story moves along at a decent clip, especially considering that the story is often about the lack of progress with Chandler, and it does a reasonable job of conveying its central message: that software setbacks and disasters happen to even the smartest and most hardworking of us.
+
+As for Chandler, you can see for yourself at http://chandlerproject.org how it turned out (UPDATE 2017-12-28, not anymore you can't, since the link is now dead).  It seems a bit slow on start up, and it still lacks many of the features originally imagined for it all those years ago, but it looks nice and runs on Mac, Windows and Linux.
+
+As for me, I've since migrated most of my stuff (email, calendar, etc.) to web services like gmail.  I'm not completely happy with that solution: gmail has legendarily bad customer support if something goes wrong, and it's not open source, so I can't look at the code and learn from it the way I could with Chandler, or customize it in ways not imagined by its creators, the way I can with emacs.  So for now, I'm still dreaming of the perfect solution to my digital disorganization.

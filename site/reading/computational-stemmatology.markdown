@@ -117,8 +117,6 @@ has been carried forward in more recent work, as the following papers make clear
 
 > @roos2009evaluating
 
-See also the discussion [here](http://scribalculture.org/weblog/2010/12/27/artificial-textual-traditions/).
-
 A trove of interesting papers can be found in:
 
 > @van2004studies

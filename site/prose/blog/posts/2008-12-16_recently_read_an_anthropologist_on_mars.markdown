@@ -1,0 +1,18 @@
+---
+{date: '2008-12-16', explananda: '', title: 'Recently read: An Anthropologist on Mars'}
+
+---
+<strong>Oliver Sacks. <em>An Anthropologist on Mars: Seven Paradoxical Tales</em></strong>
+
+Some of the greatest insights into the normal functioning of the human mind have come from the investigation of strange and unusual breakdowns and disruptions in normal functioning.  Take, for example, the phenomenon of <a href="http://en.wikipedia.org/wiki/Blindsight">blindsight</a>.  Someone afflicted by blindsight will experience herself as blind, and claim not to be able to see anything in front of her, but if forced to guess about the identity of an object in her visual field, will be able to more or less accurately identify it.  (People with blindsight don't always get it right.  But they get it right more than could be explained by chance.)  Blindsight hints at features of visual processing that might have taken much longer to unravel if we confined our attention to normal cases of visual perception.  It suggests, among other things, that visual processing  takes place along multiple paths; that those paths are not just distinct, but separable; that some of them are not available to conscious reflection. 
+
+Oliver Sacks has done more than anyone else to bring discussion of odd neurological edge cases into public awareness.  It's easy to imagine a parallel universe with an equally successful but much crappier version of Sacks.  The cases he discusses are so strange, and so intrinsically interesting, that a much lesser writer could make them good enough to do quite well for himself.  Luckily, we live in a universe in which our Sacks is interested in more than putting on a freak show.  His case studies are historically and philosophically informed meditations that circle around a problem, often not content to simply slap labels or jump to quick conclusions.
+
+And so in <em>An Anthropologist on Mars</em> Sacks uses disorders of various kinds to explore themes of much more general interest.  In his first essay, for example, Sacks uses the case of a painter suddenly struck with complete colourblindness to explore the complex relationship between different aspects of visual perception, as well as the possibilities for regeneration and renewal in a person when a faculty absolutely central to self-identity is suddenly and irreversibly crippled.  
+
+Sacks tells us in the preface that his essays in the collection are unified by a theme: 
+<blockquote>These are tales of survival, survival under altered, sometimes radically altered, conditions---survival made possible by the wonderful (but sometimes dangerous) powers of reconstruction and adaptation we have.  In earlier books I wrote of the 'preservation' of self, and (more rarely) of the 'loss' of self, in neurological disorders.  I have to [sic?] come to think these terms too simple---and that there is neither loss nor preservation of identity in such situations, but, rather, its adaption, even its transmutation, given a radically altered brain and 'reality.'</blockquote>
+This seems to me a much better description of some of the cases discussed in the book than others.  It fits very well Sacks' discussion of the painter mentioned above, or his discussion of Temple Grandin, an autistic professor of Animal Science (whose book is on my reading list).  But it was hard for me to see how an essay ("The Last Hippie") about a brain damaged man with a severe memory disorder fit this theme.
+
+This collection of essays is a bit dated - it was published in 1995.  But it's been on the shelf for ages, and I've only now gotten around to it.  I'm looking forward to Sacks' <em>Musicophilia</em>.
+

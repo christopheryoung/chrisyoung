@@ -1,0 +1,10 @@
+---
+{date: '2008-05-27', explananda: '', title: 'Recently read: Daniel Radosh''s <em>Rapture
+    Ready!</em>'}
+
+---
+<strong>Daniel Radosh.  <em>Rapture Ready!  Adventures in the Parallel Universe of Christian Pop Culture</em></strong>
+
+Daniel Radosh may have questionable taste in blogs --- we're currently on <a href="http://www.radosh.net/">his blogroll</a> (though misspelled, as usual) --- but it seems he has redeeming qualities as well.  Some of them are on display in <em>Rapture Ready!</em>, his exploration of, well, you already read the subtitle.  Actually, the subtitle of the book is a bit misleading.  Radosh confines himself mainly to white evangelicals.  As quickly becomes clear, although white evangelicals are only a subset of American Christian culture, it's an extraordinarily complex subset, with material enough for a much longer book than Radosh ended up writing.
+
+From my point of view, Radosh is a nearly ideal writer for this material.  For starter's, there's his own attitude to religion.  He practices "Humanistic Judaism," meaning that he "embrace[s] Judaism as a human development that grants meaning to human lives, without reference to the supernatural."  So, he says, "I belong to a congregation, I study the Hebrew Bible, I go to services with my family and light candles on Friday nights."  What this means in practice is that Radosh writes as an outsider to the world he's documenting in fairly significant ways, but that he's open - more open than I tend to be as an atheist - to at least some of what he finds there.  This mix of scepticism and sympathy makes the book much more than it could have been, simply an opportunity to laugh at the sillier manifestations of Christian pop culture.  To be sure Radosh does poke some fun.  He gets angry too, and on pretty much the right issues.  But the reader comes away with a much fuller sense of the complexity of this world, which, like the secular world, has some room for intelligence, doubt, left-wing politics, and more.  Not bad at all.

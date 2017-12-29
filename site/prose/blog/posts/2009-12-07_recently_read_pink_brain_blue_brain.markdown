@@ -1,0 +1,11 @@
+---
+{date: '2009-12-07', explananda: '', title: 'Recently read: Pink Brain, Blue Brain'}
+
+---
+<strong>Lise Eliot. <em>Pink Brain, Blue Brain: How Small Differences Grow into Troublesome Gaps---And What We Can Do About It</em></strong>
+
+Lise Eliot's <em>Pink Brain, Blue Brain</em> is about gender differences and their causes.  The main outlines of the book can be summarized fairly quickly: Much popular journalism about gender differences is really awful.  Journalists often present the conclusions of poorly designed studies about gender differences as fact; misrepresent good studies; or represent good studies well, but without noting the existence of conflicting evidence in the scientific literature.  Eliot, a professor of neuroscience, is able to pick her way through this terrain in a surer way.  She examines the biological roots of the predispositions that do tend to differ in males and females, pausing frequently to discuss the scientific evidence supporting her claims.  The differences are sometimes real.  But Eliot argues that they're often much smaller than you would think on the basis of popular reporting.  
+
+Small original differences, however, can lead to large gaps at the end of a process of development, partly because of the influence of culture, and partly because real innate dispositions, even weak ones, shape behaviour.  The remarkable plasticity of the developing brain means that spending a lot of time engaged in certain kinds of activities shapes further development along the same lines.  A slight predisposition to engage in games that are especially effective at developing a facility with spatial concepts, for example, can have a big influence on performance in math class years later.  
+
+Boys and girls can be disadvantaged in different ways by this, since it leads many individuals of each sex to under-develop important cognitive and emotional skills at a time in their lives when their brains are most able to absorb new skills.  The good news, however, is that parents and teachers can intervene in all sorts of ways to correct for this.  Eliot's eminently sensible goal is adults who have a decent blend of traits that are stereotypical for each sex: assertiveness, empathy, etc.  Her book has good practical advice about this, and an interesting, readable discussion of the science underpinning those recommendations.

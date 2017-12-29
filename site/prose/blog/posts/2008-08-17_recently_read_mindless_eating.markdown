@@ -1,0 +1,11 @@
+---
+{date: '2008-08-17', explananda: '', title: 'Recently read: "Mindless Eating"'}
+
+---
+<strong>Brian Wansink's <em>Mindless Eating: Why We Eat More than We Think</em></strong>
+
+There's so much about our own eating habits that escapes us, particularly when it comes to the factors that influence the quantity of food we consume.  Although many of us think that how full we are has a lot to do with when we stop eating a meal, it turns out that we're influenced by considerably more than that feeling of fullness.  We tend to eat more when our food is framed in certain ways, for example, in larger plates.  We drink more from short, wide cups than tall, thin ones.  We eat more in larger groups because of a tendency to continue eating (or at least pecking away) until everyone is finished.  You can feed people with no short term memory a full dinner about 30 minutes after they've just finished eating, and most will eat the entire thing with no objection.  They're eating because the external cues suggest that it's time to eat, and not because they're hungry.    
+
+Brian Wansink's <em>Mindless Eating</em> is an entire book about the influences that work on us, under our awareness, when we eat.  Wansink studies these at Cornell, where he is a professor of Marketing and Nutritional Science.  This book is a popular presentation of his more academic work, much of which takes place in his "lab," which includes a mock restaurant where lucky test subjects eat under close scrutiny.
+
+Before I started this book, I assumed that Wansink's main recommendation would be to try to eat more mindfully.  And it's true that Wansink does suggest things that we ought to be aware of as we purchase, prepare, present, and consume our food.  But Wansink is too impressed with the evident difficulty that most of us have in remaining sensitive to all the forces acting on our food choices to be content with simply recommending mindfulness.  Rather, the same mindless eating patterns that cause us to overeat and to eat badly can be brought into the service of healthier diets.  So: buy smaller plates, and you'll eat less without noticing it.  Drink from tall, thin glasses, and you'll drink less without noticing it.  And so on.  These are just a few examples, of course.  The book is full of them, and if you're interested in this subject, it's worth checking out.

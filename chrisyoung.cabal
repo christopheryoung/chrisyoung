@@ -7,7 +7,7 @@ license:             MIT
 license-file:        LICENSE
 author:              Christopher Young
 maintainer:          chris@chrisyoung.net
-copyright:           MIT 
+copyright:           MIT
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md
@@ -16,16 +16,19 @@ cabal-version:       >=1.8
 executable chrisyoung
   Hs-source-dirs: site
   Main-is:        Main.hs
-  Ghc-options:    -Wall
-  -- other-modules:       
+  Ghc-options:    -Wall -fno-warn-orphans
+  -- other-modules:
   other-extensions:    OverloadedStrings
-  -- hs-source-dirs:      
-  Build-depends: 
-    base,      
-    binary, 
-    directory, 
-    filepath, 
-    hakyll,  
-    pandoc, 
+  -- hs-source-dirs:
+  Build-depends:
+    hashable,
+    unordered-containers,
+    base,
+    binary,
+    containers,
+    directory,
+    filepath,
+    hakyll,
+    pandoc,
     process,
-    containers
+    time

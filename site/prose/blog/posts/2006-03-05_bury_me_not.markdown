@@ -1,0 +1,17 @@
+---
+{date: '2006-03-05', explananda: '', title: Bury Me Not}
+
+---
+As regular readers know, <a href="http://www.yoonsunchoi.com">Yoon</a> and <a href="http://bob-net.com/gallery/Halloweener-05/JSaks">Jacob Sacks</a> have a music series at the <a href="http://www.5ccc.com/">5C Cafe</a> in the East Village.  The first Friday of most months they're joined by a guest musician.  (Past guests include: Andrew Bishop, Judith Berkson, <a href="http://www.jacobgarchik.com/">Jacob Garchik</a>, Mat Maneri, <a href="http://www.mikemcginnis.com/">Mike McGinnis</a>, <a href="http://www.benmonder.com/">Ben Monder</a>, Thomas Morgan, <a href="http://www.eivindopsvik.com/">Eivind Opsvick</a>, <a href="http://www.angelicasanchez.com/">Angelica Sanchez</a>, and <a href="http://www.downtownmusic.net/pictures/showpicturerhtml/59360918001/default.htm">Khabu Doug Young</a>.)
+
+Yoon and Jacob have a fairly diverse repertoire consisting of standards, original music, folk songs, children's songs and whatever.  They also play free sometimes.  Anyway, as a devoted husband I make it to almost all the shows, and so I would be bored stiff by now if not for two things.  First, each guest brings out something completely different in Yoon and Jacob's playing.  Second, the two of them just <i>hate</i> playing anything twice the same way.  As soon as one of them seems to be going into a rut or playing something familiar, the other will deliberately fuck them up completely and then they'll be racing off on some cool tangent.
+
+I've wanted to illustrate this point with an audio file for a while now, but Yoon is petrified of breaking copyright law.  But now I've got two versions of a traditional Canadian folk song called "Bury Me Not," so there are no copyright problems involved in posting them.  (So the only thing Yoon can complain about now is her intonation problem on the tunes, which really isn't all that bad.  She seems to feel honour-bound to shriek in horror at most recordings.)
+
+These mp3s were recorded a month apart, with different guests.  The recording quality sucks and there's talking in the background, but if you turn up the sound and close your eyes, you'll get the general idea.
+
+Listen to <a href="/media/explananda/Burymenot-03-2006.mp3">this one</a> first, even though it was recorded second.  The song is called "Bury Me Not."  It's terribly sad and beautiful, and their guest, <a href="http://www.mikemcginnis.com/">Mike McGinnis</a> (on clarinet), does a wonderful job of catching that mood and heightening it.  Although Yoon and Jacob never play this the same way, this is certainly much closer to the way that they usually play it, and it's also roughly what you would expect for a tune of this sort.
+
+Now <a href="/media/explananda/Burymenot-02-2006.mp3">here they are</a> playing the same piece with <a href="http://www.jacobgarchik.com/">Jacob Garchik</a> (on trombone) the month before.  I think Garchik had heard them perform the piece before, got bored, and made up his mind to do something completely different.  He starts off the piece, and Yoon and Jacob Sacks quickly pick up his idea and develop it for the rest of the tune.  The plinky sound on the piano is produced by laying a sheet of paper across the strings.
+
+Now don't you feel like a perfect horse's ass for failing to buy both the <a href="http://cdbaby.com/cd/yoonjacob">duo album</a> and the <a href="http://www.4inobjects.com/">quintet album</a>?  Well, don't you?

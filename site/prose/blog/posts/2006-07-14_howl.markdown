@@ -1,0 +1,13 @@
+---
+{date: '2006-07-14', explananda: '', title: Howl}
+
+---
+A theme I see pursued occasionally on academic blogs like <a href="http://crookedtimber.org/">Crooked Timber</a> or <a href="http://weblogs.swarthmore.edu/burke/">Timothy Burke's site</a> is openness in research and teaching.  I think <a href="http://montejohnson.googlepages.com/protrepticus">this page</a>, set up by Monte Johnson to detail his work with D.S. Hutchinson on Aristotle's <i>Protrepticus</i>, is an model of open and generous scholarship.  It assembles quite a lot of useful material on the subject, and includes some transcripts from a seminar they co-taught this summer.  Since my dissertation touches on the subject of their research, this has been extremely helpful to me.
+
+Anyway, I loved this bit from Papyrus Fragment POxy 3659, which they translate
+as follows: <blockquote>And what about the philosophers themselves? If you
+confined them in the one house and an equal number of madmen in another house
+next door, you would get much, much greater howls from the philosophers than
+from the madmen!</blockquote>(The fragment is of unknown provenance, and is
+included in their collection of texts because it <i>might</i> be relevant to
+Aristotle's <i>Protrepticus</i>.)

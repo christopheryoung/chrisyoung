@@ -1,24 +1,29 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.List (isInfixOf)
-import           Data.Monoid ((<>))
+import           Control.Applicative (Alternative (..))
 import           Control.Monad (liftM)
+import           Data.Hashable (Hashable, hashWithSalt)
+import qualified Data.HashMap.Strict as HM
+import           Data.List (isInfixOf, sortBy, intercalate)
 import           Data.Maybe (fromMaybe)
+import           Data.Monoid ((<>))
+import           Data.Time.Clock (UTCTime)
+import           Data.Time.Format (parseTimeM, defaultTimeLocale)
 import           Hakyll
-import           Hakyll.Core.Metadata (lookupString)
 import           System.FilePath.Posix  (takeBaseName,takeDirectory,(</>),splitFileName)
+import           System.FilePath (takeFileName)
 import           Text.Pandoc.Options (def)
---------------------------------------------------------------------------------
+
 
 main :: IO ()
 main = hakyllWith siteConfig $ do
-
     -- straightforward copying
     match (fromList ["index.html", "404.html", ".htaccess"]) $ do
         route idRoute
         compile copyFileCompiler
 
     copyDirectory "media/*"
+    copyDirectory "media/explananda/*"
     copyDirectory "media/book_covers/*"
     copyDirectory "js/*"
     copyDirectory "classes/*"
@@ -60,12 +65,21 @@ main = hakyllWith siteConfig $ do
         >>= removeIndexHtml
 
     -- Blog
+    allPosts <- getMatches postsGlob
+    let sortedPosts = sortIdentifiersByDate allPosts
+        -- build hashmap of prev/next posts
+        (prevPostHM, nextPostHM) = buildAdjacentPostsHashMap sortedPosts
+
+    let fullPostCtx = postCtx <> next <> previous where
+          next = field "nextPost" (lookupPostUrl nextPostHM)
+          previous = field "prevPost" (lookupPostUrl prevPostHM)
+
     match "prose/blog/posts/*" $ do
-        route $ metadataRoute niceDateRoute
+        route $ niceRoute
         compile $ do
           pandocCompiler
-          >>= loadAndApplyTemplate "templates/post.html"    postCtx
-          >>= loadAndApplyTemplate "templates/default.html" postCtx
+          >>= loadAndApplyTemplate "templates/post.html"    fullPostCtx
+          >>= loadAndApplyTemplate "templates/default.html" fullPostCtx
           >>= relativizeUrls
           >>= removeIndexHtml
           >>= saveSnapshot "content"
@@ -140,6 +154,43 @@ addStaticDirectory matchPattern = match matchPattern $ do
 postCtx :: Context String
 postCtx = dateField "date" "%B %e, %Y" <> defaultContext
 
+-- All of this code below that generates next/previous links is thanks to Richard
+-- Goulter. See
+-- http://rgoulter.com/blog/posts/programming/2014-07-06-adding-nextprevious-post-to-hakyll.html
+type AdjPostHM = HM.HashMap Identifier Identifier
+
+instance Hashable Identifier where
+    hashWithSalt salt = hashWithSalt salt . show
+
+-- Glob for matching the *.markdown posts under subdirectories of /posts/<category>/
+postsGlob :: Pattern
+postsGlob = "prose/blog/posts/**.markdown"
+
+sortIdentifiersByDate :: [Identifier] -> [Identifier]
+sortIdentifiersByDate identifiers =
+    reverse $ sortBy byDate identifiers
+      where
+    byDate id1 id2 =
+        let fn1 = takeFileName $ toFilePath id1
+            fn2 = takeFileName $ toFilePath id2
+            parseTime' fn = parseTimeM True defaultTimeLocale "%Y-%m-%d" $ intercalate "-" $ take 3 $ splitAll "-" fn
+        in compare ((parseTime' fn1) :: Maybe UTCTime) ((parseTime' fn2) :: Maybe UTCTime)
+
+buildAdjacentPostsHashMap :: [Identifier] -> (AdjPostHM, AdjPostHM)
+buildAdjacentPostsHashMap posts =
+    let buildHM :: [Identifier] -> [Identifier] -> AdjPostHM
+        buildHM [] _ = HM.empty
+        buildHM _ [] = HM.empty
+        buildHM (k:ks) (v:vs) = HM.insert k v $ buildHM ks vs
+    in (buildHM (tail posts) posts, buildHM posts (tail posts))
+
+lookupPostUrl :: AdjPostHM -> Item String -> Compiler String
+lookupPostUrl hm post =
+    let ident = itemIdentifier post
+        ident' = HM.lookup ident hm
+    in
+    (fmap (maybe empty $ toUrl) . (maybe empty getRoute)) ident'
+
 postList :: ([Item String] -> Compiler [Item String]) -> Compiler String
 postList sortFilter = do
     posts   <- sortFilter =<< loadAll "prose/blog/posts/*"
@@ -162,15 +213,6 @@ niceRoute = customRoute $ createIndexRoute where
   createIndexRoute ident =
     takeDirectory p </> takeBaseName p </> "index.html" where
       p = toFilePath ident
-
--- This is niceRoute but grabs date metadata from the posts
-niceDateRoute :: Metadata -> Routes
-niceDateRoute md = customRoute $ createIndexRoute where
-  createIndexRoute ident =
-    takeDirectory p </> baseWithDate </> "index.html" where
-      p = toFilePath ident
-      baseWithDate = date ++ "-" ++ (takeBaseName p)
-      date = fromMaybe "" $ lookupString "date" md
 
 -- replace url of the form foo/bar/index.html by foo/bar
 removeIndexHtml :: Item String -> Compiler (Item String)
