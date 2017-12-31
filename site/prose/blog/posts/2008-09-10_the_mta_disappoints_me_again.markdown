@@ -1,16 +1,15 @@
 ---
-{date: '2008-09-10', explananda: '', title: 'The MTA disappoints me, again'}
-
+{date: '2008-09-10', explananda: '', title: 'The MTA disappoints me, again', tags: mta, nyc}
 ---
 A few years ago I was on a flight from Toronto to New York.  Early in the flight, the pilot came on and spoke for a minute.  Practically nothing he said was intelligible, and I turned to the woman seated beside me and made a comment comparing the announcement to the absurd and often impossible-to-hear announcements you hear every day on the subway in New York City.  She smiled.  Twenty minutes later, we struck up a conversation, and ten minutes into the conversation she told me that her husband was in charge of communications for the whole of the <a href="http://mta.info/">MTA</a>.  We both laughed (I felt a bit sheepish, but she was very nice about it), and she promised to bring my comment to his attention.
 
-So you see, I've <em>tried</em> to get the MTA to understand how badly it communicates.  I've gone straight to the <em>top</em>, with a <em>personal</em> appeal, however inadvertent.  And yet it seems to me even years after this encounter that they've still got a lot of room for improvement.  
+So you see, I've <em>tried</em> to get the MTA to understand how badly it communicates.  I've gone straight to the <em>top</em>, with a <em>personal</em> appeal, however inadvertent.  And yet it seems to me even years after this encounter that they've still got a lot of room for improvement.
 
-My experience Monday gives a good example of how crappy communication skills on the part of the MTA leads them to regularly and completely unnecessarily inconvenience hundreds of riders, including me.  My brother was in town, visiting from Canada.  We arranged to meet in Union Square outside the Barnes and Noble.  He was coming from Queens and I was coming from the Newkirk Avenue Station on the B/Q line in Brooklyn.  
+My experience Monday gives a good example of how crappy communication skills on the part of the MTA leads them to regularly and completely unnecessarily inconvenience hundreds of riders, including me.  My brother was in town, visiting from Canada.  We arranged to meet in Union Square outside the Barnes and Noble.  He was coming from Queens and I was coming from the Newkirk Avenue Station on the B/Q line in Brooklyn.
 
-Now, if you look at the <a href="http://mta.info/nyct/maps/submap.htm">map</a>, you'll see that someone traveling from Newkirk Avenue Station to Union Square is, all other things being equal, better off taking the Q.  True, the Q goes local in Brooklyn, hitting three stops on the way into town from Newkirk that the B will skip.  But once you've gotten to Prospect Park, the B and Q run on the same paths until Manhattan, and then the Q is actually a bit faster in Manhattan.  It also goes directly to Union Square.  The B, by contrast, will get you to the 4th St. Station at which point you've got a 10 or 15 minute walk to Union Square, or a transfer to the F or V up to 14th St., and a 5 to 8 minute walk to Union Square.  So, as I said, all other things being equal, you're going to want the Q if you're headed to Union Square.  
+Now, if you look at the <a href="http://mta.info/nyct/maps/submap.htm">map</a>, you'll see that someone traveling from Newkirk Avenue Station to Union Square is, all other things being equal, better off taking the Q.  True, the Q goes local in Brooklyn, hitting three stops on the way into town from Newkirk that the B will skip.  But once you've gotten to Prospect Park, the B and Q run on the same paths until Manhattan, and then the Q is actually a bit faster in Manhattan.  It also goes directly to Union Square.  The B, by contrast, will get you to the 4th St. Station at which point you've got a 10 or 15 minute walk to Union Square, or a transfer to the F or V up to 14th St., and a 5 to 8 minute walk to Union Square.  So, as I said, all other things being equal, you're going to want the Q if you're headed to Union Square.
 
-All other things being equal.  But sometimes they're not equal.  If the Q is delayed for some reason, and it's nice day, and you don't mind a little exercise, you're better off just getting the B and then walking in Manhattan.  <em>Wouldn't it be nice, then, for the MTA to tell you when the Q is delayed?</em>  
+All other things being equal.  But sometimes they're not equal.  If the Q is delayed for some reason, and it's nice day, and you don't mind a little exercise, you're better off just getting the B and then walking in Manhattan.  <em>Wouldn't it be nice, then, for the MTA to tell you when the Q is delayed?</em>
 
 When I got to the subway platform at a little after 8:30am, it was crowded with people.  Eventually, a B pulled up.  But it pulled up on the local track.  This was odd.  Was there something wrong with the Q?  I scanned the station for signs indicating track work, but there weren't any.  Was a Q shortly behind it?  I leaned out over the other side of the platform, looking vainly up the tracks to see if another train had come into view around the corner.  But my view was obstructed by dozens of other people attempting the same thing.  I know now that I should have gotten on that B.  But since the B was running local, it no longer had any advantage over the Q within Brooklyn, and wouldn't have taken me to the right place in Manhattan anyway.  No announcement from the B train itself was forthcoming.  So I decided to wait.
 
@@ -26,9 +25,9 @@ Brad: I'll comment the shit out of that post.
 
 And then a B express train pulled up, and Brad hopped on.  A B express.  What did this <em>mean</em>?  One reasonable interpretation of the B on the express tracks after two successive Bs on local tracks was that whatever unexplained mess had caused the Q to stop running and the B to go local was now cleared up.  If that interpretation was correct, the Q would no doubt be pulling into the station shortly.  If it was incorrect, I would be better off hoping on the B.  And again, I needed to ask: was the next Q more than 10 minutes away from the station?  If more than 10 minutes, then getting on the B would be worth it.  If less than 10 minutes, I would be making myself even later by getting on the B.  <em>Gosh it would have been nice if the MTA had helped me and hundreds of other riders make an informed decision.</em>  I let the B go by.
 
-And then waited.  And waited.  And waited.  And finally a B and a Q pulled up at the station at the same time.  Now I don't want to be a <em>bore</em>, so I won't relate any more of the story in detail.  There were more delays, caused apparently by a malfunctioning train ahead of us that had to be taken out of service, though I'm not sure if that was only an explanation for the slowness of the service on the Q that arrived or whether it actually accounted for all the delays that morning.  Once I actually got on the Q, and couldn't do anything about my situation, I was bombarded by constant updates about the reason for the delays.  But this information came too late to be of any use.  I ended up arriving at Union Square just before 10am, about an hour more than the trip should normally take during rush hour.  My poor brother had been eaten by wolves.  
+And then waited.  And waited.  And waited.  And finally a B and a Q pulled up at the station at the same time.  Now I don't want to be a <em>bore</em>, so I won't relate any more of the story in detail.  There were more delays, caused apparently by a malfunctioning train ahead of us that had to be taken out of service, though I'm not sure if that was only an explanation for the slowness of the service on the Q that arrived or whether it actually accounted for all the delays that morning.  Once I actually got on the Q, and couldn't do anything about my situation, I was bombarded by constant updates about the reason for the delays.  But this information came too late to be of any use.  I ended up arriving at Union Square just before 10am, about an hour more than the trip should normally take during rush hour.  My poor brother had been eaten by wolves.
 
-Subways are always going to have malfunctions that cause delays.  But you can realize enormous gains in efficiency simply by communicating clearly and effectively so that people can act on good information.  This is the case on any subway line.  But at a station with more than one train, and a correspondingly complex set of trade-offs involved in picking a route to your destination, it's absolutely essential.  
+Subways are always going to have malfunctions that cause delays.  But you can realize enormous gains in efficiency simply by communicating clearly and effectively so that people can act on good information.  This is the case on any subway line.  But at a station with more than one train, and a correspondingly complex set of trade-offs involved in picking a route to your destination, it's absolutely essential.
 
 
 <h1>Comments</h1>
@@ -146,7 +145,7 @@ re. Canadian mobile service: http://www.cbc.ca/technology/story/2008/09/05/tech-
 <em>Author:</em> a sikkiin
 <br/><em>Date:</em> 2008-09-11
 
-Not to mention that the London Tube has a zone system for fares and closes at 1 am.  
+Not to mention that the London Tube has a zone system for fares and closes at 1 am.
 
 Commuting by New York subway is only going to get more hellish as more people move into the city.  There's been talk for years of adding a new line to the east of the 4-5-6, but there doesn't seem to be any movement on that front.  Have you ever taken the 6 train on a Saturday afternoon?  It's more crowded than a rush hour B train.
 
@@ -334,7 +333,7 @@ Bottom line is: this is a no brainer. Five years ago you never even heard the ki
 <em>Author:</em> Chris
 <br/><em>Date:</em> 2008-09-15
 
-Brad speaks!   
+Brad speaks!
 
 Apparently, one of the issues hampering the L train announcement service was <a href="http://www.bridgeandtunnelclub.com/blog/archives/2007/02/precious_metals.html" rel="nofollow">theft</a>.  That was a while back, and I'm not sure if they've made any progress on it.  You'd think, wouldn't you?  I mean, it's not like NYC is uniquely crime-ridden.
 
@@ -399,4 +398,3 @@ I hear you on the signage.  I forgot to mention that my brother was pointing out
 <br/>
 
 *******************************************************************************
-

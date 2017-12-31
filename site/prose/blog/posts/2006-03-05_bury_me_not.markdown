@@ -1,5 +1,5 @@
 ---
-{date: '2006-03-05', explananda: '', title: Bury Me Not}
+{date: '2006-03-05', explananda: '', title: Bury Me Not, tags: yoon_sun_choi, music}
 
 ---
 As regular readers know, <a href="http://www.yoonsunchoi.com">Yoon</a> and <a href="http://bob-net.com/gallery/Halloweener-05/JSaks">Jacob Sacks</a> have a music series at the <a href="http://www.5ccc.com/">5C Cafe</a> in the East Village.  The first Friday of most months they're joined by a guest musician.  (Past guests include: Andrew Bishop, Judith Berkson, <a href="http://www.jacobgarchik.com/">Jacob Garchik</a>, Mat Maneri, <a href="http://www.mikemcginnis.com/">Mike McGinnis</a>, <a href="http://www.benmonder.com/">Ben Monder</a>, Thomas Morgan, <a href="http://www.eivindopsvik.com/">Eivind Opsvick</a>, <a href="http://www.angelicasanchez.com/">Angelica Sanchez</a>, and <a href="http://www.downtownmusic.net/pictures/showpicturerhtml/59360918001/default.htm">Khabu Doug Young</a>.)

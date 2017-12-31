@@ -1,5 +1,5 @@
 ---
-{date: '2009-08-03', explananda: '', title: 'Recently read: Sowing Crisis'}
+{date: '2009-08-03', explananda: '', title: 'Recently read: Sowing Crisis', tags: book_reviews}
 
 ---
 <strong>Rashid Khalidi. <em>Sowing Crisis: The Cold War and American Dominance in the Middle East</em></strong>

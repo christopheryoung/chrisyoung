@@ -1,14 +1,14 @@
 ---
-{date: '2008-03-12', explananda: '', title: The ancient art of nasal irrigation}
+{date: '2008-03-12', explananda: '', title: The ancient art of nasal irrigation, tags: health, personal}
 
 ---
 February was hard.  Toward the beginning of the month I came down with a cold.  The cold itself was a minor annoyance, and passed within a few days.  But like 90% of my colds it left behind a persistent sinusitis that had me coughing and hacking and clearing my throat until Yoon was ready to take out a contract on my life.  And truly, no jury in the world listening to a tape of that coughing and hacking and throat-clearing would have voted to convict.  Antibiotics didn't really help this time, though they sometimes do.  It was only recently that I made a more or less full recovery.
 
-It was always thus.  Congestion has been a fact of life for as long as I can remember.  I had wicked bad allergies as a child, and for my entire life it's been inconceivable to leave my house without stuffing my pockets with tissues, regardless of season or health.  And I suspect this was all made worse when I broke my nose - or rather, someone else broke it for me - playing no-rules, tackle-as-hard-as-you-possibly-can football at 3am in the morning when I was a youth of 20. So even now that the sinusitis has passed, I'm back to a baseline level of congestion that most people would consider a cold. 
+It was always thus.  Congestion has been a fact of life for as long as I can remember.  I had wicked bad allergies as a child, and for my entire life it's been inconceivable to leave my house without stuffing my pockets with tissues, regardless of season or health.  And I suspect this was all made worse when I broke my nose - or rather, someone else broke it for me - playing no-rules, tackle-as-hard-as-you-possibly-can football at 3am in the morning when I was a youth of 20. So even now that the sinusitis has passed, I'm back to a baseline level of congestion that most people would consider a cold.
 
 This recent experience has convinced me I need to see a doctor at some point to ask wtf is wrong with the plumbing in my face.  In the meantime, however, I've got a new trick for dealing with this mess.  Go ahead and laugh, but <a href="http://en.wikipedia.org/wiki/Neti_pot">a Neti pot</a> - or, "Snot Pot," as "A" insists I call it - seems so far to be awfully useful in decongesting the hitherto decongestable.  You use it by standing over a sink, tilting your head to the side, and pouring warm water or warm salt water in one nostril until it pours out the other.  Then blow your nose, and repeat.  According to Wikipedia it's an old Yoga thing, and it seems to be perfectly safe.
 
-Here is my little snot pot, short and stout, which I fill with warm water to pour in my snout: 
+Here is my little snot pot, short and stout, which I fill with warm water to pour in my snout:
 <img src="/media/explananda/snotpot.png" alt="Snot Pot!" width="500px"/>
 
 Now obviously the experience of a few weeks is no substitute for the rigours of careful scientific testing.  Perhaps I would have recovered from my sinusitis at the same rate (or faster!) without my now beloved snot pot.  And yet, and yet.  I don't believe anything has ever decongested me so effectively, in either sickness or in health.  So take that with a grain or two of salt - and warm water which you can then pour in your nose!
@@ -33,7 +33,7 @@ I am sent to the store often to buy <a href="http://www.brucemedical.com/simsals
 <em>Author:</em> Chris
 <br/><em>Date:</em> 2008-03-12
 
-Tried it.  Wasn't bad.  One advantage is that someone who knows what they're doing mixed the saline solution.  Problem is that the expense adds up if you're doing it every day, and it's probably much worse for the environment over the long run.  
+Tried it.  Wasn't bad.  One advantage is that someone who knows what they're doing mixed the saline solution.  Problem is that the expense adds up if you're doing it every day, and it's probably much worse for the environment over the long run.
 
 Also, I found that when I was seriously blocked it really helped to use fairly warm (though not too hot) water - and you can't exactly warm up those little containers over the stove, can you?  Actually, now that I think of it, it was when I was really congested that the snot pot had a clear advantage over the saline spray.
 <br/>
@@ -174,4 +174,3 @@ Thank you, Ben.  Finally, the recognition I deserve.
 <br/>
 
 *******************************************************************************
-

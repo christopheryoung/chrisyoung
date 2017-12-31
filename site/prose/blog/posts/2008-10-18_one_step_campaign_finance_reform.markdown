@@ -1,24 +1,24 @@
 ---
-{date: '2008-10-18', explananda: '', title: One step campaign finance reform}
+{date: '2008-10-18', explananda: '', title: One step campaign finance reform, tags: politics}
 
 ---
-I've always wondered why this wouldn't work.  Can someone explain to me why it wouldn't?  
+I've always wondered why this wouldn't work.  Can someone explain to me why it wouldn't?
 
 The one step in my One Step Campaign Finance Reform plan is simply to create a rule that says that a politician can't vote on any measure if they have a conflict of interest in it.  They have a conflict of interest in a measure if their campaign has received money from a (corporate) party affected by the measure within the last, say, 5 years.  In this way, lawmakers would be adhering to the same code of conduct to which judges are already expected to adhere.  A judge recuses  herself if she is asked to hear a case involving an issue in which she has a financial stake (say, a company in which she owns stock).  Why shouldn't politicians be expected to do the same?
 
-OK, I lied.  It's not one step.  You'd have to fiddle a lot with the details.  For example, you need to explain "affected."  
+OK, I lied.  It's not one step.  You'd have to fiddle a lot with the details.  For example, you need to explain "affected."
 
-And you'd need to set up a much more robust system of public financing to address the sharp drop in political campaign funds available to politicians.  (That could and should be done in part simply by forcing broadcasters to give sharply discounted air time to political campaigns.  The government regulates this area, and the public in theory owns it.  So fuck 'em if they don't like it.)  
+And you'd need to set up a much more robust system of public financing to address the sharp drop in political campaign funds available to politicians.  (That could and should be done in part simply by forcing broadcasters to give sharply discounted air time to political campaigns.  The government regulates this area, and the public in theory owns it.  So fuck 'em if they don't like it.)
 
-And you would need to worry about independent groups and their semi-formal role in campaigns, especially because diverting money from political campaigns would make this an even more pressing issue.  So you'd need a few supplemental rules governing the degree of coordination permitted between independent groups and political campaigns, which would reduce their usefulness to campaigns (which by the nature require tight message control and coordination).  
+And you would need to worry about independent groups and their semi-formal role in campaigns, especially because diverting money from political campaigns would make this an even more pressing issue.  So you'd need a few supplemental rules governing the degree of coordination permitted between independent groups and political campaigns, which would reduce their usefulness to campaigns (which by the nature require tight message control and coordination).
 
-And of course, this proposal also fails to solve the problem of bribes paid in advance.  If I'm facing an expensive reelection campaign, I might vote on a measure designed to help a party that I suspect (perhaps after heavy hinting) will reward me later.  
+And of course, this proposal also fails to solve the problem of bribes paid in advance.  If I'm facing an expensive reelection campaign, I might vote on a measure designed to help a party that I suspect (perhaps after heavy hinting) will reward me later.
 
-Another worry: two politicians working together might be able to get around the restrictions by agreeing to help each other's donors.  
+Another worry: two politicians working together might be able to get around the restrictions by agreeing to help each other's donors.
 
 And one more worry, just for safe measure: You'd need to address the fact that political donations sometimes go to organizations like the parties' national campaigns, which don't directly vote on issues.  This proposal would be a disaster if it funneled a lot of money to, say, the Republican National Committee, which then had discretion over which political campaigns to divert the funds to.  The result would be even more supine politicians taking their marching orders from a centralized source of funding whose intermediate role in accepting funds would be to sanitize the funds coming in to the party. So to be effective, this proposal would need to address that in some way.  (Perhaps you'd add this rule: Political campaigns themselves can only receive money from "ultimate" donors.  They can't get money from "intermediate" donors, such as the party's national organizations.)
 
-Still, this one step would accomplish a lot, no?  All the ways around the rule seem like a pain in the ass, which would, at worst, introduce a lot more friction and complication into what is currently a simple system of reciprocal back-scratching between political donors and the politicians who love them.  
+Still, this one step would accomplish a lot, no?  All the ways around the rule seem like a pain in the ass, which would, at worst, introduce a lot more friction and complication into what is currently a simple system of reciprocal back-scratching between political donors and the politicians who love them.
 
 The beauty of this idea is that it entirely avoids the First Amendment issues that have plagued campaign finance reform in the past.  Any corporation would be able to give as much money to any politician it wanted.  And any politician could accept it.  It's just that that money would then disqualify the politician from benefiting the corporation.  Corporations might still donate to political campaigns out of pure idealism, but . . . joking!  Anyway, this proposal seems to me Supreme Court proof, which is a point strongly in its favour.
 
@@ -104,7 +104,7 @@ A bitter utopian perhaps but, as the same economist, argues, regulation can neve
 <em>Author:</em> Chris
 <br/><em>Date:</em> 2008-10-19
 
-DC, I was under the impression that individual donations have some sort of cap.  But perhaps I'm wrong about that.  
+DC, I was under the impression that individual donations have some sort of cap.  But perhaps I'm wrong about that.
 
 Peter, yeah, I'd prefer all kinds of things along those lines.  But I was also looking for a solution that would be a) possible to at least imagine selling to people (though it would be difficult, "Stop conflicts of interest" is pretty clear and catchy"); b) an extension of an idea already out there (judges already have such guidelines); c) Supreme Court-proof; d) something that could lead to radical changes in the political culture without requiring them in the first place.
 <br/>
@@ -163,4 +163,3 @@ to some extent it's because politicians deal with issues that affect everyone, n
 <br/>
 
 *******************************************************************************
-

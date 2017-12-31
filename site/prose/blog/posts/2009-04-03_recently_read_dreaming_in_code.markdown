@@ -1,5 +1,5 @@
 ---
-{date: '2009-04-03', explananda: '', title: 'Recently read: Dreaming in Code'}
+{date: '2009-04-03', explananda: '', title: 'Recently read: Dreaming in Code', tags: book_reviews}
 
 ---
 <strong>Scott Rosenberg. <em>Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software</em></strong>

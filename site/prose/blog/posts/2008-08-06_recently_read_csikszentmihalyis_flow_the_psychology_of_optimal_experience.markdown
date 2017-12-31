@@ -1,6 +1,6 @@
 ---
 {date: '2008-08-06', explananda: '', title: 'Recently read: Csikszentmihalyi''s "Flow:
-    The Psychology of Optimal Experience"'}
+	The Psychology of Optimal Experience"', tags: book_reviews}
 
 ---
 <strong>Mihaly Csikszentmihalyi.  <em>Flow: The Psychology of Optimal Experience</em></strong>
@@ -42,4 +42,3 @@ Well, I don't mean that anything less good than the NE isn't worth reading.  But
 <br/>
 
 *******************************************************************************
-

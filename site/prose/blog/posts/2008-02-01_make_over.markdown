@@ -1,5 +1,5 @@
 ---
-{date: '2008-02-01', explananda: '', title: Make over}
+{date: '2008-02-01', explananda: '', title: Make over, tags: personal, anecdotes}
 
 ---
 We're experiencing a bit of a delay in getting some immigration issues sorted out, which has led to my not being allowed to work this semester.  Although this is very stressful, there is of course an upside: It gives me a chance to experiment with a new look!

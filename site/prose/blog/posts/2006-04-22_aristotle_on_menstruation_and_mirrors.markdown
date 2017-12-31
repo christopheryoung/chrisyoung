@@ -1,5 +1,5 @@
 ---
-{date: '2006-04-22', explananda: '', title: Aristotle on menstruation and mirrors}
+{date: '2006-04-22', explananda: '', title: Aristotle on menstruation and mirrors, tags: aristotle}
 
 ---
 

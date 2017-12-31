@@ -1,8 +1,8 @@
 ---
-{date: '2009-07-17', explananda: '', title: Facebook}
+{date: '2009-07-17', explananda: '', title: Facebook, tags: facebooks, metablog}
 
 ---
-So I finally broke down and joined Facebook a few days ago. 
+So I finally broke down and joined Facebook a few days ago.
 
 Most of the people I know don't have blogs.  Of course I knew in some abstract way that they might well be hanging out somewhere else online, but because I hardly even bothered to peek over Yoon's shoulder when she was on FB, I didn't realize the sheer volume of activity going on elsewhere, in that semi-private zone away from the world of blogs.  It's sort of like walking down a quiet, industrial street, turning into a dark path between two houses, and suddenly finding yourself in a lush garden filled with people talking and laughing and drinking, like in some beer commercial.  Huh.
 
@@ -77,4 +77,3 @@ Ah, but I'm pointing out the difference between content being access<em>ible</em
 <br/>
 
 *******************************************************************************
-

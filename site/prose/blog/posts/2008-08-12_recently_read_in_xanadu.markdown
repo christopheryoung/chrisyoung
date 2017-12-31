@@ -1,5 +1,5 @@
 ---
-{date: '2008-08-12', explananda: '', title: 'Recently read: "In Xanadu"'}
+{date: '2008-08-12', explananda: '', title: 'Recently read: "In Xanadu"', tags: book_reviews}
 
 ---
 <strong>William Dalrymple. <em>In Xanadu: A Quest</em></strong>

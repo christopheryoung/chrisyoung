@@ -1,6 +1,6 @@
 ---
 {date: '2007-11-16', explananda: '', title: 'Recently read: Flatbush: The Heart of
-    Brooklyn'}
+	Brooklyn', tags: book_reviews}
 
 ---
 Nedda C. Allbray. <em>Flatbush: The Heart of Brooklyn</em>
@@ -36,4 +36,3 @@ I think I'd rather walk the extra 50 metres than know the train was going to sto
 <br/>
 
 *******************************************************************************
-

@@ -1,12 +1,12 @@
 ---
-{date: '2009-01-28', explananda: '', title: 'Recently read: My Man Jeeves'}
+{date: '2009-01-28', explananda: '', title: 'Recently read: My Man Jeeves', tags: book_reviews}
 
 ---
 <strong>P.G. Wodehouse. <em>My Man Jeeves</em></strong>
 
 This is a collection of early Wodehouse stories.  If you've never read Wodehouse, his stories and books always involve convoluted plots, upper class (though not always wealthy) characters behaving in very silly ways, and happy endings.  None of the stories in this collection is especially strong, but they were entertaining enough.  If you want to start with Wodehouse, this is probably not the best place.  For that, you might check out <em>Code of the Woosters</em>.
 
-By the way, I was prompted to start reading Wodehouse by Anthony Lane's <a href="http://www.newyorker.com/archive/2004/04/19/040419fa_fact_lane">wonderful piece</a> on him in the New Yorker a few years ago---one of the best appreciations of a writer that I've ever read.  Sadly, it seems to be restricted to subscribers, but it's worth reading if you can get your hands on it.  
+By the way, I was prompted to start reading Wodehouse by Anthony Lane's <a href="http://www.newyorker.com/archive/2004/04/19/040419fa_fact_lane">wonderful piece</a> on him in the New Yorker a few years ago---one of the best appreciations of a writer that I've ever read.  Sadly, it seems to be restricted to subscribers, but it's worth reading if you can get your hands on it.
 
 
 <h1>Comments</h1>
@@ -45,4 +45,3 @@ Not that I don't like his usual stuff.  Just saying.
 <br/>
 
 *******************************************************************************
-

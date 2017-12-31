@@ -1,6 +1,6 @@
 ---
 {date: '2006-05-30', explananda: '', title: 'Did Aristotle really not know anyone
-	who could wiggle his or her ears?'}
+	who could wiggle his or her ears?', tags: aristotle}
 
 ---
 

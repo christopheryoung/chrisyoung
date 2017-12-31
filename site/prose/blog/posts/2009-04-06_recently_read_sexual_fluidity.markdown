@@ -1,5 +1,5 @@
 ---
-{date: '2009-04-06', explananda: '', title: 'Recently read: Sexual Fluidity'}
+{date: '2009-04-06', explananda: '', title: 'Recently read: Sexual Fluidity', tags: book_reviews}
 
 ---
 <strong>Lisa M. Diamond. <em>Sexual Fluidity: Understanding Women's Love and Desire</em></strong>

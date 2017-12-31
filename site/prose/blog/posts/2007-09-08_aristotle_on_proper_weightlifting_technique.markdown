@@ -1,5 +1,5 @@
 ---
-{date: '2007-09-08', explananda: '', title: Aristotle on proper weightlifting technique}
+{date: '2007-09-08', explananda: '', title: Aristotle on proper weightlifting technique, tags: fitness, aristotle}
 
 ---
 Commenting on an obscure point about <em>connate pneuma</em> in his 1912 translation of Aristotle's <em>De Motu Animalium</em>, A.S.L. Farquharson writes that a comment of Aristotle's is, "a reference perhaps to holding the breath when a weight is lifted. A[ristotle], like gymnastic teachers to-day, supposed it gave power."

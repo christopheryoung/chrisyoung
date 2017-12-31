@@ -1,6 +1,7 @@
 ---
 title: July online
 date: 2014-08-01
+tags: inequality, military_spending, standardized_tests, jazz, education, language
 ---
 
 Three cheers for Max Sawicky's recent return to blogging. Try

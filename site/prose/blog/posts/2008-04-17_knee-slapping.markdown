@@ -1,8 +1,8 @@
 ---
-{date: '2008-04-17', explananda: '', title: Knee-slapping}
+{date: '2008-04-17', explananda: '', title: Knee-slapping, tags: personal}
 
 ---
-I occasionally see it claimed, <a href="http://michelleandraahool.weddingannouncer.com/bridalparty.html">absurdly</a>, that I'm the only human being who actually slaps his knee when he laughs.  This is untrue.  Knee-slapping actually runs in my family, and when my brother, father and I are feeling jolly we occasionally break out spontaneously into a knee-slapping fun-fest.  In marrying Yoon I have also done as much as I could to ensure that any offspring we produce, should we produce offspring, are knee-slappers, since Yoon is at least as much a knee-slapper as I am.  It's especially easy to observe this if you tell her a poo-poo-pee-pee joke and then stand back a few feet.  The typical result is not just knee-slapping, but finger-snapping too thrown in as an added bonus.  
+I occasionally see it claimed, <a href="http://michelleandraahool.weddingannouncer.com/bridalparty.html">absurdly</a>, that I'm the only human being who actually slaps his knee when he laughs.  This is untrue.  Knee-slapping actually runs in my family, and when my brother, father and I are feeling jolly we occasionally break out spontaneously into a knee-slapping fun-fest.  In marrying Yoon I have also done as much as I could to ensure that any offspring we produce, should we produce offspring, are knee-slappers, since Yoon is at least as much a knee-slapper as I am.  It's especially easy to observe this if you tell her a poo-poo-pee-pee joke and then stand back a few feet.  The typical result is not just knee-slapping, but finger-snapping too thrown in as an added bonus.
 
 
 <h1>Comments</h1>
@@ -103,4 +103,3 @@ Certainly the Olive Loaf Vigilante inspired such laughter, but I don't know if Y
 <br/>
 
 *******************************************************************************
-

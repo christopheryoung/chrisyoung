@@ -1,8 +1,8 @@
 ---
-{date: '2008-07-23', explananda: '', title: Pardon me}
+{date: '2008-07-23', explananda: '', title: Pardon me, tags: politics}
 
 ---
-Reading <a href="http://www.slate.com/id/2195689/?from=rss">this</a>, it occurs to me, not for the first time, that the U.S. could benefit substantially by making a fairly minor change to the rules governing Presidential pardons: don't allow outgoing Presidents to issue them.  If Bush wants to pardon a bunch of people preemptively for torture and other war crimes, let him do it before the election and watch his party pay the consequences.  Similarly, if Clinton had really wanted to pardon Rich, he should have been forced to do it before the public decided between Gore and Bush.  
+Reading <a href="http://www.slate.com/id/2195689/?from=rss">this</a>, it occurs to me, not for the first time, that the U.S. could benefit substantially by making a fairly minor change to the rules governing Presidential pardons: don't allow outgoing Presidents to issue them.  If Bush wants to pardon a bunch of people preemptively for torture and other war crimes, let him do it before the election and watch his party pay the consequences.  Similarly, if Clinton had really wanted to pardon Rich, he should have been forced to do it before the public decided between Gore and Bush.
 
 This one modest change would curb most of the worst abuses you get in the current system.  Indeed, the suggestion is so obvious that I'm almost embarrassed to post it here.  And yet, go look and see: matters are still arranged in an obvious stupid way, and there's little sign that things will change any time soon.  So perhaps there's a point in saying the obvious.
 
@@ -42,11 +42,10 @@ tinkering with the power, like chris is proposing, would take a constitutional a
 <em>Author:</em> Chris
 <br/><em>Date:</em> 2008-07-24
 
-Oh wow, it would require a constitutional amendment?  OK, that's not going to happen.  But an informal norm might coalesce around the same point, if enough people cared.  
+Oh wow, it would require a constitutional amendment?  OK, that's not going to happen.  But an informal norm might coalesce around the same point, if enough people cared.
 
 As for scrapping it altogether, I was tempted to say that in the first place.  I didn't because I haven't thought yet enough about the possible arguments in favour of it (though I couldn't think of any off the top of my head).
 <br/>
 <br/>
 
 *******************************************************************************
-

@@ -1,6 +1,6 @@
 ---
 {date: '2008-12-13', explananda: '', title: 'Recently read: No one belongs here more
-    than you'}
+	than you', tags: book_reviews}
 
 ---
 <strong>Miranda July. <em>No one belongs here more than you</em></strong>
@@ -68,4 +68,3 @@ That they're different colours, that is.  Not that you get pleasure from that fa
 <br/>
 
 *******************************************************************************
-

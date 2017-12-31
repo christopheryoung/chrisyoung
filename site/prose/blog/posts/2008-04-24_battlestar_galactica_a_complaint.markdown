@@ -1,8 +1,8 @@
 ---
-{date: '2008-04-24', explananda: '', title: 'Battlestar Galactica: A complaint'}
+{date: '2008-04-24', explananda: '', title: 'Battlestar Galactica: A complaint', tags: tv, scifi}
 
 ---
-In the fictional world of Battlestar Galactica it is a fact of no little consequence that Cylons are virtually indistinguishable from humans, right down to the cellular level.  And yet they're different in all kinds of ways!  For example, when they get killed, their consciousness gets uploaded so that they can just jump right into another body.  But if they're indistinguishable from humans right down to the cellular level then <em>by what mechanism is this accomplished</em>?  And this is just the beginning of the features that supposedly make them very different from humans.  The writers of the show seem to me to be making a really stupid move somewhere in the vicinity of <a href="http://www.explananda.com/?p=2225">this common mistake</a>.  
+In the fictional world of Battlestar Galactica it is a fact of no little consequence that Cylons are virtually indistinguishable from humans, right down to the cellular level.  And yet they're different in all kinds of ways!  For example, when they get killed, their consciousness gets uploaded so that they can just jump right into another body.  But if they're indistinguishable from humans right down to the cellular level then <em>by what mechanism is this accomplished</em>?  And this is just the beginning of the features that supposedly make them very different from humans.  The writers of the show seem to me to be making a really stupid move somewhere in the vicinity of <a href="http://www.explananda.com/?p=2225">this common mistake</a>.
 
 I'm not sure why this irritates me so much.  I can suspend disbelief for an impressive variety of fictional worlds.  But this!  This I can hardly stand.  Perhaps it's because the mistake here is one that I see in serious contexts, whereas journalists don't typically go around talking about star trek transporters as though we have currently working models.  Anyway.  Yeeeeearg.
 
@@ -94,7 +94,7 @@ Huh?
 <em>Author:</em> Spaz
 <br/><em>Date:</em> 2008-04-25
 
-Just watch the show and enjoy it...this is in part why Yoon and your family question your movie choices...the shows got grit, fare acting, great plot turns (though I think it's a good thing this is the last season), suitable action, and hot babes.  What more could a sci-fi fan want?  
+Just watch the show and enjoy it...this is in part why Yoon and your family question your movie choices...the shows got grit, fare acting, great plot turns (though I think it's a good thing this is the last season), suitable action, and hot babes.  What more could a sci-fi fan want?
 
 They could have kept the Cylons as the robots, which would have been far less interesting and as pointed out above by Upyernoz they've given enough of an element of explanation to satisfy most as to their differences from humans.
 
@@ -403,4 +403,3 @@ Yes indeed, Ben.  Now where is your expression of solidarity?
 <br/>
 
 *******************************************************************************
-

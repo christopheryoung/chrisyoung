@@ -1,5 +1,5 @@
 ---
-{date: '2009-04-11', explananda: '', title: 'Recently read: My Horizontal Life'}
+{date: '2009-04-11', explananda: '', title: 'Recently read: My Horizontal Life', tags: book_reviews}
 
 ---
 <strong>Chelsea Handler. <em>My Horizontal Life: A Collection of One Night Stands</em></strong>

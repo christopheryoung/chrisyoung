@@ -1,8 +1,8 @@
 ---
-{date: '2007-08-22', explananda: '', title: Summer light/winter light}
+{date: '2007-08-22', explananda: '', title: Summer light/winter light, tags: personal}
 
 ---
-It's a gray day, and the light coming in my window now has a sort of wintry quality to it.  This had the effect of momentarily putting me in a winter frame of mind, and the coolness of the room probably helped with that too.  I don't know what it's like for you, but for me, winter and summer go along with entirely different frames of mind, so it's very odd to be reminded of the one when I'm in the other.  
+It's a gray day, and the light coming in my window now has a sort of wintry quality to it.  This had the effect of momentarily putting me in a winter frame of mind, and the coolness of the room probably helped with that too.  I don't know what it's like for you, but for me, winter and summer go along with entirely different frames of mind, so it's very odd to be reminded of the one when I'm in the other.
 
 I was originally about to describe these as different moods. But they're more than moods, so "frames of mind" is probably better.  I think I'm sometimes inclined to call them moods because the respective frames of mind are emotionally coloured.  It's very hard to describe but: Winter: cozy if I'm inside, a little sad, thoughtful, reserved, a sort of focussed energy.  Summer: Happier, less complicated, a less focussed energy, and a part of me that stays clenched throughout the entire winter relaxes.  And something about the quality of each gets projected onto the world, so it's not just a way of feeling; it's a matter of feeling a certain way <em>about</em> everything I come across.
 
@@ -59,4 +59,3 @@ Damn that fucking light.  Damn it to <em>hell</em>!
 <br/>
 
 *******************************************************************************
-

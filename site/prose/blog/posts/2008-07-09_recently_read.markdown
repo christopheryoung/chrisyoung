@@ -1,5 +1,5 @@
 ---
-{date: '2008-07-09', explananda: '', title: Recently Read}
+{date: '2008-07-09', explananda: '', title: Recently Read, tags: book_reviews}
 
 ---
 <strong>Carl Zimmer. <em>Parasite Rex : Inside the Bizarre World of Nature's Most Dangerous Creatures</em></strong>
@@ -22,7 +22,7 @@ I've always thought of "consciousness" as referring to a waking state, but Warre
 <em>Author:</em> Kegri
 <br/><em>Date:</em> 2008-07-10
 
-ah - fun home was amazing.  loved it.  
+ah - fun home was amazing.  loved it.
 
 also - i've started using a neti pot that ph. bought me.  works great so far...
 <br/>
@@ -103,4 +103,3 @@ I endorse <em>Fun Home</em>.
 <br/>
 
 *******************************************************************************
-

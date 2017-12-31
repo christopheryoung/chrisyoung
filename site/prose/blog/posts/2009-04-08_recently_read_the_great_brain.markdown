@@ -1,10 +1,10 @@
 ---
-{date: '2009-04-08', explananda: '', title: 'Recently read: The Great Brain'}
+{date: '2009-04-08', explananda: '', title: 'Recently read: The Great Brain', tags: book_reviews}
 
 ---
 <strong>John D. Fitzgerald. <em>The Great Brain</em></strong>
 
-I used to read and reread books in the Great Brain series with enthusiasm when I was a kid.  The books draw on the author's childhood in Utah at the beginning of the 20th century.  J.D., as he was usually called, looked up to his older brother, Tom, whose great brain has a starring role in most of the stories, whether it's working out some way to make money or rescuing some kids lost in a cave.  I must have reread this book a lot as a child, since I still remembered good chunks of the stories here.  
+I used to read and reread books in the Great Brain series with enthusiasm when I was a kid.  The books draw on the author's childhood in Utah at the beginning of the 20th century.  J.D., as he was usually called, looked up to his older brother, Tom, whose great brain has a starring role in most of the stories, whether it's working out some way to make money or rescuing some kids lost in a cave.  I must have reread this book a lot as a child, since I still remembered good chunks of the stories here.
 
 If Yoon and I replicate, I'll probably make sure we have copies of these books handy, though the sensibility of a kid's book published in the 1960s and set more than half a century earlier doesn't quite match the sensibility you'd expect these days: in these relentlessly male stories, parents are pleased that their sons can "whip" other boys, life is slow enough that Tom can get away with charging other boys to watch a man dig a hole in his yard, and the language clearly belongs to another era.  Still, good times.
 
@@ -47,4 +47,3 @@ You know, to this day those books are what I most strongly associate with the st
 <br/>
 
 *******************************************************************************
-

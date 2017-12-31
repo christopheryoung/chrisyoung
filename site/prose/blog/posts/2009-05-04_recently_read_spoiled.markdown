@@ -1,5 +1,5 @@
 ---
-{date: '2009-05-04', explananda: '', title: 'Recently read: Spoiled'}
+{date: '2009-05-04', explananda: '', title: 'Recently read: Spoiled', tags: book_reviews}
 
 ---
 <strong>Caitlin Macy. <em>Spoiled: Stories</em></strong>
@@ -19,4 +19,3 @@ I don't think there isn't a genuinely sympathetic character in the class.
 <br/>
 
 *******************************************************************************
-

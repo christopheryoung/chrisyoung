@@ -1,10 +1,10 @@
 ---
-{date: '2009-01-06', explananda: '', title: 'Recently read: The Iron Cage'}
+{date: '2009-01-06', explananda: '', title: 'Recently read: The Iron Cage', tags: book_reviews}
 
 ---
 <strong>Rashid Khalidi<em>.  The Iron Cage: The Story of the Palestinian Struggle for Statehood</em></strong>
 
-The story of Palestinian dispossession and statelessness begins in the transfer of Palestine from the Ottoman Empire to the British in the aftermath of World War I.  The terms of the League of Nations mandate under which the British assumed responsibility for the territory encouraged the "establishment in Palestine of a national home for the Jewish people," but in the same breath warned that "nothing should be done which might prejudice the civil and religious rights of existing non-Jewish communities in Palestine."  
+The story of Palestinian dispossession and statelessness begins in the transfer of Palestine from the Ottoman Empire to the British in the aftermath of World War I.  The terms of the League of Nations mandate under which the British assumed responsibility for the territory encouraged the "establishment in Palestine of a national home for the Jewish people," but in the same breath warned that "nothing should be done which might prejudice the civil and religious rights of existing non-Jewish communities in Palestine."
 
 How exactly these aspirations came to find expression in the space of a single sentence, let alone a single document purporting to articulate a workable plan for the territory, is not clear.  In 1922 the Jewish population of Palestine was a little under 10% of the total.  Even in the 1930s, after the waves of immigration to Palestine that followed Hitler's rise, and the shutting of other borders around the world to Jews (including, to their eternal discredit, those of the U.S. and Canada), the Jewish share of the population remained about a third of the total.  This move to establish a national home for a single minority was hardly welcome to what the terms of the Mandate delicately refer to as the "non-Jewish communities in Palestine."  And indeed, it was clear to less myopic Zionists that, given the natural resistance of the then current inhabitants of Palestine, the establishment of such a national home would eventually require the mass "transfer"---ethnic cleansing---of a significant portion of that population.  This is exactly what later happened when war broke out in response to the founding of Israel after WW II.
 
@@ -14,7 +14,7 @@ Rashid Khalidi's superb <em>Iron Cage</em> examines this tragedy, with a special
 
 But Khalidi is also motivated by a respect for Palestinian agency, which means an insistence on treating the Palestinians as always more than passive victims of events that befall them.  Although facing very long odds, Khalidi argues cogently, Palestinian leadership during the Mandate period failed, among other things, to develop the state or para-state capacities which would have served it well in the coming confrontation with Israel.  Many of the failings of the Palestinian Authority after Oslo were continuous with this original failure to prepare in a serious way for the eventual responsibilities of statehood.  Subsequent Palestinian responses to Israel were often incoherent on the uses and limitations of political violence, and deeply ambivalent about the shape of a final settlement that might be both plausible and acceptable.  A discussion of the successes and failures of Arafat, and the dismal mess made of things by the Oslo Accords rounds out Khalidi's remarkably balanced treatment of this subject.
 
-A final word about the author might be in order.  For those who have short memories, Rashid Khalidi was recently the target of some vicious rhetoric during John McCain's recent Presidential bid.  Having finally gotten around to reading Khalidi's book, I now think that McCain couldn't have chosen a less appropriate target in his attempt to smear Obama by association.  
+A final word about the author might be in order.  For those who have short memories, Rashid Khalidi was recently the target of some vicious rhetoric during John McCain's recent Presidential bid.  Having finally gotten around to reading Khalidi's book, I now think that McCain couldn't have chosen a less appropriate target in his attempt to smear Obama by association.
 
 
 <h1>Comments</h1>
@@ -42,4 +42,3 @@ I can't recall if Khalidi discusses specifically trying to keep Palestinians out
 <br/>
 
 *******************************************************************************
-

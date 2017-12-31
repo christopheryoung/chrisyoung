@@ -1,5 +1,5 @@
 ---
-{date: '2007-11-24', explananda: '', title: Korean cuisine day!}
+{date: '2007-11-24', explananda: '', title: Korean cuisine day!, tags: food}
 
 ---
 We had some friends over today for our own little Korean cuisine festival.  Pictures below the fold.
@@ -10,11 +10,11 @@ First, Oi Kimchi (Kimchi made with cucumbers).  It begins, naturally enough, wit
 
 <img src="/media/explananda/IMG_2944.jpg" alt="cucumbers" width="500px" />
 
-And ends up looking like this: 
+And ends up looking like this:
 
 <img src="/media/explananda/IMG_2987.jpg" alt="" width="500px" />
 
-There were lots of other side dishes.  But the mandoo was the real hit of the meal.  First, you mix ground pork with garlic, onions, scallions, tofu, and bean sprouts.  
+There were lots of other side dishes.  But the mandoo was the real hit of the meal.  First, you mix ground pork with garlic, onions, scallions, tofu, and bean sprouts.
 
 <img src="/media/explananda/IMG_2945.jpg" alt="Mandoo meat mix29" width="500px" />
 
@@ -58,7 +58,7 @@ And now for the Soon tobu gigae.  This is a soup made from pork, onions, scallio
 
 <img src="/media/explananda/IMG_2992.jpg" alt="Raw pork" width="500px" />
 
-Then add them to the pot like so: 
+Then add them to the pot like so:
 
 <img src="/media/explananda/IMG_2994.jpg" alt="" width="500px" />
 
@@ -158,4 +158,3 @@ Sorry, we didn't use any recipes.  We just throw in whatever looks like it'll be
 <br/>
 
 *******************************************************************************
-

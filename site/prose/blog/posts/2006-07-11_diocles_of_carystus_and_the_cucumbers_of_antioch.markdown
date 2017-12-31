@@ -1,6 +1,6 @@
 ---
 {date: '2006-07-11', explananda: '', title: Diocles of Carystus and the cucumbers
-	of Antioch}
+	of Antioch, tags: classics}
 
 ---
 

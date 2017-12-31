@@ -1,5 +1,5 @@
 ---
-{date: '2011-10-13', explananda: '', title: Recently read}
+{date: '2011-10-13', explananda: '', title: Recently read, tags: book_reviews}
 
 ---
 <strong>Arthur Conan Doyle. <em>The Sign of the Four.</em></strong>
@@ -24,7 +24,7 @@ I was very tired of the phrase "Tower of Isolation" by the time I finished this 
 
 <strong>Jan Morris. <em>Hav</em></strong>
 
-This offering from the New York Review of Books Press brings together two short books, <em>Last Letters from Hav</em>, published in 1985, and <em>Hav of the Myrmidons</em>, written for inclusion in this book in 2005.  
+This offering from the New York Review of Books Press brings together two short books, <em>Last Letters from Hav</em>, published in 1985, and <em>Hav of the Myrmidons</em>, written for inclusion in this book in 2005.
 Hav is a small but notable city state perched on the sea in Asia Minor, a dazzling collection of nationalities and influences: Arab, Turkish, Russian, Greek, British---the list goes on.  It's history is tangled up with larger powers, and it's rather confused architecture reflects all these influences.  Although a small city, it was visited throughout the 20th Century and earlier by a parade of notables, from Hemingway to Freud.  The only catch---and it eluded some original readers of <em>Last Letters From Hav</em>, who pestered travel agents for information on cheap passage to Hav---is that the only way to get there is through Morris's books: Hav is an imaginary city.  But it is a richly imagined one, and Morris has done a remarkable job of weaving it into our reality.  <em>Last Letters from Hav</em> ends with a mysterious Intervention.  Morris returns to Hav in 2005 to find that the Intervention, and the strange brand of fundamentalism it ushered in, has swept away much of what she explored on her first visit to the city.  Although a bit slow in places, Hav is a fascinating meditation on place, history and modernity.  Recommended.
 
 
@@ -100,4 +100,3 @@ thanks for the hav recommendation!
 <br/>
 
 *******************************************************************************
-

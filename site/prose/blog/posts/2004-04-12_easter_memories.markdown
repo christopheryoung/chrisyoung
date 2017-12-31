@@ -1,5 +1,5 @@
 ---
-{date: '2004-04-12', explananda: '', title: Easter Memories}
+{date: '2004-04-12', explananda: '', title: Easter Memories, tags: anecdotes, personal}
 
 ---
 It being Easter time, I thought I would post a word or two about my most vivid Easter memory.  When a younger brother and I were kids, my parents, like many others, would hide chocolate Easter eggs around the house sometime during the Easter holidays.  My parents were atheists, but it was a holiday, and planting Easter eggs is not a very religious thing to do.

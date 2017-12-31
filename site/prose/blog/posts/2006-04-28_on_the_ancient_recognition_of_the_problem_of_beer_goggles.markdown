@@ -1,6 +1,6 @@
 ---
 {date: '2006-04-28', explananda: '', title: On the ancient recognition of the problem
-	of beer goggles}
+	of beer goggles, tags: aristotle}
 
 ---
 From the pseudo-Aristotelian <i>Problems</i>, Book XXX (on melancholics):

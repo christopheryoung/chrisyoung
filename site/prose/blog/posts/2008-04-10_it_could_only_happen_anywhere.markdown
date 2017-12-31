@@ -1,5 +1,5 @@
 ---
-{date: '2008-04-10', explananda: '', title: It could only happen anywhere}
+{date: '2008-04-10', explananda: '', title: It could only happen anywhere, tags: anecdotes, personal, nyc}
 
 ---
 I was walking along Broadway around 20th St the other day and midway through the intersection, while pedestrians were allowed to cross, a man sat down crosslegged on the street so his companion could snap a quick photo of him.  Some idiot walking by turned to me and said "Only in New York!"

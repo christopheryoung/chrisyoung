@@ -1,6 +1,6 @@
 ---
 {date: '2009-04-10', explananda: '', title: 'Recently read: Buddhism: A Very Short
-    Introduction'}
+	Introduction', tags: book_reviews}
 
 ---
 <strong>Damien Keown. <em>Buddhism: A Very Short Introduction</em></strong>

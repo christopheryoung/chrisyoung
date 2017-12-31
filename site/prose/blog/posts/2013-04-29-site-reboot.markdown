@@ -1,6 +1,7 @@
 ---
 title: Site reboot
 date: 2013-04-29
+tags: metablog
 ---
 
 After a long hiatus, I've decided to revamp my personal website, and this blog

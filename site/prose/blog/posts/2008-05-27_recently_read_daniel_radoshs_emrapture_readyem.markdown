@@ -1,6 +1,6 @@
 ---
 {date: '2008-05-27', explananda: '', title: 'Recently read: Daniel Radosh''s <em>Rapture
-    Ready!</em>'}
+	Ready!</em>', tags: book_reviews}
 
 ---
 <strong>Daniel Radosh.  <em>Rapture Ready!  Adventures in the Parallel Universe of Christian Pop Culture</em></strong>

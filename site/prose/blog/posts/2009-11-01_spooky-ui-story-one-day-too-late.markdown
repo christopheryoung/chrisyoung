@@ -1,6 +1,7 @@
 ---
 title: Spooky UI story one day too late
 date: 2009-11-01
+tags: user_interfaces
 ---
 
 I'm getting this spooky user interface story in one day too late for Halloween, but what the heck.  I was talking to my mother the other day.  As background, she's retired now, but she used computers for at least the last twenty years of work.  She also spends a fair amount of time on the web (with firefox).  So she hardly qualifies as a technophobe or the kind of user you simply can't coax into using your site.

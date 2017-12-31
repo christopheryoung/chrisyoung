@@ -1,5 +1,5 @@
 ---
-{date: '2009-05-07', explananda: '', title: 'Recently read: Hella Nation'}
+{date: '2009-05-07', explananda: '', title: 'Recently read: Hella Nation', tags: book_reviews}
 
 ---
 <strong>Evan Wright. <em>Hella Nation: Looking for Happy Meals in Kandahar, Rocking the Side Pipe, Wingnut's War Against the Gap, and Other Adventures with the Totally Lost Tribes of America</em></strong>

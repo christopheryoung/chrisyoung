@@ -1,6 +1,7 @@
 ---
 title: January Links
 date: 2014-02-12
+tags: political_rhetoric, national_security, surveillance, civil_forfeiture, war_on_drugs, sharing_economy, english, language
 ---
 
 Steve Laniel

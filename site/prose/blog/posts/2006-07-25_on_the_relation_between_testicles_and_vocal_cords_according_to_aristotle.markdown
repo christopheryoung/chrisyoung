@@ -1,6 +1,6 @@
 ---
 {date: '2006-07-25', explananda: '', title: 'On the relation between testicles and
-	vocal cords, according to Aristotle'}
+	vocal cords, according to Aristotle', tags: aristotle, classics}
 
 ---
 

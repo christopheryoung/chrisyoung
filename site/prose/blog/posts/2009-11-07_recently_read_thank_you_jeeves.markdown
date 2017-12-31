@@ -1,5 +1,5 @@
 ---
-{date: '2009-11-07', explananda: '', title: 'Recently read: Thank you, Jeeves'}
+{date: '2009-11-07', explananda: '', title: 'Recently read: Thank you, Jeeves', tags: book_reviews}
 
 ---
 <strong>P.G. Wodehouse. <em>Thank you, Jeeves</em>.</strong>

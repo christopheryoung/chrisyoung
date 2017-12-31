@@ -1,6 +1,7 @@
 ---
 title: Books of 2013
 date: 2014-01-12
+tags: book_reviews
 ---
 
 ## Books, Book, Books
@@ -854,9 +855,9 @@ Finished: 11/20/2013, 12/16/2013
 More Logue. Silly verse by Logue accompanied by Kitchen's illustrations. My
 favourite verse in the collection:
 
-'Tis just as well  
-In the Customs shed  
-They search my bag  
+'Tis just as well
+In the Customs shed
+They search my bag
 But not my head.
 
 

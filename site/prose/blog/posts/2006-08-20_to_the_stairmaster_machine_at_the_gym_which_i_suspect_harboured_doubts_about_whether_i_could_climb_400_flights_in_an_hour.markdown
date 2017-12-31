@@ -1,7 +1,7 @@
 ---
 {date: '2006-08-20', explananda: '', title: 'To the stairmaster machine at the gym,
-    which I suspect harboured doubts about whether I could climb 400 flights in an
-    hour'}
+	which I suspect harboured doubts about whether I could climb 400 flights in an
+	hour', tags: fitness}
 
 ---
 In yo face, <i>muthafucka</i>.
@@ -68,4 +68,3 @@ What's wrong with my snarky comment?!
 <br/>
 
 *******************************************************************************
-

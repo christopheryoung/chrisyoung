@@ -1,5 +1,5 @@
 ---
-{date: '2006-10-20', explananda: '', title: Hume on wood}
+{date: '2006-10-20', explananda: '', title: Hume on wood, tags: philosophy, hume}
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-{date: '2008-12-07', explananda: '', title: 'Recently read: In Praise of Slowness'}
+{date: '2008-12-07', explananda: '', title: 'Recently read: In Praise of Slowness', tags: book_reviews}
 
 ---
 <strong>Carl Honor&eacute; <em>In Praise of Slowness: How a Worldwide Movement is Challenging the Cult of Speed</em></strong>
 
-Honor&eacute; doesn't actually write in praise of slowness.  "Slow" and its cognates are used by Honor&eacute; and many of the people he interviews to refer to doing things at the <em>right</em> speed.  Take food, for example, where the slow movement---according to Honor&eacute; there actually is such a thing---is supposed to have gotten its start.  Obviously a proponent of slow cooking is not going to insist that you sear a steak over several hours.  This is something that needs to be done quickly to be done at all.  But not everything needs to be seared; some of the best food takes a lot of time; and many people have gotten too rushed to slow down and take that time.  So the slow movement is so-called, not because it wants people to mindlessly reduce the speed at which they do things, but because when people with hectic lives apply a corrective to their behaviour, it's usually by slowing down things that they're doing too quickly.  
+Honor&eacute; doesn't actually write in praise of slowness.  "Slow" and its cognates are used by Honor&eacute; and many of the people he interviews to refer to doing things at the <em>right</em> speed.  Take food, for example, where the slow movement---according to Honor&eacute; there actually is such a thing---is supposed to have gotten its start.  Obviously a proponent of slow cooking is not going to insist that you sear a steak over several hours.  This is something that needs to be done quickly to be done at all.  But not everything needs to be seared; some of the best food takes a lot of time; and many people have gotten too rushed to slow down and take that time.  So the slow movement is so-called, not because it wants people to mindlessly reduce the speed at which they do things, but because when people with hectic lives apply a corrective to their behaviour, it's usually by slowing down things that they're doing too quickly.
 
-But slowness is more than that, apparently.  At times, what Honor&eacute; seems to be describing is deliberateness, or thoughtfulness, or what a lot of people refer to nowadays as mindfulness.  Or something.  Since people doing things mindfully tend to really think about the consequences of their behaviour, then, slowness also comes to encompass a lot of other things like, for example, organic food.  But it's even <em>more</em> than that!  
+But slowness is more than that, apparently.  At times, what Honor&eacute; seems to be describing is deliberateness, or thoughtfulness, or what a lot of people refer to nowadays as mindfulness.  Or something.  Since people doing things mindfully tend to really think about the consequences of their behaviour, then, slowness also comes to encompass a lot of other things like, for example, organic food.  But it's even <em>more</em> than that!
 <blockquote>In this book, Fast and Slow do more than just describe a rate of change.  They are shorthand for ways of being, or philosophies of life.  Fast is busy, controlling, aggressive, hurried, analytical [! . . . ?!? . . . $%^&*#!!!], stressed, superficial, impatient, active, quantity-over-quality.  Slow is the opposite: calm, careful, receptive, still, intuitive, unhurried, patient, reflective, quality-over-quantity.</blockquote>
 Honor&eacute; explores this theme, such as it is, through subjects like food, medicine, work, sex, raising children, and so on.
 
@@ -60,7 +60,7 @@ Milan Kundera has a novel called "Slowness". I have read this novel - possibly t
 <em>Author:</em> Chris
 <br/><em>Date:</em> 2008-12-09
 
-Kundera's book was mentioned in this book.  
+Kundera's book was mentioned in this book.
 
 One of my hobbies is trying to convince people that Milan Kundera sucks.  It's fun.  If you watch closely you can actually see a sort of light die in their eyes.
 <br/>
@@ -92,7 +92,7 @@ Damn.
 <em>Author:</em> DC
 <br/><em>Date:</em> 2008-12-09
 
-Oh I thought Unbearable Lightness was completely fantastic, and the Book of Laughter and Forgetting was good too and I'm about to start the Joke. I think I was dissapointed with Slowness and with Identity but I read them in French so I thought maybe that was the problem. 
+Oh I thought Unbearable Lightness was completely fantastic, and the Book of Laughter and Forgetting was good too and I'm about to start the Joke. I think I was dissapointed with Slowness and with Identity but I read them in French so I thought maybe that was the problem.
 
 I did have some nagging fear that maybe a person who was better read in fiction than me would see through Unbearable Lightness of Being somehow.
 <br/>
@@ -108,11 +108,11 @@ I did have some nagging fear that maybe a person who was better read in fiction 
 
 I read through most (all?) of Kundera's books up to and including Unbearable Lightness in high school.  I remember telling my dad that they were really good.  He read Unbearable Lightness, and then pointed out how insipid and shallow Kundera's view of his characters is.  A sort of light died in my eyes.  This is the gift my father gave me, and which I try to pass on to others.
 
-The way Kundera tries to blend essay and fiction into a single form is really intriguing.  If he could pull it off it would be really extraordinary.  But he can't.  It's ok to have stunted to characters.  That can make for some interesting fiction.  But the essays make clear that the characters often describe certain limits in Kundera's appreciation of human beings.  The lustless sex is only the start of the problem.  
+The way Kundera tries to blend essay and fiction into a single form is really intriguing.  If he could pull it off it would be really extraordinary.  But he can't.  It's ok to have stunted to characters.  That can make for some interesting fiction.  But the essays make clear that the characters often describe certain limits in Kundera's appreciation of human beings.  The lustless sex is only the start of the problem.
 
 I've been meaning to go back and do a big reread to figure out if I'm missing something.  Perhaps some day.
 
-East of Eden seems to me like a bunch of other Steinbeck books - awesome in a seriously flawed way.  (I still haven't read Grapes of Wrath.)  I read that in high school too, so it was a long time ago.  But I still remember being very moved by the final page.   I won't ruin it for anyone by describing any further.  
+East of Eden seems to me like a bunch of other Steinbeck books - awesome in a seriously flawed way.  (I still haven't read Grapes of Wrath.)  I read that in high school too, so it was a long time ago.  But I still remember being very moved by the final page.   I won't ruin it for anyone by describing any further.
 
 Some pretty fun Steinbeck is Cannery Row.  If you haven't read that, well, you just have to.  Tortilla Flat is set in the same place, with many of the same characters.  It's good, but not quite as good as Cannery Row.
 <br/>
@@ -189,4 +189,3 @@ Re: Unbearable Lightness (which i keep on calling/typing as "Eternal Lightness..
 <br/>
 
 *******************************************************************************
-

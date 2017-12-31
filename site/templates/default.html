@@ -44,13 +44,14 @@
       <div id="content">
 	<div style="text-align:center">
 	  $if(nextPost)$
-	  <a href="$nextPost$">&lt;&lt;&lt; Previous</a>
-	  $if(prevPost)$ | $endif$
+	  <a href="$nextPost$">&lt;&lt;&lt; Previous</a> | <a href="/prose/blog/">Main</a> | <a href="/prose/blog/tag-cloud/">Tags</a>
 	  $endif$
 
-	  $if(nextPost)$ $if(prevPost)$<a href="/prose/blog">Main</a>$endif$ $endif$
-
 	  $if(prevPost)$
+	  $if(nextPost)$
+	  $else$
+	  <a href="/prose/blog/">Main</a> | <a href="/prose/blog/tag-cloud/">Tags</a>
+	  $endif$
 	  | <a href="$prevPost$">Next &gt;&gt;&gt;</a>
 	  $endif$
 	</div>

@@ -1,10 +1,10 @@
 ---
-{date: '2009-11-10', explananda: '', title: 'Recently read: The Philosophical Baby'}
+{date: '2009-11-10', explananda: '', title: 'Recently read: The Philosophical Baby', tags: book_reviews}
 
 ---
 <strong>Alison Gopnik. <em>The Philosophical Baby: What Children's Minds Tell Us About Truth, Love, and the Meaning of Life</em></strong>
 
-I don't think I've mentioned on here yet that Yoon is (19 weeks and one day) pregnant.  I'll try not to turn this into an awful baby blog, but the fact that I'm going to be spending a significant amount of time in the company of an infant come the Spring has got me interested in reading about babies.  
+I don't think I've mentioned on here yet that Yoon is (19 weeks and one day) pregnant.  I'll try not to turn this into an awful baby blog, but the fact that I'm going to be spending a significant amount of time in the company of an infant come the Spring has got me interested in reading about babies.
 
 <em>The Philosophical Baby</em> by Alison Gopnik (sister of the New Yorker's Gopnik) tackles some really interesting questions: What is it like to be a baby?  How do young children think, experience the world, view moral  issues?  Gopnik is pretty effective at challenging the classic view of children as cognitively defective adults.  When you consider just how much children are absorbing, and how quickly, they start to seem anything but cognitively defective.  Gopnik proves a thoughtful and engaging guide through some recent work by cognitive psychologists on these issues.
 
@@ -56,4 +56,3 @@ http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=354824287
 <br/>
 
 *******************************************************************************
-

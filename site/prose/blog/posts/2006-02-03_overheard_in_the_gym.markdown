@@ -1,5 +1,5 @@
 ---
-{date: '2006-02-03', explananda: '', title: Overheard in the gym}
+{date: '2006-02-03', explananda: '', title: Overheard in the gym, tags: overheard, anecdotes, personal}
 
 ---
 

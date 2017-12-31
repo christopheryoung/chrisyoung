@@ -1,5 +1,5 @@
 ---
-{date: '2010-06-26', explananda: '', title: 'Recently read: Coming up for air edition'}
+{date: '2010-06-26', explananda: '', title: 'Recently read: Coming up for air edition', tags: book_reviews}
 
 ---
 Whew!  Busy, busy.  But at least I can read on the subway on my way to work.
@@ -18,7 +18,7 @@ This book is a children's classic published in 1950 and recently resurrected by 
 
 <strong>F&eacute;lix F&eacute;n&eacute;on. <em>Novels in Three Lines</em></strong>
 
-This is a collection of three line news summaries written by F&eacute;n&eacute;on for a French newspaper over the course of 1906.  The summaries occasionally touch on politics, but they're mostly about every day pieces of news: suicides, burglaries, assaults, and accidents.  This might sound monotonous---and actually I would recommend that people not try to read the book through cover to cover without a break---but F&eacute;n&eacute;on's summaries are, as the title of the book suggests, absolute masterpieces of compression.  F&eacute;n&eacute;on was an anarchist and an important behind-the-scenes literary and cultural figure in late nineteenth and early twentieth century France.  He wrote little and the contents of this book were only saved for posterity by lucky chance.  
+This is a collection of three line news summaries written by F&eacute;n&eacute;on for a French newspaper over the course of 1906.  The summaries occasionally touch on politics, but they're mostly about every day pieces of news: suicides, burglaries, assaults, and accidents.  This might sound monotonous---and actually I would recommend that people not try to read the book through cover to cover without a break---but F&eacute;n&eacute;on's summaries are, as the title of the book suggests, absolute masterpieces of compression.  F&eacute;n&eacute;on was an anarchist and an important behind-the-scenes literary and cultural figure in late nineteenth and early twentieth century France.  He wrote little and the contents of this book were only saved for posterity by lucky chance.
 
 
 <h1>Comments</h1>
@@ -61,4 +61,3 @@ Great, thanks!
 <br/>
 
 *******************************************************************************
-

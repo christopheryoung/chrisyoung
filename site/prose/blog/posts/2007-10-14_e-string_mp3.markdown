@@ -1,16 +1,16 @@
 ---
-{date: '2007-10-14', explananda: '', title: E-String mp3}
+{date: '2007-10-14', explananda: '', title: E-String mp3, tags: music, yoon_sun_choi}
 
 ---
 In her show this week, Yoon performed a new song for the first time with the E-String band (she performed it once before in August with a different band).  It's a bit rough, but I'm posting it here because a) in spite of the roughness, I just love it, and if I have to hum it all day you should too; and b) Yoon is thinking of making a video of the song, and I'm curious if anyone out there has any bright ideas for a video.  We have some filmmaker friends who don't mind spending a few hours helping us out, but the budget for the video needs to be nearly exactly $0.00, and it can't be filmed in more than one location.  Yoon has some ideas already, but if you can think of something better, she'll probably be happy to take it.  By the way, it's intended to be a sort of pop song, not a jazz tune, which is why it doesn't sound like jazz even though it's played by improvising musicians.  Oh, also, the words are sort of impressionistic and suggestive, so there's a lot of room for leeway on a video; and not being able to hear them all shouldn't stop you from suggesting ideas if you have them.
 
-The video won't be set to this version of the song (which is just a low-quality live recording), but this mp3 gives a reasonable sense of the song.  (Actually, she's recording a version of it now at the home studio of a friend of a friend.)  
+The video won't be set to this version of the song (which is just a low-quality live recording), but this mp3 gives a reasonable sense of the song.  (Actually, she's recording a version of it now at the home studio of a friend of a friend.)
 
 I've written <a href="http://www.explananda.com/?p=1902">before</a> about Yoon's performances, but I thought I would say something quick about how her band approaches a song like this.  First, there is a recognizable tune which has a particular form, and which the musicians to a certain extent follow.  The rest---the arrangement, the changes in mood and intensity, all that stuff---is improvised.  So, for example, in this version towards the end of the song the band gets quieter and quieter until the guitarist, Thomas Morgan, is the only one playing.  They played it this way the other night because that's the way they all happened to feel it should sound as they were playing.  Watching them play live was fun because you could see them all, without any rehearsal or direction, deciding that this was the right way to end the song this time around.  They might record it this way too, since it did sound awfully pretty, but even if they do, I would be surprised if they could be induced to play the song this way a third time, since by then they would have moved on to exploring a different way of presenting the music.  So, it's a kind of music that values spontaneity over polish.  There's nothing wrong with polish, but it just isn't that kind of music.  Anyway, it's one reason I find their live shows endlessly entertaining; it's always impossible to tell what's coming next.
 
-The E-String Band is Yoon Sun Choi on vocals and toy piano, Jacob Sacks on melodica, Khabu Doug Young on ukulele, Thomas Morgan on guitar, and Vinnie Sperrazza on cymbal and laptop.  Each of the musicians is playing a sort of secondary instrument: Yoon doesn't usually play toy piano, Jacob is a pianist, Khabu is better known for guitar, Thomas typically plays bass, and Vinnie usually has a full drum set.  
+The E-String Band is Yoon Sun Choi on vocals and toy piano, Jacob Sacks on melodica, Khabu Doug Young on ukulele, Thomas Morgan on guitar, and Vinnie Sperrazza on cymbal and laptop.  Each of the musicians is playing a sort of secondary instrument: Yoon doesn't usually play toy piano, Jacob is a pianist, Khabu is better known for guitar, Thomas typically plays bass, and Vinnie usually has a full drum set.
 
-The song is released under a Creative Commons license that allows you to share the file with friends.  
+The song is released under a Creative Commons license that allows you to share the file with friends.
 
 <a href="/media/explananda/GlassHeart.mp3">Here</a> it is.
 
@@ -18,4 +18,3 @@ The song is released under a Creative Commons license that allows you to share t
 <ul>
 <li>The file Glass Heart .mp3 identified by <a href="magnet:?xt=urn:sha1:OTQRNVTT7PAVNDDPZH3MLRQJETPBKS6A">urn:sha1:OTQRNVTT7PAVNDDPZH3MLRQJETPBKS6A</a> is licensed to the public under the <a about="urn:sha1:OTQRNVTT7PAVNDDPZH3MLRQJETPBKS6A" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution-Noncommercial-Share Alike 3.0 Unported</a> license.</li>
 </ul>
-

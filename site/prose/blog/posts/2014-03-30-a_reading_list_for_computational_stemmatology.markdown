@@ -1,6 +1,7 @@
 ---
 title: A Reading List for Computational Stemmatology
 date: 2014-03-30
+tags: computational_stemmatology
 ---
 
 I've long been interested in computational stemmatology.

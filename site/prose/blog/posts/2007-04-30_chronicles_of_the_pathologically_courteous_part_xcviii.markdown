@@ -1,6 +1,6 @@
 ---
 {date: '2007-04-30', explananda: '', title: 'Chronicles of the pathologically courteous,
-    Part XCVIII'}
+	Part XCVIII', tags: anecdotes, personal}
 
 ---
 Walking along Lexington Ave. the other day, I passed a woman smoking a cigarette.  At the very moment that I walked by her, she carelessly swung her arm out wide from her body and in one quick accidental motion ended up grinding her cigarette out on my hand.  I felt a little sting, and looked down to see the grey streak of ashes on my hand.  Without thinking, following an impulse ingrained in me by years and years of practice, I turned to her and blurted out: "Sorry!"
@@ -13,7 +13,7 @@ Walking along Lexington Ave. the other day, I passed a woman smoking a cigarette
 <em>Author:</em> upyernoz
 <br/><em>Date:</em> 2007-04-30
 
-i think this is definitive proof that you're still more of a canadian than a new yorker. 
+i think this is definitive proof that you're still more of a canadian than a new yorker.
 
 then again, i'm not either and i can imagine doing the same thing.  i think sometimes "sorry" doesn't actually mean you're sorry for anything.  it's just comes out when it seems like you should say something but you haven't reflected on what is the appropriate thing to say.
 <br/>
@@ -43,7 +43,7 @@ I need to live in Montana or something.
 <em>Author:</em> Chris
 <br/><em>Date:</em> 2007-04-30
 
-Man, I fucking hate it when people block the doors that way.  
+Man, I fucking hate it when people block the doors that way.
 
 Actually, I'm not always polite.  A few weeks ago I glared at someone rather aggressively after they almost ran Yoon and I down at an intersection.
 <br/>
@@ -84,7 +84,7 @@ SORRY!!!
 <br/><em>Date:</em> 2007-04-30
 
 Wah ha ha ha ha!
-Wow. Sorry for accidentally getting my tender flesh on your burning cigarette, ma'am. 
+Wow. Sorry for accidentally getting my tender flesh on your burning cigarette, ma'am.
 (Did she apologize, afterward?)
 <br/>
 <br/>
@@ -115,4 +115,3 @@ Only the burning truthfulness of the hangover-state would prevent me from reacti
 <br/>
 
 *******************************************************************************
-

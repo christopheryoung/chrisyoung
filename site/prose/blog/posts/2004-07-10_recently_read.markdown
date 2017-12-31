@@ -1,8 +1,8 @@
 ---
-{date: '2004-07-10', explananda: '', title: Recently Read}
+{date: '2004-07-10', explananda: '', title: Recently Read, tags: book_reviews}
 
 ---
--- Wodehouse. <i>The Code of the Woosters</i> and <i>The Mating Season</i>.  It got so that I couldn't really read these in public, they're so funny (and I've never shown much restraint with laughter anyway, being a jolly, life-affirming sort of guy).  When it comes to Wodehouse, once I manage to wrestle my own left-wing hatred of snobbery and classism into submission, there's really no looking back.  
+-- Wodehouse. <i>The Code of the Woosters</i> and <i>The Mating Season</i>.  It got so that I couldn't really read these in public, they're so funny (and I've never shown much restraint with laughter anyway, being a jolly, life-affirming sort of guy).  When it comes to Wodehouse, once I manage to wrestle my own left-wing hatred of snobbery and classism into submission, there's really no looking back.
 
 -- Margaret MacMillan. <i>Paris 1919</i>.  A wonderful read.  MacMillan looks at the six month long peace talks in Paris after the first world war.  That the peace conference botched a great many things, no one could deny.  And indeed, for a long time after few were willing to affirm that it got anything right.  MacMillan challenges some of the harsher verdicts on the conference, and offers a fine sense of some of the complexities facing leaders, as they juggled revolutions, nationalisms, the break up of empires, public opinion, and oh so much more.  I've been meaning to post a bit on this book, and I may yet if I can wrestle my inveterate laziness into submission.  So much wrestling, so little time.
 
@@ -52,4 +52,3 @@ Wodehouse, whatever he does do, does not promote or defend "snobbery and classis
 <br/>
 
 *******************************************************************************
-

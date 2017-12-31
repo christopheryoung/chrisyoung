@@ -1,8 +1,8 @@
 ---
-{date: '2009-05-12', explananda: '', title: On carrying it around in your head}
+{date: '2009-05-12', explananda: '', title: On carrying it around in your head, tags: poetry, personal, memory}
 
 ---
-Inspired by <a href="http://www.nytimes.com/2009/04/05/books/review/Holt-t.html">this piece</a> in the NYT, a bit more than two weeks ago Yoon and I started memorizing a line of poetry a day.  I set up an email alert in my calendar to remind me each morning to add a new line, which I do by typing out the entire poem so far plus the day's line in an email to Yoon.  We decided to start with Frost's "<a href="http://www.bartleby.com/104/66.html">Birches</a>."  
+Inspired by <a href="http://www.nytimes.com/2009/04/05/books/review/Holt-t.html">this piece</a> in the NYT, a bit more than two weeks ago Yoon and I started memorizing a line of poetry a day.  I set up an email alert in my calendar to remind me each morning to add a new line, which I do by typing out the entire poem so far plus the day's line in an email to Yoon.  We decided to start with Frost's "<a href="http://www.bartleby.com/104/66.html">Birches</a>."
 
 It's been a lot of fun so far.  Although the poem has been familiar to me for years, Yoon's never seen it, and has insisted on not reading ahead.  So every day she gets one more line of it; she's really enjoyed watching it unfurl a bit at a time, day after day.
 
@@ -40,7 +40,7 @@ Ouch.  Fixed.
 <em>Author:</em> Kegri
 <br/><em>Date:</em> 2009-05-15
 
-this reminds me of a great story called "talking him in" by dan yashinsky.  
+this reminds me of a great story called "talking him in" by dan yashinsky.
 
 google books link:
 
@@ -53,4 +53,3 @@ speaking of great stories, have you ever read "the pillowman"?  pretty fantastic
 <br/>
 
 *******************************************************************************
-

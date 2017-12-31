@@ -1,6 +1,7 @@
 ---
 title: August Links
 date: 2014-08-31
+tags: academia, manners
 ---
 
 Hoo boy. What a month.

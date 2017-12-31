@@ -1,5 +1,5 @@
 ---
-{date: '2006-06-30', explananda: '', title: The best tragic style}
+{date: '2006-06-30', explananda: '', title: The best tragic style, tags: aristotle, classics}
 
 ---
 

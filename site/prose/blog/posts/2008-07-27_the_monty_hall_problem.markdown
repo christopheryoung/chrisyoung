@@ -1,5 +1,5 @@
 ---
-{date: '2008-07-27', explananda: '', title: The Monty Hall Problem}
+{date: '2008-07-27', explananda: '', title: The Monty Hall Problem, tags: code, math}
 
 ---
 Thanks to a friend, this morning I learned about the <a href="http://www.nytimes.com/2008/04/08/science/08tier.html?_r=6&8dpc&oref=slogin&oref=slogin&oref=login&oref=slogin&oref=login&oref=login">Monty Hall Problem</a>.  As she remarked, it is counter-intuitive in the extreme.  But I see from the <a href="http://en.wikipedia.org/wiki/Monty_Hall_problem">Wikipedia article</a> that even Paul Erdos got it wrong the first time, so I don't feel too bad about being initially stumped.  (If you're having trouble getting it, I found it very helpful to step back and think about the related N doors puzzle discussed in the Wikipedia article.)
@@ -14,19 +14,19 @@ carcount = 0.0
 trials = 100000
 
 for i in range(1, trials):
-    possibilities = ['goat', 'goat', 'car']
-    random.shuffle(possibilities)
-    if possibilities[1] == 'goat':
-        remainingchoice.append(possibilities[2])
-    else:
-        remainingchoice.append(possibilities[1])
-                                   
+	possibilities = ['goat', 'goat', 'car']
+	random.shuffle(possibilities)
+	if possibilities[1] == 'goat':
+		remainingchoice.append(possibilities[2])
+	else:
+		remainingchoice.append(possibilities[1])
+
 remainingchoice.sort()
 for item in remainingchoice:
-    if item == 'goat':
-        pass
-    else:
-        carcount +=1    
+	if item == 'goat':
+		pass
+	else:
+		carcount +=1
 
 print (carcount * 100) / trials
 [/sourcecode]
@@ -86,10 +86,10 @@ import random
 carcount = 0.0
 trials = 100000
 
-for i in range(1, trials): 
-----possibilities = ['goat', 'goat', 'car'] 
-----random.shuffle(possibilities) 
-----if (possibilities[1] == 'goat' and possibilities[2] == 'goat'): 
+for i in range(1, trials):
+----possibilities = ['goat', 'goat', 'car']
+----random.shuffle(possibilities)
+----if (possibilities[1] == 'goat' and possibilities[2] == 'goat'):
 --------pass
 ----else:
 --------carcount += 1
@@ -162,16 +162,16 @@ Will chime in more later, but here's a quick stylistic hint: rather than
 
 
 if condition:
-    pass
+	pass
 else:
-    doSomething()
+	doSomething()
 
 
 it's prettier to just do
 
 
 if not condition:
-    doSomething()
+	doSomething()
 
 <br/>
 <br/>
@@ -196,7 +196,7 @@ I tried to submit that with PRE tags around the code. No love.
 <em>Author:</em> Chris
 <br/><em>Date:</em> 2008-07-27
 
-Ah, thank you.  Will do that from now on.  
+Ah, thank you.  Will do that from now on.
 
 Yeah, sorry about the lack of formatting in comments.
 <br/>
@@ -230,7 +230,7 @@ It was upon realizing that my solution was pure sophistry that I came to believe
 
 But Monte isn't going to open up a door with a car behind it.  Does that help?  It looks to me like your original solution is right.
 
-Does thinking of the n door case help?  Suppose you have a 100 doors.  You choose one.  Now Monte opens up 98 doors, revealing goats behind every one of them.  Should you switch to the one remaining door?  Obviously!  Because the chance of your picking the right door on the first try is 1/100.  Choosing the remaining unopened door after the 98 have been eliminated gives you a 99/100 chance of getting it right.  
+Does thinking of the n door case help?  Suppose you have a 100 doors.  You choose one.  Now Monte opens up 98 doors, revealing goats behind every one of them.  Should you switch to the one remaining door?  Obviously!  Because the chance of your picking the right door on the first try is 1/100.  Choosing the remaining unopened door after the 98 have been eliminated gives you a 99/100 chance of getting it right.
 
 Or do I not understand it either?
 <br/>
@@ -407,4 +407,3 @@ What has become of Explananda? Books and python. And not even books about python
 <br/>
 
 *******************************************************************************
-

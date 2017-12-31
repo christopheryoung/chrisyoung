@@ -1,8 +1,8 @@
 ---
-{date: '2010-03-03', explananda: '', title: Oliver}
+{date: '2010-03-03', explananda: '', title: Oliver, tags: personal}
 
 ---
-My son Oliver wasn't due until April 5th, but the little rascal managed to sneak himself into the world ahead of schedule on Sunday in an early morning c-section.  Both mother and child are recovering well.  
+My son Oliver wasn't due until April 5th, but the little rascal managed to sneak himself into the world ahead of schedule on Sunday in an early morning c-section.  Both mother and child are recovering well.
 
 <img src="/media/explananda/me_and_ollie.jpg" alt="Chris and Oliver" />
 
@@ -154,4 +154,3 @@ Awesome Chris... congratulations!
 <br/>
 
 *******************************************************************************
-

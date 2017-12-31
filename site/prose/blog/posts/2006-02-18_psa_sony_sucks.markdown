@@ -1,5 +1,5 @@
 ---
-{date: '2006-02-18', explananda: '', title: 'PSA: Sony sucks'}
+{date: '2006-02-18', explananda: '', title: 'PSA: Sony sucks', tags: customer_feedback}
 
 ---
 I'll put this under the fold, since it's more for inquiring googlers than regular readers.

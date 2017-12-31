@@ -1,6 +1,7 @@
 ---
 title: June Link Roundup
 date: 2014-06-30
+tags: software_industry, gentrification, race, cities
 ---
 
 Michael J. Glennon

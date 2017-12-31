@@ -1,5 +1,5 @@
 ---
-{date: '2009-04-13', explananda: '', title: 'Recently read: Consider the Lobster'}
+{date: '2009-04-13', explananda: '', title: 'Recently read: Consider the Lobster', tags: book_reviews}
 
 ---
 <strong>David Foster Wallace. <em>Consider the Lobster: And Other Essays</em></strong>
@@ -187,4 +187,3 @@ http://podcast.cbc.ca/mp3/quirksaio_20090411_14205.mp3
 <br/>
 
 *******************************************************************************
-

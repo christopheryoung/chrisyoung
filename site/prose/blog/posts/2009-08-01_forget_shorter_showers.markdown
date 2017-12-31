@@ -1,5 +1,5 @@
 ---
-{date: '2009-08-01', explananda: '', title: Forget shorter showers}
+{date: '2009-08-01', explananda: '', title: Forget shorter showers, tags: politics, environment}
 
 ---
 Oh thankyouthankyouthankyouthankyou so much to the internets for <a href="http://www.orionmagazine.org/index.php/articles/article/4801/">this</a> article on a variety of environmentalism that drives me absolutely bonkers.
@@ -8,7 +8,7 @@ Oh thankyouthankyouthankyouthankyou so much to the internets for <a href="http:/
 
 Or let's talk water. We so often hear that the world is running out of water. People are dying from lack of water. Rivers are dewatered from lack of water. Because of this we need to take shorter showers. See the disconnect? Because I take showers, I'm responsible for drawing down aquifers? Well, no. More than 90 percent of the water used by humans is used by agriculture and industry. The remaining 10 percent is split between municipalities and actual living breathing individual humans. Collectively, municipal golf courses use as much water as municipal human beings. People (both human people and fish people) aren't dying because the world is running out of water. They're dying because the water is being stolen.
 </blockquote>
-And so on with lots of illustrative examples.  The author concludes with a reasonable meditation on the sorts of political changes we need to bring about.  
+And so on with lots of illustrative examples.  The author concludes with a reasonable meditation on the sorts of political changes we need to bring about.
 
 I think this is exactly right.  We're facing enormous <em>political</em> problems with the environment now that require broad political solutions.  Everyone in my neighbourhood can recycle and bike to work for the next ten years and all the good we've done can be undone in an instant by a single line in a farm bill.  Environmental activism that focuses energy and effort away from that level may be well-meaning, but it can also be positively harmful.   At this point we really need to think globally and act nationally.
 
@@ -20,7 +20,7 @@ I think this is exactly right.  We're facing enormous <em>political</em> problem
 <em>Author:</em> A White Bear
 <br/><em>Date:</em> 2009-08-01
 
-I've been wanting to write something about this for a while, ever since Slate started that absurd column about making "green" choices. Is it better for the environment to make Chinese food at home or to order it at a restaurant? Pick up or delivery? Plastic or paper takeout containers? Someone actually sits around calculating the carbon footprint of all these choices. Should I buy beans dried or in cans? Is it greener to cut my own hair? 
+I've been wanting to write something about this for a while, ever since Slate started that absurd column about making "green" choices. Is it better for the environment to make Chinese food at home or to order it at a restaurant? Pick up or delivery? Plastic or paper takeout containers? Someone actually sits around calculating the carbon footprint of all these choices. Should I buy beans dried or in cans? Is it greener to cut my own hair?
 
 Seriously, if this is the dilemma keeping you up at night, you don't have enough problems, and are also a moron.
 <br/>
@@ -62,7 +62,7 @@ And yet, there are personal choices that I think it's worth making. If you live 
 
 I am sort of obsessed with <a href="http://www.facebook.com/ext/share.php?sid=112022886875&amp;h=V49w5&amp;u=-I94t&amp;ref=mf" rel="nofollow">this</a> video right now, in which Zizek talks at length about revolutionary political action and its relationship to issues like ecology. There's a part that seems relevant here, which is his tasteless joke at 21:00. The problem is not that small efforts can't be helpful; the problem is confusing small victories for revolutionary action. What bothers me about the Slate column and discussions like it is that so much energy and effort goes into thinking about the minutest imaginable environmentalist gestures, as if purposefully to ignore the larger structures of corporate destruction of the environment through the medium of the illusion of consumer "choice."
 
-I do not get the sense that these discussions (is it more important to buy recycled toilet paper or unbleached toilet paper?) are held in the spirit of "This do in remembrance of me," as a way of living fully within environmental awareness even in our smallest choices. It's cheap, symbolic absolution for the politically sedentary bourgeoisie. 
+I do not get the sense that these discussions (is it more important to buy recycled toilet paper or unbleached toilet paper?) are held in the spirit of "This do in remembrance of me," as a way of living fully within environmental awareness even in our smallest choices. It's cheap, symbolic absolution for the politically sedentary bourgeoisie.
 
 Yes, take your bike to work and buy recycled toilet paper, but don't imagine you're some kind of environmentalist martyr.
 <br/>
@@ -90,9 +90,9 @@ Sorry, the "joke" is at 21:55.
 
 Saying "forget shorter showers" might be a bit dramatic for the point I want to make.  Habitually taking long showers is sort of selfish, all things considered.  It's just that, as I've complained, taking shorter showers isn't likely to do all *that* much good.
 
-I buy organic food partly because I want to support in a very modest way a slightly more sustainable model of farming.  I buy fair trade coffee because I don't want to participate in an unfair and exploitive coffee trade.  I try to stick to fair trade chocolate because kids are used (and abused) in the cultivation of chocolate all around the world.  And so on (but not on and on---I don't mean to suggest that I go all that far on these sorts of issues).   But I think these choices are more about trying to avoid the icky feeling that you get from participating in bad things than it is about actually doing much to make the world a better place.  
+I buy organic food partly because I want to support in a very modest way a slightly more sustainable model of farming.  I buy fair trade coffee because I don't want to participate in an unfair and exploitive coffee trade.  I try to stick to fair trade chocolate because kids are used (and abused) in the cultivation of chocolate all around the world.  And so on (but not on and on---I don't mean to suggest that I go all that far on these sorts of issues).   But I think these choices are more about trying to avoid the icky feeling that you get from participating in bad things than it is about actually doing much to make the world a better place.
 
-But yeah, there is something obscene in buying a gas-guzzler.  I admit it. 
+But yeah, there is something obscene in buying a gas-guzzler.  I admit it.
 
 AWB, yeah, preach it, sister.
 <br/>
@@ -140,11 +140,11 @@ I'm looking forward to taking my own advice on all this soon.
 
 Reuse, recycle, OFE! The environment demands it!
 
-Yeah, Chris, the "I dragged myself out of a lovely shower" environmentalist is, I think, <em>less</em> likely to care about environmental revolution, in part out of the sense of resentment and entitlement. 
+Yeah, Chris, the "I dragged myself out of a lovely shower" environmentalist is, I think, <em>less</em> likely to care about environmental revolution, in part out of the sense of resentment and entitlement.
 
 The despair that I often feel is that even if individual citizens are "doing their part" to turn off the A/C, drive less, shower shorter, and buy environmentally friendlier consumer goods, whatever benefit that adds up to will be eaten up by unregulated corporations.
 
-I have strong feelings about the "problem" of true-believerism, in that the political effectiveness of impassioned, ethical struggle is always overmatched by the social pressure of public opinion. So unless it's cool for the bourgeoisie to pay attention to the environment, they will never care about it for its own sake at all. Unless there's something they can buy to salve the guilt of participating in a corrupt economy, they're not interested. But consumerism can't save us from consumerism. 
+I have strong feelings about the "problem" of true-believerism, in that the political effectiveness of impassioned, ethical struggle is always overmatched by the social pressure of public opinion. So unless it's cool for the bourgeoisie to pay attention to the environment, they will never care about it for its own sake at all. Unless there's something they can buy to salve the guilt of participating in a corrupt economy, they're not interested. But consumerism can't save us from consumerism.
 
 In my more radical moments, this is basically what I resent about Obama. He talks up populism and true-believerish stuff in a way that makes "change" seem cool, but in making "change" cool, it ensures that no change can ever really happen. Cool is a consumerist drive. Cool is the satisfaction of property. Cool means not getting angry or making demands, but instead trying to market a new product, and no product can ever truly constitute change at a level that will make a difference.
 
@@ -164,15 +164,15 @@ Hmmm. I think there's some confusion going on here between two distinct concepts
 
 1) that corporations/the "growth economy", rather than feckless individual consumers are chiefly responsable for environmental degradation.
 
-2) that political action rather than changes in individual consumers' behaviour is necessary to protect the environment. 
+2) that political action rather than changes in individual consumers' behaviour is necessary to protect the environment.
 
-The nub of the argument (OK I haven't read the article) seems to be here: 
+The nub of the argument (OK I haven't read the article) seems to be here:
 
 "Because I take showers, I'm responsible for drawing down aquifers? Well, no. More than 90 percent of the water used by humans is used by agriculture and industry."
 
-But of course agriculture and industry use water in order to sell stuff to... individual consumers. Therefore 1) is a bit of a false dichotomy, and if we amend the naive environmentalist slogan from "take shorter showers" to "consume less water-intesive products (including showers)" then the environment would in fact be saved if everyone took this advice to a sufficent degree. 
+But of course agriculture and industry use water in order to sell stuff to... individual consumers. Therefore 1) is a bit of a false dichotomy, and if we amend the naive environmentalist slogan from "take shorter showers" to "consume less water-intesive products (including showers)" then the environment would in fact be saved if everyone took this advice to a sufficent degree.
 
-Obviously, this brings us to 2) - everyone is not going to take this kind of advice, either because they don't have the required information (eg about the water-intensity of different products), or because they don't care or because they think individual action is futile. In other words we have a collective action problem, which can only be solved through political action. 
+Obviously, this brings us to 2) - everyone is not going to take this kind of advice, either because they don't have the required information (eg about the water-intensity of different products), or because they don't care or because they think individual action is futile. In other words we have a collective action problem, which can only be solved through political action.
 
 So I don't think it's wrong to think about the environment in terms of individual consumption choices. But the question shouldn't be "what can I do in my consumption patterns to save the environment" but rather "what can we do so that individual behaviour changes enough to save the environment"? For the reasons mentioned above, the answer to that involves things like carbon taxes and cap and trade (which affect corporations and individuals alike) rather than mere exhortation.
 <br/>
@@ -210,7 +210,7 @@ Could we actually make it trendy to wash less? I doubt it, although I remember o
 
 Vacation locally? Not sure how you'd work this through, but I feel there's the germ of an idea...
 
-Less is more! Strip it all to the bone! Stuff is too plebian! 
+Less is more! Strip it all to the bone! Stuff is too plebian!
 
 It's all bollocks, of course. Crippling corporate penalties for manufacturers who refuse to meet emission targets would be much more useful.
 <br/>
@@ -241,4 +241,3 @@ Oh, I quite agree. I was just playing with AWB's "He talks up populism and true-
 <br/>
 
 *******************************************************************************
-

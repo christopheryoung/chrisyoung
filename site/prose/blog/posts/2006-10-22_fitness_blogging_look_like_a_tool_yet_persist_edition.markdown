@@ -1,6 +1,6 @@
 ---
 {date: '2006-10-22', explananda: '', title: Fitness blogging ("Look like a tool yet
-	persist" Edition)}
+	persist" Edition), tags: fitness}
 
 ---
 My new gym has a punching bag and a <a

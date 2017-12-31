@@ -1,6 +1,7 @@
 ---
 title: March Links
 date: 2014-03-31
+tags: race, poverty, academia, statistics
 ---
 
 Not new this month, but I came across this post in which Rortybomb writes about

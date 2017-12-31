@@ -1,5 +1,5 @@
 ---
-{date: '2009-07-17', explananda: '', title: Cronkite}
+{date: '2009-07-17', explananda: '', title: Cronkite, tags: personal}
 
 ---
 Walter Cronkite just died. My oldest political memories are of lying on

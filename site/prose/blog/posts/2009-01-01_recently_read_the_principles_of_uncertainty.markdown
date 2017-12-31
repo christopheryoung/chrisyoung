@@ -1,5 +1,5 @@
 ---
-{date: '2009-01-01', explananda: '', title: 'Recently read: The Principles of Uncertainty'}
+{date: '2009-01-01', explananda: '', title: 'Recently read: The Principles of Uncertainty', tags: book_reviews}
 
 ---
 <strong>Maira Kalman. <em>The Principles of Uncertainty</em></strong>

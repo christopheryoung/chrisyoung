@@ -1,6 +1,7 @@
 ---
 title: February Links
 date: 2014-02-28
+tags: free_will, probability, law, movies, social_psychology, socialism
 ---
 
 Mind Hacks makes a sensible point about

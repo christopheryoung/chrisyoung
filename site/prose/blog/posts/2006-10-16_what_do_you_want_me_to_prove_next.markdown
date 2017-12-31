@@ -1,8 +1,8 @@
 ---
-{date: '2006-10-16', explananda: '', title: 'What do you want me to prove next?'}
+{date: '2006-10-16', explananda: '', title: 'What do you want me to prove next?', tags: classics, herodotus}
 
 ---
-There is simply not enough Herodotus blogging in the world, so let's make our own modest attempt to remedy that, shall we?  
+There is simply not enough Herodotus blogging in the world, so let's make our own modest attempt to remedy that, shall we?
 
 I just love the batshit crazy way that Cambyses tries to refute the Persian claim that he was nuts.  Here he is speaking to Prexaspes: <blockquote>"I'll soon show you if the Persians speak the truth, or if what they say is not a sign of their own madness rather than mine.  You see your son standing there by the door?  If I shoot him through the middle of the heart, I shall have proved the Persians' words empty and meaningless; if I miss, then say, if you will, that the Persians are right, and my wits are gone."
 
@@ -91,7 +91,7 @@ But: as you know Chris, I've been reading (in part re-reading) Plato recently an
 
 Do other people find this too? Have there been reputable attempts to make the speech more realistic, or at least less grating to the (my?) modern ear? Seriously, every time I read "do not" instead of "don't" in what is supposed to be a dialogue...it ticks me off.
 
-Basically, why was everyone so anal (as regards their speaking style) in ancient Greece? 
+Basically, why was everyone so anal (as regards their speaking style) in ancient Greece?
 
 [Cue jokes about "Platonic" relationships etc.]
 <br/>
@@ -136,4 +136,3 @@ No, no.  Try <a href="http://www.hackettpublishing.com/detail.php?_d=TbxmaD8F4tW
 <br/>
 
 *******************************************************************************
-

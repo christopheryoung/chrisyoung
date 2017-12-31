@@ -1,6 +1,6 @@
 ---
 {date: '2007-10-26', explananda: '', title: You'll go down if you don't stand up for
-	yourself}
+	yourself, tags: poetry, politics}
 
 ---
 I'm going through one of those phases in which I'm so angry and bewildered by politics that I find it difficult to write much about it.  Anyway, I've come across a poem by Bertolt Brecht twice in the last few months, and thought it worth sharing.  I believe it was the last poem Brecht ever wrote. <blockquote>And I Always Thought

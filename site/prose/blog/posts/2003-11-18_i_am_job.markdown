@@ -1,5 +1,5 @@
 ---
-{date: '2003-11-18', explananda: '', title: '[I am Job]'}
+{date: '2003-11-18', explananda: '', title: 'I am Job', tags: anecdotes, personal}
 
 ---
 There was a man in the land of New York and his name was CY.  and that man was blameless and upright, one who feared God, and turned away from evil.  He had a laptop, which was worth more to him than all of the oxen of New Jersey.  And lo he did blog on his laptop.  And he worked mightily on his PhD during the day, and during the evenings reclined with his laptop and watched Monty Python videos borrowed (for free!) from his university's library.  And he was pure of heart, or at least pure enough to hate the evil Bush.
@@ -22,12 +22,12 @@ Again there was a day when the sons of God came to present themselves before the
 
 Then Satan answered the LORD, "What. Ever.   But put forth thy hand now, and touch his email account and he will sob like a little girlyman."   And the LORD said to Satan, "Behold, he is in your power; only spare the laptop itself."
 
-And so when CY went to check his email Tuesday morning, the day before the talk, verily was his email down.  And Satan singled him out, since the email shortage seemed to affect very few people on campus, though the computer geeks did note mail server problems in isolated cases.  And verily was CY an isolated case. 
+And so when CY went to check his email Tuesday morning, the day before the talk, verily was his email down.  And Satan singled him out, since the email shortage seemed to affect very few people on campus, though the computer geeks did note mail server problems in isolated cases.  And verily was CY an isolated case.
 
-And then did CY curse his dependence on technology, having been screwed once before he got his laptop and by the same idiots who run his school's email server.  And then did he curl into a ball and wimper and resign himself to finishing the talk in the computer lab, a process involving not only a lot of typing but also the futile attempt to filter out inane conversations going on around him a good deal of the time. 
+And then did CY curse his dependence on technology, having been screwed once before he got his laptop and by the same idiots who run his school's email server.  And then did he curl into a ball and wimper and resign himself to finishing the talk in the computer lab, a process involving not only a lot of typing but also the futile attempt to filter out inane conversations going on around him a good deal of the time.
 
-And so, he'd better get to work and stop playing with his blog.  But you'll surely understand if it's a little quieter around here for a few days. 
+And so, he'd better get to work and stop playing with his blog.  But you'll surely understand if it's a little quieter around here for a few days.
 
-BONUS HELPER POINTS: Anyone know what you do if you think you might have lost your Home XP System disk?  Verily, I suspect I'm fucked. 
+BONUS HELPER POINTS: Anyone know what you do if you think you might have lost your Home XP System disk?  Verily, I suspect I'm fucked.
 
 UPDATE (much later): If you've just wandered in from Wampum or anywhere else, I've written a little welcome <a href="http://www.seewhy.blogspot.com/2003_12_14_seewhy_archive.html#107151277494757650">here</a>.

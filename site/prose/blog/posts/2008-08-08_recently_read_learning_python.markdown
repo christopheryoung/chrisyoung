@@ -1,5 +1,5 @@
 ---
-{date: '2008-08-08', explananda: '', title: 'Recently read: "Learning Python"'}
+{date: '2008-08-08', explananda: '', title: 'Recently read: "Learning Python"', tags: book_reviews}
 
 ---
 <strong>Mark Lutz. <em>Learning Python</em></strong>

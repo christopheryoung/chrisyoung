@@ -1,13 +1,13 @@
 ---
 {date: '2009-11-29', explananda: '', title: 'Recently read: In the Land of Invented
-    Languages'}
+	Languages', tags: book_reviews}
 
 ---
 <strong>Arika Okrent. <em>In the Land of Invented Languages: Esperanto Rock Stars, Klingon Poets, Loglan Lovers, and the Mad Dreamers Who Tried to Build a Perfect Language</em></strong>
 
 Why does language have to be so damn <em>messy</em>?  Why do we have irregular verbs and inconsistently pluralized nouns and difficult to memorize and often arbitrary rules about the usage of prepositions and all the rest of it?  The quirks of a language annoy and repel outsiders and almost as often stump native speakers too.  And might this disorder in natural languages have consequences beyond the headaches involved in learning them?  We have very muddled minds, do we not?  Perhaps the muddle is linguistic in origin, and a clearer, more rational language would have us thinking clearer and more rational thoughts.  And anyway, wouldn't inventing an entirely new language simply be <em>fun</em>?
 
-And so in a world already teeming with natural languages, many of which are suffering from neglect, we get people---a surprising number of people---who sweep all these languages aside in favour of new languages entirely of their own making.  Arika Okrent's <em>In the Land of Invented Languages</em> is a highly entertaining, insightful and well-researched look at several hundred years of attempts to construct artificial languages.  
+And so in a world already teeming with natural languages, many of which are suffering from neglect, we get people---a surprising number of people---who sweep all these languages aside in favour of new languages entirely of their own making.  Arika Okrent's <em>In the Land of Invented Languages</em> is a highly entertaining, insightful and well-researched look at several hundred years of attempts to construct artificial languages.
 
 Okrent begins with early modern attempts to develop languages in which the names for things would indicate clearly what they actually were.  (An artificial language with this ambition would use a term for a dog which would indicate precisely what a dog is, whereas our word "dog" denotes a dog simply by convention.)  It's an utterly nutty idea, and not just because you need to know how to break the entire universe down into categories before you can create, let alone speak, the language.  It gives some sense of Okrent's approach (and her goofy sense of humour) that the word she chooses to investigate is "shit," and that she actually pulls off quite a nice discussion of some of the philosophical difficulties raised by her investigation.
 
@@ -115,11 +115,11 @@ I honestly can't remember now whether she specifically mentions it.  But <a href
 <em>Author:</em> Bernardo Verda
 <br/><em>Date:</em> 2009-11-30
 
-Arika Okrent devoted a fair amount to Ben Yehuda's project to revive or re-invent a modern Hebrew, largely incorporated in the parts of the book dealing with Esperanto.  Zamenhof and Yehuda's worked on their projects at around around the same time, and even more remarkably actually succeeded in becoming actual "living" languages in practical use today. 
+Arika Okrent devoted a fair amount to Ben Yehuda's project to revive or re-invent a modern Hebrew, largely incorporated in the parts of the book dealing with Esperanto.  Zamenhof and Yehuda's worked on their projects at around around the same time, and even more remarkably actually succeeded in becoming actual "living" languages in practical use today.
 
-She also had at least a chapter's worth about Loglan and Lojban.  
+She also had at least a chapter's worth about Loglan and Lojban.
 
-She actually researched the topic -- and it needs to be noted that a truly astounding proportion of linguists and language professionals seem quite happy to pass off their casual impressions, assumptions and prejudices as well-founded, authoritative knowledge of this topic. 
+She actually researched the topic -- and it needs to be noted that a truly astounding proportion of linguists and language professionals seem quite happy to pass off their casual impressions, assumptions and prejudices as well-founded, authoritative knowledge of this topic.
 
 All in all, I found the book to be a relatively light, but still a quite worthwhile and entertaining, read.
 <br/>
@@ -150,4 +150,3 @@ Like I said, her discussion of Loglan (and Lojban) touches on some of that.  It'
 <br/>
 
 *******************************************************************************
-

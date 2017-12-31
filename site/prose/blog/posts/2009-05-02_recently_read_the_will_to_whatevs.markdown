@@ -1,5 +1,5 @@
 ---
-{date: '2009-05-02', explananda: '', title: 'Recently read: The Will to Whatevs'}
+{date: '2009-05-02', explananda: '', title: 'Recently read: The Will to Whatevs', tags: book_reviews}
 
 ---
 <strong>Eugene Mirman. <em>The Will to Whatevs: A Guide to Modern Life</em></strong>
@@ -43,4 +43,3 @@ Oh I think the first quote is very funny but the second one made me doubt whethe
 <br/>
 
 *******************************************************************************
-

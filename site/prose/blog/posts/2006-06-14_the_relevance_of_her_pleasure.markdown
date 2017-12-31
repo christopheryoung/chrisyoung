@@ -1,5 +1,5 @@
 ---
-{date: '2006-06-14', explananda: '', title: The relevance of her pleasure}
+{date: '2006-06-14', explananda: '', title: The relevance of her pleasure, tags: aristotle}
 
 ---
 

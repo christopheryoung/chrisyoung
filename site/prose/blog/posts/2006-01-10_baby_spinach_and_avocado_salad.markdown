@@ -1,5 +1,5 @@
 ---
-{date: '2006-01-10', explananda: '', title: Baby Spinach and Avocado Salad}
+{date: '2006-01-10', explananda: '', title: Baby Spinach and Avocado Salad, tags: food}
 
 ---
 This is a not-very-good picture of my latest favourite salad:

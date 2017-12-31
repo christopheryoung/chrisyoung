@@ -1,14 +1,14 @@
 ---
-{date: '2009-01-04', explananda: '', title: Broadway}
+{date: '2009-01-04', explananda: '', title: Broadway, tags: personal, nyc}
 
 ---
-I was in the mood for a stroll yesterday morning, so I took the subway to the North end of Manhattan and then walked from the point at which Broadway enters Manhattan from the Bronx down its entire length to where it stops not far from the Southernmost tip of the island.  
+I was in the mood for a stroll yesterday morning, so I took the subway to the North end of Manhattan and then walked from the point at which Broadway enters Manhattan from the Bronx down its entire length to where it stops not far from the Southernmost tip of the island.
 
-It's a nice walk.  Google Earth tells me that it's about 13.5 miles, or 21.5 kilometres.  But most of the walking is flat, or on a gentle grade, and there's a lot to look at.  I took a leisurely pace, and stopped a number of times, and the whole walk took me less than 5 hours.  
+It's a nice walk.  Google Earth tells me that it's about 13.5 miles, or 21.5 kilometres.  But most of the walking is flat, or on a gentle grade, and there's a lot to look at.  I took a leisurely pace, and stopped a number of times, and the whole walk took me less than 5 hours.
 
-Great waves of money have washed over Manhattan in the last decade or so, destroying a lot of its social and economic diversity.  So a walk down Broadway doesn't offer the same crosscut of Manhattan society that it once did.  Still, there's plenty of variety on that one road.  
+Great waves of money have washed over Manhattan in the last decade or so, destroying a lot of its social and economic diversity.  So a walk down Broadway doesn't offer the same crosscut of Manhattan society that it once did.  Still, there's plenty of variety on that one road.
 
-Broadway begins in Manhattan on a very modest note, in a sort of ugly industrial squalor.  To get there, you take the 1 train to 215th St in Manhattan, and then walk a few blocks North.  Then you turn around and begin walking South, through Inwood, under the George Washington Bridge, through Washington Heights, getting glimpses of the Hudson River at each of the side streets for a time, then past Harlem, and Columbia, the Upper West Side, drawing away from the West side of the island as you move South, past Lincoln Center, through Columbus Circle, where Broadway finally, briefly touches Central Park, and then on into the canyon of buildings that leads up to Times Square, with its crowds of tourists, and cops, and street preachers, and then past Herald Square and Korea Way on 32nd st.,  and then past Union Square, and the Strand Bookstore, and Houston, finally leaving the numbered streets behind, and then past Canal and Chinatown, and City Hall, though the financial district and right to the end, by a statue of a <a href="http://en.wikipedia.org/wiki/Charging_Bull">Bull</a>, symbol of a prosperous stock market, which faces up Broadway, and which seems to be surrounded by tourists at any hour of the day snapping shots of it, as if worshiping the symbol of a departed god.  
+Broadway begins in Manhattan on a very modest note, in a sort of ugly industrial squalor.  To get there, you take the 1 train to 215th St in Manhattan, and then walk a few blocks North.  Then you turn around and begin walking South, through Inwood, under the George Washington Bridge, through Washington Heights, getting glimpses of the Hudson River at each of the side streets for a time, then past Harlem, and Columbia, the Upper West Side, drawing away from the West side of the island as you move South, past Lincoln Center, through Columbus Circle, where Broadway finally, briefly touches Central Park, and then on into the canyon of buildings that leads up to Times Square, with its crowds of tourists, and cops, and street preachers, and then past Herald Square and Korea Way on 32nd st.,  and then past Union Square, and the Strand Bookstore, and Houston, finally leaving the numbered streets behind, and then past Canal and Chinatown, and City Hall, though the financial district and right to the end, by a statue of a <a href="http://en.wikipedia.org/wiki/Charging_Bull">Bull</a>, symbol of a prosperous stock market, which faces up Broadway, and which seems to be surrounded by tourists at any hour of the day snapping shots of it, as if worshiping the symbol of a departed god.
 
 No small part of Manhattan's appeal is the modesty of its geographical size relative to its ambitions and its accomplishments.  This makes for an incredible density of visual and architectural experience and historical reference, but on a scale that is walkable, and so both human and accessible.  It's an amazing city, and one way into it, into its life and its energy and its accomplishment, is to take an afternoon, and walk one of its most famous streets, from one end to the other.
 
@@ -67,7 +67,7 @@ No, not at all.  I suppose it does look that way.  A while back I cut down signi
 
 
 <br/>
-<em>Author:</em> 
+<em>Author:</em>
 <br/><em>Date:</em> 2009-01-10
 
 You should write a book in which you walk the length of a number of notable NY streets. Seriously. Book proposal. It would be super saleable in today's "here's my kooky idea for a nonfiction book in which I ruminate on a topic of interest", obvious demographic appeal, you would add in appropriate philosophical/classical stuff. I am entirely serious - you should write this up. Even as a series of articles for the New Yorker or some similar pub.
@@ -99,4 +99,3 @@ I need to buy better shoes first.  My feet still hurt.
 <br/>
 
 *******************************************************************************
-

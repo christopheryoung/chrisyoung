@@ -1,13 +1,13 @@
 ---
 {date: '2010-02-12', explananda: '', title: 'Recently read: Why the Dreyfus Affair
-    Matters'}
+	Matters', tags: book_reviews}
 
 ---
 <strong>Louis Begley. <em>Why the Dreyfus Affair Matters</em></strong>
 
-Alfred Dreyfus, a captain in the French army, was accused in 1894 of selling secrets to a German military attach&#233;.  A note had been discovered indicating that <em>someone</em> was selling secrets to the attach&#233;.  The note was real; just about everything else that became associated with the case was not.  The only actual evidence brought against Dreyfus was the claim that the handwriting on the note was his own.  It was not.  Dreyfus's first trial, resulting in a conviction, was a travesty involving significant judicial misconduct, in which antisemitism played a crucial role.  
+Alfred Dreyfus, a captain in the French army, was accused in 1894 of selling secrets to a German military attach&#233;.  A note had been discovered indicating that <em>someone</em> was selling secrets to the attach&#233;.  The note was real; just about everything else that became associated with the case was not.  The only actual evidence brought against Dreyfus was the claim that the handwriting on the note was his own.  It was not.  Dreyfus's first trial, resulting in a conviction, was a travesty involving significant judicial misconduct, in which antisemitism played a crucial role.
 
-And then things got really bad.  As evidence identifying the real culprit started to surface and Dreyfus's few supporters rallied against an obviously bad decision, Dreyfus's superiors dug themselves into a deeper and deeper hole.  As the 1890s wore on, the Dreyfus Affair became bewilderingly complex, with forgeries, suicides, conspiracies, missteps on the part of Dreyfus's supporters, and stunning reversals on both sides.  
+And then things got really bad.  As evidence identifying the real culprit started to surface and Dreyfus's few supporters rallied against an obviously bad decision, Dreyfus's superiors dug themselves into a deeper and deeper hole.  As the 1890s wore on, the Dreyfus Affair became bewilderingly complex, with forgeries, suicides, conspiracies, missteps on the part of Dreyfus's supporters, and stunning reversals on both sides.
 
 The conservative, militarist, antisemitic response to the scandal was essentially to point out that for Dreyfus's supporters to be correct, a deep rot would have to have infected the military, a pillar of French society, and parts of the political establishment.  Since this was unthinkable, so too was Dreyfus's innocence.  They were wrong, of course, and it is a mistake that continues to be instructive.
 
@@ -15,7 +15,7 @@ The conservative, militarist, antisemitic response to the scandal was essentiall
 
 I'm not sure Begley did as good a job explaining why the Dreyfus Affair matters.  Begley finished his book just as Obama was elected.  Begley, who is clearly no fan of the Bush administration, takes a few stabs at connecting the Affair to current events.  The lack of due process and forms of incarceration found at Guantanamo are compared to the travesties of Dreyfus' trial and exile on a remote island.  A brief section on official reactions to whistle blowers connects a defender of Dreyfus's to Joseph Wilson.  This, I take it, constitutes the main part of Begley's answer to the question raised by the title of his book.
 
-This is weak stuff.*  There are of course similarities between any two miscarriages of justice.  But even if the similarities were more striking than they are, they wouldn't tell us <em>why</em> the Dreyfus Affair matters today.  You can be entirely ignorant of the Dreyfus Affair and still be offended by the scandal of Guantanamo Bay.  All you need for that is a functioning conscience.  If you're not offended, you'll hardly be convinced by a series of strained analogies with the Dreyfus Affair.  
+This is weak stuff.*  There are of course similarities between any two miscarriages of justice.  But even if the similarities were more striking than they are, they wouldn't tell us <em>why</em> the Dreyfus Affair matters today.  You can be entirely ignorant of the Dreyfus Affair and still be offended by the scandal of Guantanamo Bay.  All you need for that is a functioning conscience.  If you're not offended, you'll hardly be convinced by a series of strained analogies with the Dreyfus Affair.
 
 I'm not sure I've been able to get very deeply into the question of why <em>any</em> historical incident matters, but here are two fairly obvious (non-competing) answers as they bear on the Dreyfus Affair.
 
@@ -25,7 +25,7 @@ Second, studying history can broaden our sense of what's possible.  There are al
 
 As I said above, this is instructive.  It gives us a nice morality tale about the dangers of trusting officials in authority.  It's a story that ought to leave us a little more paranoid, a little less trusting of authority.  But as instructive as it is in this sense, it would be a mistake to think that we can simply take the case and apply its lessons to contemporary political issues.  As controversial as Guantanamo is, I don't see how parallels between Guantanamo and some now unambiguous miscarriage of justice at the end of the 19th Century are going to be <em>less</em> controversial.  The Dreyfus Affair, like most history, matters, but in a less direct and much more subtle way than that.
 
-* Though Begley's criticisms of certain French judicial procedures that worked against Dreyfus, such as an acceptance of hearsay, is certainly relevant to the issue of whether the American military tribunals contain stringent enough protections against abuse. 
+* Though Begley's criticisms of certain French judicial procedures that worked against Dreyfus, such as an acceptance of hearsay, is certainly relevant to the issue of whether the American military tribunals contain stringent enough protections against abuse.
 
 
 <h1>Comments</h1>
@@ -35,7 +35,7 @@ As I said above, this is instructive.  It gives us a nice morality tale about th
 <em>Author:</em> Chris
 <br/><em>Date:</em> 2010-02-14
 
-You know, looking at my post two days later, the thing that strikes me is how little I said about antisemitism, which is sort of the most glaringly obvious thing about the Dreyfus Affair.  
+You know, looking at my post two days later, the thing that strikes me is how little I said about antisemitism, which is sort of the most glaringly obvious thing about the Dreyfus Affair.
 
 The Dreyfus Affair convinced a lot of European Jews that the attempt to assimilate was pointless.  My understanding is that this provided an important impetus to Zionism.  And so in this respect, the Dreyfus Affair played a huge role in shaping the contemporary world.
 <br/>
@@ -54,4 +54,3 @@ Especially when the anti-semitism was in what was seen as perhaps the most enlig
 <br/>
 
 *******************************************************************************
-

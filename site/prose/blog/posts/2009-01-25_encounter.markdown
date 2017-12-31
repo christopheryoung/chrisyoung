@@ -1,5 +1,5 @@
 ---
-{date: '2009-01-25', explananda: '', title: Encounter}
+{date: '2009-01-25', explananda: '', title: Encounter, tags: anecdotes, personal}
 
 ---
 I was taking a walk this afternoon when I passed two people trying to park a car on the side of the street.  The car was in neutral, the engine off.  A woman was steering.  A man who looked at least 70, and very tired, was pushing ineffectually at the rear of the car and saying something like, "Turn the wheel to the right.  You need to turn the wheel to the right."

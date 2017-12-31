@@ -1,6 +1,5 @@
 ---
 {date: '2006-08-08', explananda: '', title: Of Priests and Piracy}
-
 ---
 
 From Patrick Leigh Fermor's <i>Mani: Travels in the Southern Peloponnese</i>,

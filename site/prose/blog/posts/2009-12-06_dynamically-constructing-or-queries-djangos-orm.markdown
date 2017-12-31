@@ -1,6 +1,7 @@
 ---
 title: Dynamically Constructing "Or" Queries with Django's ORM
 date: 2009-12-06
+tags: django, python
 ---
 
 A quick point for people who are already familiar with Django's ORM.
@@ -10,9 +11,9 @@ Suppose I have a model:
 ```python
 
 class Entry(models.Model):
-    title = models.CharField(max_length=50)
-    text = models.TextField()
-    tag = models.ManyToManyField(Tag)
+	title = models.CharField(max_length=50)
+	text = models.TextField()
+	tag = models.ManyToManyField(Tag)
 
 ```
 
@@ -59,7 +60,7 @@ In any case, this works:
 >>> from django.db.models import Q
 >>> q = Q()
 >>> for tag_in_list in taglist:
-            q |= Q(tag=tag_in_list)
+			q |= Q(tag=tag_in_list)
 >>> or_entry_query = Entry.objects.filter(q)
 
 ```

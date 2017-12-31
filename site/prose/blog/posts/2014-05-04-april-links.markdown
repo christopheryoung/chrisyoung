@@ -1,6 +1,7 @@
 ---
 title: April on the web
 date: 2014-05-04
+tags: inequality, nature, scientific_methodology
 ---
 
 Sarah Kendzior has [a great piece](https://medium.com/p/fa4c36eb306b/) on

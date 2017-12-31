@@ -1,5 +1,5 @@
 ---
-{date: '2009-04-29', explananda: '', title: 'Recently read: The Mycenaean World'}
+{date: '2009-04-29', explananda: '', title: 'Recently read: The Mycenaean World', tags: book_reviews}
 
 ---
 <strong>John Chadwick. <em>The Mycenaean World</em></strong>
@@ -14,10 +14,10 @@ For many years, the Mycenaeans were known to us only through the efforts of arch
 
 The problem was not cracked by mainstream scholars, most of whom were hooked on the "not Greek" theory.  Instead, a brilliant and eccentric British architect named <a href="http://en.wikipedia.org/wiki/Michael_Ventris">Michael Ventris</a> made the most important breakthrough in 1952, shortly before his untimely death at the age of 34 in a car crash.  He was soon joined by the Classicist John Chadwick, who contributed a number of breakthroughs of his own, and then wrote a series of foundational works on the subject.  Linear B <em>was</em> Greek after all, though a very archaic form of it.
 
-If you were hoping for great literature, the surviving texts in Linear B are a grave disappointment.  But they are not without their uses: 
+If you were hoping for great literature, the surviving texts in Linear B are a grave disappointment.  But they are not without their uses:
 <blockquote>At first sight their contents are deplorably dull: long lists of names, records of livestock, grain and other produce, the account books of anonymous clerks.  Here and there a vivid description of an ornate table or a richly decorated chariot breaks the monotony.  But for the most part the tablets are drab and lifeless documents.  Their one virtue is their utter authenticity, for they contain the actual words and figures noted down by the men and women who created the same civilization that has yielded such splendid treasures to the archaeologist's spade.</blockquote>
 
-With the decipherment of Linear B, we could finally supplement, modify, and correct many of the aspects of the picture given to us by archaeologists working on the period.  Although <em>The Mycenaean World</em> is alive to the archaeological evidence at every step, it's central mission is integrating this rich trove of written evidence into our view of the Mycenaeans.  
+With the decipherment of Linear B, we could finally supplement, modify, and correct many of the aspects of the picture given to us by archaeologists working on the period.  Although <em>The Mycenaean World</em> is alive to the archaeological evidence at every step, it's central mission is integrating this rich trove of written evidence into our view of the Mycenaeans.
 
 <em>The Mycenaean World</em> is a work of consummate scholarship about a fascinating, remote era.  I would guess, though, that a nonspecialist would require a fairly strong degree of antecedent interest in the subject to get through it.  The book is well-written, but it offers a level of detail that could easily wilt the curiosity of most readers.  How much do <em>you</em> want to know about the Mycenaean system of weights and measures?  If the answer is, "several pages, at least!" then by all means, this is your book.  Otherwise, you might want to stick to Homer for a glimpse of this distant world.  On the other hand, you should know that by doing so you'll be sacrificing authenticity for action.  Perhaps the most interesting chapter in <em>The Mycenaean World</em>, "Homer the pseudo-historian," points out how dimly the period was remembered by the time Greece finally started to climb out of the dark ages that separated the Mycenaeans era from the vibrant renaissance that began several centuries later.
 
@@ -77,11 +77,10 @@ That actually rings a bell (the argument about the nature of the characters).  D
 
 <em>Me, I thought that seemed like a good case for Linear A, but since Linear B was evidently adapted from the earlier script, it implicitly assumed that the Mycenaeans had adopted the practice of writing more complex documents at the same time, when they might only have been interested in record keeping.</em>
 
-My (uncertain) memory is that Chadwick's speculation is that the soft-surface writings were also supposed to be for record keeping.  
+My (uncertain) memory is that Chadwick's speculation is that the soft-surface writings were also supposed to be for record keeping.
 
 But what do <em>I</em> know?
 <br/>
 <br/>
 
 *******************************************************************************
-

@@ -1,5 +1,5 @@
 ---
-{date: '2006-06-13', explananda: '', title: Lasus and the Lipogram}
+{date: '2006-06-13', explananda: '', title: Lasus and the Lipogram, tags: classics}
 
 ---
 From Podlecki's paper "The Peripatetics as Literary Critics":<blockquote>To

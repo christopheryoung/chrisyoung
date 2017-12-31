@@ -70,16 +70,30 @@ main = hakyllWith siteConfig $ do
         -- build hashmap of prev/next posts
         (prevPostHM, nextPostHM) = buildAdjacentPostsHashMap sortedPosts
 
+    tags <- buildTags "prose/blog/posts/*" (fromCapture "prose/blog/tags/*.html")
     let fullPostCtx = postCtx <> next <> previous where
           next = field "nextPost" (lookupPostUrl nextPostHM)
           previous = field "prevPost" (lookupPostUrl prevPostHM)
+
+    tagsRules tags $ \tag pattern -> do
+        let title = "Posts tagged \"" ++ tag ++ "\""
+        route idRoute
+        compile $ do
+            posts <- recentFirst =<< loadAll pattern
+            let ctx = constField "title" title
+                      <> listField "posts" fullPostCtx (return posts)
+                      <> defaultContext
+            makeItem ""
+                >>= loadAndApplyTemplate "templates/tag.html" ctx
+                >>= loadAndApplyTemplate "templates/default.html" ctx
+                >>= relativizeUrls
 
     match "prose/blog/posts/*" $ do
         route $ niceRoute
         compile $ do
           pandocCompiler
-          >>= loadAndApplyTemplate "templates/post.html"    fullPostCtx
-          >>= loadAndApplyTemplate "templates/default.html" fullPostCtx
+          >>= loadAndApplyTemplate "templates/post.html" ((ctxWithTags tags) <> fullPostCtx)
+          >>= loadAndApplyTemplate "templates/default.html" ((ctxWithTags tags) <> fullPostCtx)
           >>= relativizeUrls
           >>= removeIndexHtml
           >>= saveSnapshot "content"
@@ -92,15 +106,26 @@ main = hakyllWith siteConfig $ do
         route   idRoute
         compile copyFileCompiler
 
+    create ["prose/blog/tag-cloud/index.html"] $ do
+      let title = constField "title" "Tag Cloud"
+      let tagCloud = (tagCloudField "tagCloud" 80 200 tags)
+      let tagCloudCtx = title <> postCtx <> tagCloud
+      route idRoute
+      compile $ do
+        makeItem ""
+          >>= loadAndApplyTemplate "templates/tag-cloud.html" tagCloudCtx
+          >>= loadAndApplyTemplate "templates/default.html" tagCloudCtx
+          >>= relativizeUrls
+          >>= removeIndexHtml
+
     -- index functions as an archive, since we simply list all posts there
     match "prose/blog/index.html" $ do
         route idRoute
         compile $ do
             let indexCtx = field "posts" $ \_ -> postList recentFirst
-
             getResourceBody
                 >>= applyAsTemplate indexCtx
-                >>= loadAndApplyTemplate "templates/default.html" postCtx
+                >>= loadAndApplyTemplate "templates/default.html" fullPostCtx
                 >>= relativizeUrls
                 >>= removeIndexHtml
 
@@ -197,6 +222,9 @@ postList sortFilter = do
     itemTpl <- loadBody "templates/post-item.html"
     list    <- applyTemplateList itemTpl postCtx posts
     return list
+
+ctxWithTags :: Tags -> Context String
+ctxWithTags tags = tagsField "tags" tags
 
 appendExtension :: String -> String -> String
 appendExtension extension page = page ++ "." ++ extension

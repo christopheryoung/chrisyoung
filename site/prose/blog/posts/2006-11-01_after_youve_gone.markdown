@@ -1,5 +1,5 @@
 ---
-{date: '2006-11-01', explananda: '', title: After you've gone}
+{date: '2006-11-01', explananda: '', title: After you've gone, tags: music, yoon_sun_choi}
 
 ---
 Thanks to the miracle of lapsing copyright, here is Yoon's E String Band performing <a href="/media/explananda/afteryouvegone.mp3">After You've Gone</a> (Music and lyrics by Henry Creamer and Turner Layton (1918)).  They only had an hour and a half to record a quick demo, so they just raced through a bunch of songs.  Still, I think it's got a nice energy.

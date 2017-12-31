@@ -1,12 +1,12 @@
 ---
-{date: '2008-02-27', explananda: '', title: Decree}
+{date: '2008-02-27', explananda: '', title: Decree, tags: decrees}
 
 ---
 It often happens in phone conversations, especially those involving a cell phone, that the connection will be suddenly lost.  Both parties to the conversation will then try to call the other back at the same time.  Or both will wait for the other to call, because they are trying to avoid calling at the same time.  Or both will wait, then call at the same time, then wait, and so on.  If they had had some warning, they might have coordinated this ahead of time.  But, alas, that's the problem with suddenly dropped calls.
 
-Therefore, I decree that henceforth the person who initiates the original call shall initiate a new connection in the event of a dropped connection. 
+Therefore, I decree that henceforth the person who initiates the original call shall initiate a new connection in the event of a dropped connection.
 
-I estimate that strict adherence to this rule will save 900 million minutes a year of lost productivity in North America alone.  
+I estimate that strict adherence to this rule will save 900 million minutes a year of lost productivity in North America alone.
 
 
 <h1>Comments</h1>
@@ -54,7 +54,7 @@ it's not more effective. 1/2 the time neither side has any idea who is at fault 
 <em>Author:</em> Chris
 <br/><em>Date:</em> 2008-02-28
 
-Upyernoz, 
+Upyernoz,
 I'm afraid that your lack of experience dealing with Kegri is showing through.  For him that's a feature, not a bug.
 <br/>
 <br/>
@@ -158,4 +158,3 @@ I wish I had seen the unedited version.
 <br/>
 
 *******************************************************************************
-

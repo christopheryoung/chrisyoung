@@ -1,5 +1,5 @@
 ---
-{date: '2008-12-09', explananda: '', title: 'Recently read: Emotional Awareness'}
+{date: '2008-12-09', explananda: '', title: 'Recently read: Emotional Awareness', tags: book_reviews}
 
 ---
 <strong>The Dalai Lama and Paul Ekman.  <em>Emotional Awareness: Overcoming the Obstacles to Psychological  Balance and Compassion</em></strong>

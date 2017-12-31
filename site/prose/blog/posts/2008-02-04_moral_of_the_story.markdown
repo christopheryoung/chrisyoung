@@ -1,5 +1,5 @@
 ---
-{date: '2008-02-04', explananda: '', title: Moral of the story}
+{date: '2008-02-04', explananda: '', title: Moral of the story, tags: personal}
 
 ---
 No matter how lame that facial hair was, after you've shaved it off you will find yourself staring into the bathroom mirror, looking at the face of a little boy.
@@ -29,4 +29,3 @@ Princeling?
 <br/>
 
 *******************************************************************************
-

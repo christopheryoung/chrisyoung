@@ -1,5 +1,5 @@
 ---
-{date: '2004-02-02', explananda: '', title: '[Berman]'}
+{date: '2004-02-02', explananda: '', title: 'Berman', tags: iraq, punditry, letters_to_the_editor}
 
 ---
 I read Paul Berman's <a href="https://www.dissentmagazine.org/article/a-friendly-drink-in-a-time-of-war">piece</a> in the latest Dissent and was annoyed enough to write Dissent a letter.  The chances of their publishing the letter are zero, so I reprint it here, for the edification and amusement of the world:

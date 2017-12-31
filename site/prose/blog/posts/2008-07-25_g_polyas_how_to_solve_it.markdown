@@ -1,5 +1,5 @@
 ---
-{date: '2008-07-25', explananda: '', title: G. Polya's How to Solve It}
+{date: '2008-07-25', explananda: '', title: G. Polya's How to Solve It, tags: book_reviews}
 
 ---
 <strong>G. Polya. <em>How to Solve It: A New Aspect of Mathematical Method</em></strong>
