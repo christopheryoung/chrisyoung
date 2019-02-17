@@ -17,3 +17,5 @@ site/_site/*
 site/site.hi
 old_site/*
 site/site
+files.bib.bak
+files.bib.sav
