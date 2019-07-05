@@ -16,7 +16,9 @@ and even longer still to say anything sensible about them.
 Eventually---remember, circumstances permitting---this page may be of use to
 someone other than me.
 
-You can find all the references on this page collected at the bottom of this page. You can find my complete bibtex file [here](https://raw.githubusercontent.com/christopheryoung/chrisyoung/master/site/biblio/files.bib).
+You can find all the references on this page collected at the bottom of this
+page. You can find my complete bibtex file
+[here](https://raw.githubusercontent.com/christopheryoung/chrisyoung/master/site/biblio/files.bib).
 
 If you see an especially glaring error or omission, please feel free to let me
 know at chris@chrisyoung.net.
@@ -36,15 +38,13 @@ Glenn Most, who must never sleep:
 
 > @timpanaro2005genesis
 
+This book is out of print and almost impossible to buy on the secondary market.
+
 Introductions to the practice of textual criticism include:
 
 > @maas1958textual
 
 > @west1973textual
-
-The following book was kindly recommended to me by a correspondent:
-
-> @trovato2014everything
 
 Other notable early work includes
 
@@ -66,16 +66,19 @@ worth reading, including the Maas, which is a little gem of a book summing up
 the hard won insights of a true master. The West has a deeper discussion of the
 phenomenon of contamination, if I recall, and is a great read too.
 
+A superb introduction to most of the topics discussed on this page is Paolo Trovato's
+
+> @trovato2017everything
+
+Trovato gives a spirited, lucid defence of neo-Lachmannian stemmatology and
+offers some skeptical remarks about (biologically oriented) computational
+approaches to textual criticism. If you have any interest in the field, you
+should read this book.
+
 And I recently picked up this odd-sounding book, but haven't gotten around to it yet:
 
 > @timpanaro1976freudian
 
-Note that Maas is as controversial as he is influential. For a review of the controversy
-and the influence, see Chapter 2 of
-
-> @bordalejo2003phylogeny
-
-which is also available [here](http://www.bordalejo.net/NYU/Chapter2.pdf).
 
 # Computational Stemmatology
 
@@ -96,6 +99,14 @@ A trio of papers by Flight in the early 1990s outlines his own approach:
 This work seems to have been mostly ignored in subsequent work on the subject.
 To do: check if this is the right attitude.
 
+A fairly recent contribution to the history of textual criticism (focusing on
+New Testament textual criticism) and biology is the Yii-Jan Lin's
+
+> @lin2016erotic
+
+(see [this review](http://bmcr.brynmawr.edu/2016/2016-10-25.html) for a bit
+more).
+
 An important early spur to the development of the field was a challenge issued
 in 1991, which is reviewed in:
 
@@ -106,10 +117,11 @@ handling manuscript traditions is probably to generate artificial traditions to
 various specifications so that we can observe how well the techniques fare
 under different conditions (e.g., levels of contamination, mss loss, etc.).
 
-This is not an original idea. A friend informs me that Pasquali mentions the Kantorowicz had the idea in 1912: "He asked a batch
-of his students to make copies of a Latin document, and his task was to edit it
-properly; his conclusion was to stress how fallible this process is." The idea
-has been carried forward in more recent work, as the following papers make clear:
+This is not an original idea. A friend informs me that Pasquali mentions the
+Kantorowicz had the idea in 1912: "He asked a batch of his students to make
+copies of a Latin document, and his task was to edit it properly; his
+conclusion was to stress how fallible this process is." The idea has been
+carried forward in more recent work, as the following papers make clear:
 
 > @spencer2004phylogenetics
 
@@ -236,6 +248,9 @@ tricky to capture. A few works that address this side of the problem:
 
 > @maddison1997nexus
 
+The [Text Encoding Initiative](https://tei-c.org/) attempts to standardize the
+many issues that arise in trying to manage multiple copies of a text.
+
 The [Interedition Github page](https://github.com/interedition) contains a
 number of repositories for projects dealing with textual criticism, including
 especially the [collatex](https://github.com/interedition/collatex) project.
@@ -243,7 +258,12 @@ especially the [collatex](https://github.com/interedition/collatex) project.
 [Juxta](http://www.juxtasoftware.org/) "is an open-source tool for comparing
 and collating multiple witnesses to a single textual work." Its source is
 available on github
-([desktop](https://github.com/performant-software/juxta-desktop), [web service](https://github.com/performant-software/juxta-service)).
+([desktop](https://github.com/performant-software/juxta-desktop), [web
+service](https://github.com/performant-software/juxta-service)). This is one
+offering of several from [Performant](https://www.performantsoftware.com/),
+which specializes in software for the humanities.
+
+
 
 # Phylogenetics
 
