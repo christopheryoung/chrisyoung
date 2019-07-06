@@ -8,13 +8,16 @@ csl: chicago-manual-of-style-16th-edition-modified-full-note.csl
 # Introduction
 
 What follows is a to-do list in the form of a (thin, unsatisfying)
-bibliographical essay. Watch this space: the essay will, circumstances
+bibliographical essay. Watch this space: the essay may, circumstances
 permitting, grow over time as I collect references and record brief remarks on
 a few of them. I have a lot to add and it will take time to dump my private list
 of resources into something worthwhile, still longer to find more resources,
 and even longer still to say anything sensible about them.
 Eventually---remember, circumstances permitting---this page may be of use to
 someone other than me.
+
+If you're impatient for an excellent, recent, and far more comprehensive
+bibliography, I recommend Trovato's @trovato2017everything.
 
 You can find all the references on this page collected at the bottom of this
 page. You can find my complete bibtex file
@@ -31,14 +34,16 @@ textual criticism (and more) can be found in:
 > @reynolds1974scribes
 
 Although scholars have struggled to establish texts on a solid foundation,
-Lachmann, working in the second half of the 19th Century represented a
-significant leap forward in rigour. Lachmann's contribution has been reviewed
-in the following book, whose recent translation from the Italian we owe to
-Glenn Most, who must never sleep:
+Lachmann, working in the second half of the 19th Century is associated with a
+leap forward in rigour. Lachmann's contribution has been famously reviewed in
+the following book, whose recent translation from the Italian we owe to Glenn
+Most, who must never sleep:
 
 > @timpanaro2005genesis
 
-This book is out of print and almost impossible to buy on the secondary market.
+(This book is out of print and almost impossible to buy on the secondary market.
+The University of Chicago Press brought the volume out in 2006 and I can't even
+find a reference to it on the Press's website.)
 
 Introductions to the practice of textual criticism include:
 
