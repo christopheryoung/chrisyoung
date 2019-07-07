@@ -41,9 +41,22 @@ Most, who must never sleep:
 
 > @timpanaro2005genesis
 
-(This book is out of print and almost impossible to buy on the secondary market.
-The University of Chicago Press brought the volume out in 2006 and I can't even
-find a reference to it on the Press's website.)
+Timpanaro traces the development of the method now associated with Lachmann's
+name. One irony: Lachmann is neither the first to develop the method now
+associated with his name nor does his work provide good example of the method
+in practice.
+
+(Most's translation of the book is out of print and almost impossible to buy on
+the secondary market. The University of Chicago Press brought the volume out
+recently, in 2006, and yet I can't even find a reference to it on the Press's
+website. No electronic edition has been made available to the public by the
+press, and indeed perhaps doing so would undercut the rationale for the high
+price of the original volume aimed at academic libraries. Depending on the
+vagaries of fortune, the long term cultural survival of the volume may depend
+on an illegal reproduction of the book that can sometimes be found on the
+internet. Does an academic press exist to disseminate knowledge, even as a
+secondary goal?)
+
 
 Introductions to the practice of textual criticism include:
 
@@ -80,7 +93,8 @@ offers some skeptical remarks about (biologically oriented) computational
 approaches to textual criticism. If you have any interest in the field, you
 should read this book.
 
-And I recently picked up this odd-sounding book, but haven't gotten around to it yet:
+And I recently picked up this odd-sounding book, but haven't gotten around to
+it yet:
 
 > @timpanaro1976freudian
 
