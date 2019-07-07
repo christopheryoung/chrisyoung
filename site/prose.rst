@@ -11,16 +11,28 @@ For several years I ran a group blog devoted to politics, books, etc., called
 
 **Publications (and invited talks)**
 
-Young, Christopher and Andrew Brook. 'Schopenhauer,' 2006 in *The Edinburgh International Encyclopedia of Psychoanalysis.*
+Brook, Andrew and Christopher Young. 'Schopenhauer and Freud' in `*The Oxford
+Handbook of Philosophy and
+Psychoanalysis,*<https://www.amazon.com/dp/019878970X/>`_, ed. Richard Gipps
+and Michael Lacewing. 2019.
 
-Young, Christopher and D.S. Hutchinson. 'Recent work on MSS of Aristotle's *Nicomachean Ethics*,'
-remarks delivered at the University of Padua and the University of Venice in the Summer of 1998.
+Young, Christopher and Andrew Brook. 'Schopenhauer,' 2006 in *The Edinburgh
+International Encyclopedia of Psychoanalysis.*
 
-Young, Christopher and Andrew Brook. `Schopenhauer <http://www.carleton.ca/~abrook/SCHOPEN.htm>`_  in
-`*The Freud Encyclopedia* <http://www.amazon.com/exec/obidos/tg/detail/-/0415936772/qid=1060112126/sr=8-1/ref=sr_8_1/102-3766435-1754514?v=glance&s=books&n=507846>`_.  New York: Garland Publishing. 2001.
+Young, Christopher and D.S. Hutchinson. 'Recent work on MSS of Aristotle's
+*Nicomachean Ethics*,' remarks delivered at the University of Padua and the
+University of Venice in the Summer of 1998.
+
+Young, Christopher and Andrew Brook. `Schopenhauer
+<http://www.carleton.ca/~abrook/SCHOPEN.htm>`_ in `*The Freud Encyclopedia*
+<https://www.amazon.com/Freud-Encyclopedia-Theory-Therapy-Culture/dp/0415936772/>`_.
+New York: Garland Publishing. 2001.
 
 Young, Christopher and Andrew Brook. `Schopenhauer and Freud
-<http://www.carleton.ca/~abrook/SCHOPENY.htm>`_, *International Journal of Psychoanalysis.* 1994 (75), 101-18.  [This paper received the Miguel Prados award for best paper in Canadian Psychoanalysis from the Canadian Psychoanalytic Community.]
+<http://www.carleton.ca/~abrook/SCHOPENY.htm>`_, *International Journal of
+Psychoanalysis.* 1994 (75), 101-18. [This paper received the Miguel Prados
+award for best paper in Canadian Psychoanalysis from the Canadian
+Psychoanalytic Community.]
 
 
 **Essays, etc.**
