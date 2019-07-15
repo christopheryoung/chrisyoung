@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd site
+stack exec chrisyoung clean
+stack exec chrisyoung build
+stack exec chrisyoung deploy
