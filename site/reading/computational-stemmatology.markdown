@@ -31,10 +31,16 @@ A full history of edits to this page can be found
 If you see an especially glaring error or omission, please feel free to let me
 know at chris@chrisyoung.net.
 
-# Textual Criticism and Stemmatology
+# Traditional Textual Criticism
 
 An accessible and engaging (non-technical) introduction to the whole world of
-textual criticism (and more) can be found in @reynolds1974scribes.
+textual criticism (and more) can be found in @reynolds1974scribes. A superb
+introduction to most of the topics discussed on this page, including both
+traditional Lachmannian stemmatology and computational stemmatology, is
+@trovato2017everything. Trovato gives a spirited, lucid defence of
+neo-Lachmannian stemmatology and offers some skeptical remarks about
+(biologically oriented) computational approaches to textual criticism. If you
+have any interest in the field, you should read this book.
 
 Lachmann, working in the second half of the 19th Century is associated with a
 leap forward in rigour in the establishment of classical texts. Lachmann's
@@ -56,9 +62,11 @@ reproduction of the book that can sometimes be found on the internet. Does an
 academic press exist to disseminate knowledge, even as a secondary goal?)
 
 Introductions to the practice of textual criticism include @maas1958textual and
-@west1973textual. Other notable early work includes @housman1921application
-which is a frontal attack on the mechanical aspects of Lachmann's method. The
-other notable early attack on Lachmann is due to @bedier1970tradition.
+@west1973textual.
+
+Other notable early work includes @housman1921application which is a frontal
+attack on the mechanical aspects of Lachmann's method. The other notable early
+attack on Lachmann is due to @bedier1970tradition.
 
 Introductions to the practice of textual criticism include @maas1958textual and
 @west1973textual. Both books are starting to show their age, the Maas in
@@ -66,13 +74,6 @@ particular. But both are worth reading, including the Maas, which is a little
 gem of a book summing up the hard won insights of a true master. The West has a
 deeper discussion of the phenomenon of contamination, if I recall, and is a
 great read too.
-
-A superb introduction to most of the topics discussed on this page, including
-both traditional Lachmannian stemmatology and computational stemmatology, is
-@trovato2017everything. Trovato gives a spirited, lucid defence of
-neo-Lachmannian stemmatology and offers some skeptical remarks about
-(biologically oriented) computational approaches to textual criticism. If you
-have any interest in the field, you should read this book.
 
 A fairly recent contribution to the history of textual criticism (focusing on
 New Testament textual criticism) and biology is @lin2016erotic (see [this
