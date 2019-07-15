@@ -19,7 +19,7 @@ of use to someone other than me.
 If you're impatient for an excellent, recent, and far more comprehensive (and
 more richly multilingual) bibliography, I recommend [@trovato2017everything].
 Most's bibliographical supplements to his translation of @timpanaro2005genesis
-also contain much helpful recent material.
+also contains much helpful recent material.
 
 You can find all the references on this page collected at the bottom of this
 page. You can find my complete bibtex file
