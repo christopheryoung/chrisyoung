@@ -40,7 +40,7 @@ know at chris@chrisyoung.net.
 ## Introduction to Textual Criticism
 
 An accessible and engaging (non-technical) introduction to the whole world of
-textual criticism (and more) can be found in @reynolds1974scribes. 
+textual criticism (and more) can be found in @reynolds1974scribes.
 
 A superb introduction to most of the topics discussed on this page, including
 both traditional Lachmannian stemmatology and computational stemmatology, is
@@ -109,7 +109,7 @@ And now for Lachmann's method, as it is often called:
 
 The resulting stemma, if it can be reconstructed with confidence, provides the
 basis for an edition of the text. A stemma can cut through a great deal of
-noise and focus attention on the essential choices between variants. 
+noise and focus attention on the essential choices between variants.
 
 We call the root of the stemma the archetype, and usually designate it with a
 ω. Reconstructed notes are often called hyparchetypes and represented by Greek
@@ -175,7 +175,7 @@ representation of the logical relationships between the surviving manuscripts,
 not a claim about the specific details of actual historical transmission.
 Single lines may connect two manuscripts to a hypothesized "parent" manuscript,
 but this does not imply any confidence about the number of steps between those
-manuscripts and the parents. 
+manuscripts and the parents.
 
 To review:
 
@@ -249,7 +249,7 @@ editor an irresistable degree of freedom in the construction of a text, since
 the stemma itself can't determine the correct reading. A higher order split by
 contrast ties an editor's hands because the reading of the archetype can usually
 be inferred.
-   
+
 Besides wishful thinking, Bédier also thought that the technique itself has a
 methodological bias in favour of bifurcation. (I will say more about this in a
 later revision.) His influence loomed large over the development of 20th
@@ -278,7 +278,7 @@ Bédier's Paradox of Trifurcation was apparently a spur to @pasquali1952storia
 as well as to @timpanaro2005genesis (see, especially his Appendix C, where he
 wrestles at length with this problem), and @trovato2017everything credits
 Bédier with stimulating much of the development of 20th Century stemmatology in
-reaction to his criticisms. 
+reaction to his criticisms.
 
 @trovato2017everything features a long and interesting discussion of Bédier's
 Paradox of Trifurcation. There is the point stressed by Timpanaro that it can
@@ -290,7 +290,7 @@ this, see especially @Weitzman1987. Assuming realistic rates of manuscript loss
 (discussed carefully and with examples by @trovato2017everything), most stemmas
 will consist of bifurcations only. Contra Bédier, the preponderance of stemmas
 featuring bifurcation can be explained by the way that radical loss shapes a
-tradition, and not by the wishful thinking of scholars. 
+tradition, and not by the wishful thinking of scholars.
 
 Contamination presents the most serious challenge to any stemmatological
 method, traditional or computational. Maas's famous pronouncement "Gegen die
@@ -308,7 +308,7 @@ out theoretical problems with stemmas and contamination.
 # Computational Stemmatology
 
 The field of computational/mathematical stemmatology has flourished in recent
-years. 
+years.
 
 Parallels between stemmatology and phylogenetics have been explored in
 @howe2004parallels.
