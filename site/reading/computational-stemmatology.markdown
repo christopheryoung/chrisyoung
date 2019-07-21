@@ -210,8 +210,16 @@ witnesses and so have great value.
 **Recentiores non deteriores**: Implicit in the point above is that the age of
 a manuscript is irrelevant to its value as a witness. The veneration of old
 manuscripts in textual criticism is the confusion of auction value with
-editorial value, and even early editions should be considered witnesses to the
-textual tradition (see @reeve1982manuscripts).
+editorial value. See @browning1960recentiores for helpful discussion that
+includes evidence from paleography and indirect testimony about Byzantine and
+medieval copying practices. He collects a number of examples in which later
+manuscripts preserve now lost readings from sources which were clearly
+independent of all other surviving witnesses, and concludes that "[w]hat
+emerges from the above examples is that it was not an exception for a
+thirteenth or fourteenth century scholar to have access to early tradition, it
+was the rule" (p. 18). Note finally that it is not just manuscripts that fall
+under this principle: @reeve1982manuscripts argues that early editions should
+be considered witnesses to the textual tradition as well.
 
 This first step of editorial practice (*redactio*) along with subsequent
 refinements is also sometimes called neo-Lachmannian stemmatology. An
