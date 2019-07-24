@@ -51,11 +51,10 @@ have any interest in the field you should read this book.
 
 Karl Lachmann, working in the second half of the 19th Century, is associated
 with a leap forward in rigour in the establishment of classical texts.
-Lachmann's contribution has been famously reviewed in the
 @timpanaro2005genesis, whose relatively recent translation from the Italian we
-owe to Glenn Most.[^uchicago] Timpanaro traces the development of the method
-now associated with Lachmann's name. One irony: Lachmann is neither the first
-to develop the method now associated with his name nor does his work provide an
+owe to Glenn Most[^uchicago], traces the development of the method now
+associated with Lachmann's name. One irony: Lachmann is neither the first to
+develop the method now associated with his name nor does his work provide an
 especially good example of the method in practice. Although the main text of
 @timpanaro2005genesis is devoted to tracing the historical development of the
 method, the appendices to the work wrestle with various technical challenges,
@@ -90,7 +89,8 @@ And now for Lachmann's method, as it is often called:
 
 1. Collate your manuscripts against some reference text that you hope is not
    too far from what the author wrote. Departures from the reference text are
-   provisionally considered "errors."
+   provisionally considered "errors." Shared readings are only considered
+   evidence of provenance when they are errors.
 
 2. Discard polygenetic errors, that is, those that may easily occur
    spontaneously across a tradition --- or may be easily corrected by a copyist
@@ -106,13 +106,18 @@ And now for Lachmann's method, as it is often called:
    manuscripts, posit a parent for both that is the source of the conjunctive
    errors. Add more manuscripts to the tree in the same way.
 
-
 The resulting stemma, if it can be reconstructed with confidence, provides the
 basis for an edition of the text. A stemma can cut through a great deal of
 noise and focus attention on the essential choices between variants.
 
+This first step of editorial practice (*redactio*) along with subsequent
+refinements is also sometimes called neo-Lachmannian stemmatology. An
+alternative to this is the so-called "best manuscript" method championed by
+Bédier, which selects a "best manuscript" as the basis for a text and departs
+from it only when absolutely necessary.
+
 We call the root of the stemma the archetype, and usually designate it with a
-ω. Reconstructed notes are often called hyparchetypes and represented by Greek
+ω. Reconstructed nodes are often called hyparchetypes and represented by Greek
 letters. Consider the following stemma, which follows these conventions:
 
 ![](/media/extra_manuscripts.png)
@@ -150,7 +155,7 @@ matter. Both variants have an equal probability (as far as the stemma is
 concerned) of being in the archetype of the stemma. The editor must now choose.
 The stemma can say no more.
 
-Now consider a trifurcating tradition
+Now consider a trifurcating tradition:
 
 ![](/media/simple_trifurcation.png)
 
@@ -207,35 +212,30 @@ weighing in on affected passages but in general an error-ridden manuscript may,
 in virtue of its place in the stemma, offer readings independent of other
 witnesses and so have great value.
 
-**Recentiores non deteriores**: Implicit in the point above is that the age of
-a manuscript is irrelevant to its value as a witness. The veneration of old
-manuscripts in textual criticism is the confusion of auction value with
-editorial value. See @browning1960recentiores for helpful discussion that
-includes evidence from paleography and indirect testimony about Byzantine and
-medieval copying practices. He collects a number of examples in which later
-manuscripts preserve now lost readings from sources which were clearly
-independent of all other surviving witnesses, and concludes that "[w]hat
-emerges from the above examples is that it was not an exception for a
-thirteenth or fourteenth century scholar to have access to early tradition, it
-was the rule" (p. 18). Note finally that it is not just manuscripts that fall
-under this principle: @reeve1982manuscripts argues that early editions should
-be considered witnesses to the textual tradition as well.
-
-This first step of editorial practice (*redactio*) along with subsequent
-refinements is also sometimes called neo-Lachmannian stemmatology. An
-alternative to this is the so-called "best manuscript" method championed by
-Bédier, which selects a "best manuscript" as the basis for a text and departs
-from it only when absolutely necessary.
+**Recentiores non deteriores**: That is, more recent manuscripts are not worse.
+Another way of putting all this is that the *age* of a manuscript is irrelevant
+to its value as a witness. The veneration of old manuscripts in textual
+criticism is the confusion of auction value with editorial value. If the
+abstract argument about stemmata fail to convince, see @browning1960recentiores
+for helpful discussion of evidence from paleography and indirect testimony
+about Byzantine and medieval copying practices. He collects a number of
+examples in which later manuscripts preserve now lost readings from sources
+which were clearly independent of all other surviving witnesses, and concludes
+that "[w]hat emerges from the above examples is that it was not an exception
+for a thirteenth or fourteenth century scholar to have access to early
+tradition, it was the rule" (p. 18). Note finally that it is not just
+manuscripts that fall under this principle: @reeve1982manuscripts argues that
+early editions should be considered witnesses to the textual tradition as well.
 
 Now consider several common complaints about Lachmann's method:
 
 **Circularity**: We assume we know what the errors are and then use them to
-build a tool for determining between good and bad readings (that is, errors!).
+build a tool which will aid us in distinguishing between good and bad readings
+(that is, errors!).
 
 **Scalability**: A complicated tradition for even a medium sized text contains
 an enormous quantity of information in the form of variants and metadata about
-those variants. Scholars have groaned, and sometimes, collapsed under the
-weight.
+those variants. Scholars have groaned and sometimes collapsed under the weight.
 
 **Bédier's Paradox of Trifurcation**: The Bédier mentioned above noticed a
 century ago that very few published stemmas contain trifurcations let alone
@@ -265,12 +265,11 @@ themselves copied scribes were at liberty to choose between readings. Past a
 certain point it's not clear that Lachmann's method can determine a workable
 stemma.
 
-The first complaint about circularity can be dismissed the moment we have
-enough evidence for any method to work. The obvious rejoinder is simply that
-there are clearly monogenetic errors and that in sufficient quantity they can
-be used to reconstruct a stemma that can then be useful in determining between
-harder cases. The long and often implausibly successful story of philology
-seems to me to confirm this.
+One response to the concern about circularity is to affirm that there are
+clearly monogenetic errors and that in sufficient quantity they can be used to
+reconstruct a stemma that can then be useful in determining between harder
+cases. The long and often implausibly successful story of philology provides
+some support for this.
 
 I will have more to say about the issue of scalability below.
 
@@ -298,28 +297,50 @@ Kontamination ist kein Kraut gewachsen" ("No remedy has been developed against
 contamination") is often quoted in discussions of the subject.[^noch]
 
 
-## Mathematics of Stemmas
+## The Mathematics of Stemmas
 
 @Buneman1971, an early paper on the mathematics of manuscript descent, was
 also important in the development of modern phylogenetics. A trio of papers by
 Colin Flight, @flight1990many, @flight1992stemmatic, @flight1994complete, works
 out theoretical problems with stemmas and contamination.
 
+
 # Computational Stemmatology
 
 The field of computational/mathematical stemmatology has flourished in recent
-years.
+years, motivated especially by the concerns about circularity and scalability
+noted above.
 
-Parallels between stemmatology and phylogenetics have been explored in
-@howe2004parallels.
+## Biologically-based and Traditional Computational Stemmatology
+
+The parallels between problems presented by manuscripts and their descent and
+by biological sequences (nucleotides and proteins) and their evolution are
+striking. Not only is there error introduced by copying in both cases, but the
+phenomenon of contamination has an analogue in gene transfer. See
+@howe2004parallels for a useful discussion of parallels between phylogenetics
+and stemmatology.
+
+@trovato2017everything usefully distinguishes between computational approaches
+that aim to automate the more labourious aspects of Lachmann's method and those
+that aim to apply biological software to the problem. It is very clear that the
+*dominant* approach to computational stemmatology is biologically-inspired. He
+cites @salemans2000building (which I have not yet read) as an excellent example
+of the former approach. He is highly critical of the latter, dominant,
+approach.
 
 An important early spur to the development of the field was a challenge issued
 in 1991, which is reviewed in @robinson1992report.
 
+In a future revision of this essay I will have much more to say about specific
+tools and approaches.
+
+# The Use of Artificial Traditions
+
 A sensible first step in the development of algorithms and techniques for
 handling manuscript traditions is probably to generate artificial traditions to
-various specifications so that we can observe how well the techniques fare
-under different conditions (e.g., levels of contamination, mss loss, etc.).
+various specifications so that we can observe how well different techniques
+fare under different conditions (e.g., levels of contamination, mss loss,
+etc.).
 
 This is not an original idea. A friend informs me that Pasquali mentions that
 Kantorowicz had the idea in 1912: "He asked a batch of his students to make
@@ -327,6 +348,11 @@ copies of a Latin document, and his task was to edit it properly; his
 conclusion was to stress how fallible this process is." The idea has been
 carried forward in more recent work, including @spencer2004phylogenetics,
 @baret2006testing, @roos2009evaluating.
+
+# Other Work
+
+This essay is a draft-in-progress and what follows is a mostly unstructured
+dump of readings, many of which I haven't gotten to you.
 
 A trove of interesting papers can be found in @van2004studies. These include,
 but are not limited to @howe2004parallels, @mink2004problems,
@@ -340,15 +366,7 @@ I list the remaining papers in this category in chronological order:
 
 > @gjessing1994stochastic
 
-> @salemans2000building
-
-> @howe2004parallels
-
-> @mink2004problems
-
 > @schmid2004genealogy
-
-> @spencer2004effects
 
 > @eagleton2006copying
 
