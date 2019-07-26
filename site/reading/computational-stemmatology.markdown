@@ -8,13 +8,13 @@ csl: the-journal-of-hellenic-studies.csl
 # Introduction
 
 What follows is a to-do list in the form of a thin, unsatisfying, much too
-English-language-oriented bibliographical essay. This page may, circumstances
-permitting, grow over time as I collect references and record brief remarks on
-a few of them. I have a lot to add and it will take time to dump my private
-list of resources into something worthwhile, still longer to find more
-resources, and even longer still to say anything sensible about them.
-Eventually---again, circumstances permitting---this page may be of use to
-someone other than me.
+English-language-oriented, somewhat (Greek and Latin) Classics biased,
+bibliographical essay. This page may, circumstances permitting, grow over time
+as I collect references and record brief remarks on a few of them. I have a lot
+to add and it will take time to dump my private list of resources into
+something worthwhile, still longer to find more resources, and even longer
+still to say anything sensible about them. Eventually---again, circumstances
+permitting---this page may be of use to someone other than me.
 
 If you're impatient for an excellent, recent, and far more comprehensive (and
 more richly multilingual) bibliography, I highly recommend
