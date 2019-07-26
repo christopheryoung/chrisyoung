@@ -40,7 +40,8 @@ know at chris@chrisyoung.net.
 ## Introduction to Textual Criticism
 
 An accessible and engaging (non-technical) introduction to the whole world of
-textual criticism (and more) can be found in @reynolds1974scribes.
+textual criticism (and more) can be found in @reynolds1974scribes (now in it's
+fourth edition, published in 2013).
 
 A superb introduction to most of the topics discussed on this page, including
 both traditional Lachmannian stemmatology and computational stemmatology, is
@@ -75,6 +76,9 @@ A very different review of the history of textual criticism (focusing on New
 Testament textual criticism) and biology is offered by @lin2016erotic (see
 [this review](http://bmcr.brynmawr.edu/2016/2016-10-25.html) for a bit more). I
 hope to comment on this strange book at some point.
+
+Finally, I do not discuss here the "Coherence Based Genealogical Method", which
+is all the rage in New Testament studies.
 
 ## Lachmann's Method
 
@@ -416,8 +420,6 @@ I list the remaining items in this category in chronological order:
 
 > @spencer2004representing
 
-> @bourdaillet2007practical
-
 > @robins2007editing
 
 > @windram2008dante
@@ -440,8 +442,6 @@ I list the remaining items in this category in chronological order:
 
 > @nassourou2013computer
 
-> @Hoenen:2015
-
 > @hoenen2015simulating
 
 > @hoenenlachmannian
@@ -449,12 +449,9 @@ I list the remaining items in this category in chronological order:
 # Tools
 
 Manuscripts often contain information that is both genealogically relevant and
-tricky to capture. A few works that address this side of the problem:
-
-> @maddison1997nexus
-
-The [Text Encoding Initiative](https://tei-c.org/) attempts to standardize the
-many issues that arise in trying to manage multiple copies of a text.
+tricky to capture. The [Text Encoding Initiative](https://tei-c.org/) attempts
+to standardize the many issues that arise in trying to manage multiple copies
+of a text.
 
 The [Interedition Github page](https://github.com/interedition) contains a
 number of repositories for projects dealing with textual criticism, including
@@ -515,30 +512,6 @@ opposed to simply *trees*, which should make it of special interest of
 stemmatologists.
 
 And speaking of phylogenetic networks, don't miss [The Genealogical World of Phylogenetic Networks](http://phylonetworks.blogspot.com/), a blog that is chock full of references and interesting posts.
-
-A random selection of papers I've come across follows, to be structured and commented on
-later:
-
-> @bandelt1992split
-
-> @huson1999disk
-
-> @strimmer1997likelihood
-
-> @hagedorn2000determining
-
-> @billera2001geometry
-
-> @bastert2002landscapes
-
-> @gascuel2005mathematics
-
-> @vogtmann2007geodesics
-
-> @paten2013unifying
-
-> @huson2006application
-
 
 # Complete List of References
 
