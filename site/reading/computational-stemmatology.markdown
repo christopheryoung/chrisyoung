@@ -39,9 +39,10 @@ know at chris@chrisyoung.net.
 
 ## Introduction to Textual Criticism
 
-An accessible and engaging (non-technical) introduction to the whole world of
-textual criticism (and more) can be found in @reynolds1974scribes (now in it's
-fourth edition, published in 2013).
+An accessible and engaging introduction to the whole world of ancient,
+medieval, and renaissance scholarship and textual criticism can be found in
+@reynolds1974scribes (now in it's scrupulously updated fourth edition,
+@reynolds2013scribes).
 
 A superb introduction to most of the topics discussed on this page, including
 both traditional Lachmannian stemmatology and computational stemmatology, is
@@ -199,7 +200,7 @@ which ones provide independent testimony about the archetype.
 **The value of a witness is determined solely by the stemma**: There is the
 value a manuscript has at auction and the value it has for an editor. The
 former has to do with age and provenance and beauty and chains of ownership and
-so on. The latter is solely a function of what other witnesses have survived
+so on.[^ms_value] The latter is solely a function of what other witnesses have survived
 and how they are related. If I copy the original of a tradition and then lose
 the original, my copy will fetch nothing at auction (my handwriting is a
 disgrace, my paper cheap) but it is a witness to the original that is
@@ -218,18 +219,25 @@ witnesses and so have great value.
 
 **Recentiores non deteriores**: That is, more recent manuscripts are not worse.
 Another way of putting all this is that the *age* of a manuscript is irrelevant
-to its value as a witness. The veneration of old manuscripts in textual
-criticism is the confusion of auction value with editorial value. If the
-abstract argument about stemmata fail to convince, see @browning1960recentiores
-for helpful discussion of evidence from paleography and indirect testimony
-about Byzantine and medieval copying practices. He collects a number of
-examples in which later manuscripts preserve now lost readings from sources
-which were clearly independent of all other surviving witnesses, and concludes
-that "[w]hat emerges from the above examples is that it was not an exception
-for a thirteenth or fourteenth century scholar to have access to early
-tradition, it was the rule" (p. 18). Note finally that it is not just
-manuscripts that fall under this principle: @reeve1982manuscripts argues that
-early editions should be considered witnesses to the textual tradition as well.
+to its value as a witness. Now, it may well turn out in practice that older
+manuscripts offer a more direct route to the archetype than later ones, or that
+later manuscripts will turn out to be copied from some older and still
+surviving manuscript, and so can be eliminated from a stemma. Nevertheless, the
+veneration of old manuscripts at the outset of an investigation in textual
+criticism is the confusion of auction value with editorial value.[^recentiores]
+
+If this rather abstract argument grounded in stemmatatological reasoning fails
+to convince, see @browning1960recentiores for helpful discussion of evidence
+from paleography and indirect testimony about Byzantine and medieval copying
+practices. He collects a number of examples in which later manuscripts preserve
+now lost readings from sources which were clearly independent of all other
+surviving witnesses, and concludes that "[w]hat emerges from the above examples
+is that it was not an exception for a thirteenth or fourteenth century scholar
+to have access to early tradition, it was the rule" (p. 18). Note finally that
+it is not just manuscripts that fall under this principle:
+@reeve1982manuscripts argues that early editions should be considered witnesses
+to the textual tradition as well. And see @reynolds2013scribes, 218 for further
+examples and discussion.
 
 Now consider several common complaints about Lachmann's method:
 
@@ -267,7 +275,7 @@ just in copying but in collating other witnesses to the text. These collations
 are often noted in the margin or above the line and when these manuscripts were
 themselves copied scribes were at liberty to choose between readings. Past a
 certain point it's not clear that Lachmann's method can determine a workable
-stemma.
+stemma.[^contamination]
 
 One response to the concern about circularity is to affirm that there are
 clearly monogenetic errors and that in sufficient quantity they can be used to
@@ -534,3 +542,20 @@ gewachsen" ("No remedy has yet been developed against contamination"). Between
 the second (1950) edition (on which Flower's translation was based) and third
 (1957) edition, Maas had apparently grown a shade more pessimistic about the
 problem.
+
+[^ms_value]: It's worth adding that there is also the value a manuscript has in
+teaching us about the intellectual history associated with its transmission.
+[@reynolds2013scribes, 193] credits this point originally to Ludwig Traube
+(1861-1907) and comment: "A manuscript which may be proved utterly useless as a
+copy of the an author's text may none the less be of the greatest value in
+another way, since if it can be assigned with certainty to its place of origin,
+or better still, if the scribe of it can be identified with certainty, it will
+tell us something about the intellectual history of the Middle Ages."
+
+[^contamination]: @reynolds2013scribes, 293 caution that the intense focus
+generated by the problem of contamination can distract from the larger picture:
+"in many traditions the amount of contamination that has taken place is not
+sufficient to prevent the useful application of stemmatic theory."
+
+[^recentiores]: This was apparently understood even in the 16th Century. See
+reynolds2013scribes, 295.
