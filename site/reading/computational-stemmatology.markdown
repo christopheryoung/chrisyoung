@@ -323,7 +323,8 @@ contamination") is often quoted in discussions of the subject.[^noch]
 @Buneman1971, an early paper on the mathematics of manuscript descent, was also
 important in the development of modern phylogenetics. A trio of papers by Colin
 Flight: @flight1990many, @flight1992stemmatic, and @flight1994complete, works
-out theoretical problems with stemmas and contamination.
+out theoretical problems with stemmas and contamination. See also
+@hoenen-etal-2017-many.
 
 
 # Computational Stemmatology
@@ -331,6 +332,10 @@ out theoretical problems with stemmas and contamination.
 The field of computational/mathematical stemmatology has flourished in recent
 years, motivated especially by the concerns about circularity and scalability
 noted above.
+
+As of this writing, @HandbookofStemmatology is not yet published and the table
+of contents is not available, but the summary on the publisher's page is
+promising.
 
 ## Biologically-based and Traditional Computational Stemmatology
 
@@ -461,7 +466,7 @@ I list the remaining items in this category in chronological order:
 
 > @hoenen2015simulating
 
-> @hoenenlachmannian
+> @hoenen-2015-lachmannian
 
 # Tools
 
@@ -473,14 +478,6 @@ of a text.
 The [Interedition Github page](https://github.com/interedition) contains a
 number of repositories for projects dealing with textual criticism, including
 especially the [collatex](https://github.com/interedition/collatex) project.
-
-[Juxta](http://www.juxtasoftware.org/) "is an open-source tool for comparing
-and collating multiple witnesses to a single textual work." Its source is
-available on github
-([desktop](https://github.com/performant-software/juxta-desktop), [web
-service](https://github.com/performant-software/juxta-service)). This is one
-offering of several from [Performant](https://www.performantsoftware.com/),
-which specializes in software for the humanities.
 
 <!-- TODO: Look at bookmarks and pinboard -->
 
