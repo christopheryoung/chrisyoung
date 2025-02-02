@@ -4,8 +4,7 @@ title: Meta
 
 **Contact**
 
-Contact me at chris@chrisyoung.net. Find my resume `here
-</media/Christopher_Young_Resume_Sept_2013.pdf>`_.
+Contact me at chris@chrisyoung.net.
 
 **Disambiguation**
 
@@ -19,16 +18,17 @@ undoubtedly all excellent in their own way, but they're not me.
 You're at the right place if you're looking for the Canadian (and, as of 2019,
 American) Christopher Young who grew up (mostly) in Ottawa, studied philosophy
 at the University of Toronto, went to Cornell to do graduate work in the same
-field, eventually dropped out, taught himself to code while waiting for a green
-card, became a developer passionate about Python, Clojure and Haskell, and now
-lives very happily in Brooklyn, NY with his wife, `Yoon Sun Choi
-<http://yoonsunchoi.com>`_, and his son, Oliver.
+field, eventually dropped out, taught himself to code while waiting for a Green
+Card, became a software developer, and now lives very happily in Brooklyn, NY
+with his wife, `Yoon Sun Choi <http://yoonsunchoi.com>`_, and his son, Oliver.
+
 
 **Elsewhere**
 
-I'm on Twitter at `@donkeyhotty <https://twitter.com/donkeyhotty>`_.
-
-I collect interesting links at `Pinboard <https://pinboard.in/u:chrisyoung>`_.
+I used to be on Twitter at `@donkeyhotty <https://twitter.com/donkeyhotty>`_
+but have since moved on to BlueSky at `@donkeyhotty.bsky.social
+<https://bsky.app/profile/donkeyhotty.bsky.social>`_ and Mastodon at
+`@donkeyhotty <https://zirk.us/@donkeyhotty>`_.
 
 **Credits**
 
