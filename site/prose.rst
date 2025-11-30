@@ -41,6 +41,3 @@ I taught at the University level for several years, and retain a strong
 interest in pedagogy. One product of this interest is my essay, "How to Teach
 'Introduction to Applied Ethics', " the latest version of which can be found
 `here </prose/essays/how-to-teach-introduction-to-applied-ethics/>`_.
-
-A (very rough) work in progress: My bibliographical essay on `resources in
-computational stemmatology</reading/computational-stemmatology.html>`_.
