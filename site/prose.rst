@@ -11,8 +11,9 @@ For several years I ran a group blog devoted to politics, books, etc., called
 
 **Publications (and invited talks)**
 
-Young, Christopher and Andrew Brook. 'Schopenhauer and the Mind' in `*The New
-Cambridge Companion to Schopenhauer*`, ed. Sandra Shapshay and Colin Marshall.
+Young, Christopher and Andrew Brook. 'Schopenhauer and the Mind' in *The New
+Cambridge Companion to Schopenhauer*, ed. Sandra Shapshay and Colin Marshall.
+[Appearing in 2026]
 
 Brook, Andrew and Christopher Young. 'Schopenhauer and Freud' in `*The Oxford
 Handbook of Philosophy and
