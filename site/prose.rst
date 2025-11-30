@@ -11,10 +11,13 @@ For several years I ran a group blog devoted to politics, books, etc., called
 
 **Publications (and invited talks)**
 
+Young, Christopher and Andrew Brook. 'Schopenhauer and the Mind' in `*The New
+Cambridge Companion to Schopenhauer*`, ed. Sandra Shapshay and Colin Marshall.
+
 Brook, Andrew and Christopher Young. 'Schopenhauer and Freud' in `*The Oxford
 Handbook of Philosophy and
 Psychoanalysis,*<https://www.amazon.com/dp/019878970X/>`_, ed. Richard Gipps
-and Michael Lacewing. 2019.
+and Michael Lacewing. 2019. [This is largely a rewrite of Young and Brook 1994]
 
 Young, Christopher and Andrew Brook. 'Schopenhauer,' 2006 in *The Edinburgh
 International Encyclopedia of Psychoanalysis.*
