@@ -36,9 +36,9 @@ significant.
 
 Anyway, this is a point that I associate most with Jody Azzouni. See, e.g., p.
 xii and the appendix to the General Introduction of his *Ontology Without
-Borders*, where he stresses the smae thing. At the moment, I can't find the
+Borders*, where he stresses the same thing. At the moment, I can't find the
 exact passage where Azzouni discusses the literature on this issue, but my
-recollection is that he thinks this is a widely neglected. That may be, but
+recollection is that he thinks this is a widely neglected point. True, but
 Hinst's paper is a nice and overlooked precedent for it.
 
 Hinst concludes with a few observations about the failure (as he sees it) of
