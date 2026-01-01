@@ -1,0 +1,302 @@
+---
+title: '2025 Reading'
+date: '2026-01-01'
+tags: books
+---
+
+I only read 37 books in 2025, but I suppose that's partly because I read a lot
+of academic papers. I'd like to write more often and in more depth about my
+reading in 2026, including about the academic papers I'm reading. For 2025,
+I'll just do a quick review.
+
+As for fiction, as [mentioned
+earlier](https://chrisyoung.net/prose/blog/posts/2025-02-08_recently_read/), I
+read Delaney's ***Babel-17*** with high hopes, but didn't enjoy it very much.
+
+By contrast, Robert Harris's ***Imperium*** was a really fun take on the early
+part of Cicero's political career, told from the point of view of Tiro, his
+trusted slave. I'm not familiar with much of Cicero's biography, so I'm not
+sure how historically accurate it is, but it's certainly suspensful and
+interesting throughout. I've always meant to read more historical fiction and
+this was a nice start.
+
+In anticipation of a trip (sadly cancelled) to Montreal, I reread Mordecai
+Richler's ***The Apprenticeship of Duddy Kravitz***, a great Canadian classic.
+Recommended if you want a glimpse of Montreal's past or you appreciate a
+well-drawn anti-hero.
+
+Still trying to open myself up to more SciFi, I read VanderMeer's
+***Annihilation***. It was good enough to finish, but it didn't blow me away
+either. Maybe the problem was me, though, and not the book.
+
+Miranda July's ***All Fours*** has gotten a lot of attention since it was
+published in 2024. I read it partly because of the buzz, but also because I
+remember loving her book of short stories, ***No One Belongs Here More Than
+You***, when I read it years ago. ***All Fours*** was an uncomfortable read for
+me in some ways, since the author's way of looking at the world is so different
+from my own (absurdly, I find fiction that features dishonesty hard to take
+sometimes), but it was also real and arresting enough in spite of all that for
+me to read it. Now that half a year has elapsed since I finished it, I can see
+it's passing the "this book stayed with you" test. I might reread it in a
+decade.
+
+I read Pezeshkzad's ***Hafez in Love***, a fictionalized account of a few
+episodes in the life of Hafez Shirazi, the great(est) Persian poet. I enjoyed
+this less than I expected---I think the poetry and its assumptions and
+conventions must not translate well, at least into my brain.
+
+I finally read my first Terry Pratchet, ***Night Watch***. It was silly and fun
+and I'll read more from him but I think I also understand where the minority of
+haters is coming from. It is not subtle, that's for sure.
+
+I gobbled up Susan Minot's 1989 ***Lust and Other Stories***, the collection
+held together by the theme of disappointed expectations and romantic
+misadventures. Her voice reminded me a little of Lorrie Moore's, but still all
+her own.
+
+I finally read (it's been on my shelf forever and I kept meaning to get to it)
+David Gutterson's ***Ed King***, a modernization of Oedipus Rex. It was fun,
+but not among my favourite reworkings of classical texts. Will not reread.
+
+Since I read Ted Chiang's wonderful ***Stories of Your Life and Others*** I've
+been looking forward to ***Exhalation***, his follow up collection of stories.
+This I finally got to in 2025. His stories are wonderful and I will absolutely
+be rereading both volumes.
+
+Finishing up English fiction, I read Amie Barrodale's ***You Are Having a Good
+Time***. These are dark, funny, perfectly told stories. After I finished the
+first story, I put her novel on hold at the library. Great stuff.
+
+Moving onto English non-Philosophical non-Fiction, I read Kate Conger and Ryan
+Mac's ***Character Limit: How Elon Musk Destroyed Twitter***. This is a nearly
+500 page blow-by-blow account of Elon Musk's takeover of Twitter. If you were
+glued to your screen during these events (as I was), then little of it will be
+new to you. If you weren't glued to your screen, then this book might be too
+much. Or perhaps not. The story has an obvious relevance beyond Twitter, since
+Musk's takeover of Twitter both helped Trump win the election and enhanced (in
+some circles) Musk's reputation for extreme but effective organizational
+makeovers. So the book is important background reading for DOGE and Musk's
+dismantling of American state capacity.
+
+If there's a thesis to the book it's that Musk saw Twitter as "a knot of
+technical issues that a great engineering mind like himself could easily
+untangle, enabling the growth of free speech in the digital town square. But at
+its core, Twitter was plagued by social and political dilemmas, not merely
+technological ones." In the book, Musk spends a lot of time running around
+urging people to be hardcore. And although he repeatedly loses the respect and
+trust of people who could help him achieve his own goals, many people do their
+very best to meet his high standards. Indeed, Musk does seem to have a sort of
+genius for convincing very smart and driven people to ignore their family,
+their health, and their other interests in order to pursue his own vision.
+Since he seems profoundly unlikable on the page and screen, I assume he is very
+charismatic in person, as least when he chooses to be.
+
+Is Musk *himself* hardcore? He certainly works very long hours, much longer
+than most people could manage. Beyond that, it's hard to see that he really is.
+Some of the examples in the book are jaw-dropping, even if you already knew the
+outlines. Prior to his purchase of Twitter, Musk failed to sign an NDA or do
+basically any due diligence. So he couldn't even look at Twitter's financial
+projections until it was too late. People negotiating with Musk "could hardly
+believe their luck. They knew they were dealing with a slippery character and
+angled for an agreement that placed all the legal risk on the buyer". Musk
+starting talking about "due diligence" *after* he signed the deal. "But the
+period for due diligence was long gone." (For people following this in real
+time, the best commentary was surely Matt Levine's.) At one point
+post-purchase, Twitter staff tries to explain the company to Musk as he listens
+respectfully and asks probing questions. But the thoughtful questions are
+hardly redeeming in context: "And they [the Twitter employees] recalled that
+when Musk and his bankers went and pitched potential investors on backing his
+acquisition of Twitter, leaked presentation decks reported by the media said
+that Musk's company would bring in $12 billion in annual advertising revenue,
+more than double its current clip, by 2028. If he was just learning how Twitter
+kept the lights on, what were his figures based on?"
+
+The authors of the book don't even pretend to be dispassionate about their
+subject. They repeatedly describe him in unflattering ways: ". . . Musk needed
+to vent and [posting] was his way of throwing his toys out of the crib when he
+didn't get what he wanted". Or: "And while Musk posted like a twelve-year-old
+off his Ritalin . . .". Or: "They'd appeased him, plying him with reams of data
+like a mother offering different pacifiers to a fussy toddler". And so on. I am
+sure that many wealthy people in tech dismissed the book and its reporting as
+just more hostility from reporters, ones whose day job is (damningly) at the
+NYT---if they noticed the book at all. But looking back at the dysfunctional,
+chaotic, failure of DOGE, there is no book or reporting I know of that would
+have better prepared someone to predict how it would go. Wealthy tech haters of
+the NYT would do well to chew on that (they won't).
+
+George Szirtes's ***The Photographer at Sixteen*** was an account of his
+mother's tragic life, an exercise in imagination and empathy. This was worth
+reading but did not quite live up to my expectations, and I didn't hold onto my
+copy for further rereading. A very young (pre-famous) David Bowie makes an
+unexpected cameo at one point.
+
+Moving on, I read Carlo Rovelli's little ***Seven Brief Lessons on Physics***.
+They were indeed brief---to brief to really teach much, I think.
+
+Chris Voss's ***Never Split the Difference*** was published several years ago,
+but for some reason seemed to get a flurry of attention in 2025. Several people
+I know were all reading it and recommending it to each other. The author was a
+negotiator for the FBI and the book promises to teach you some of his tricks. I
+don't think I learned too much from it because I already have a pretty worked
+out (and overlapping) view of negotiation. What I appreciate about Voss is his
+emphasis (even in the most adversarial of negotiations) on empathy and building
+understanding.
+
+I finally read Tetlock and Gardner's ***Superforcasting***. I also didn't learn
+much from this book, but I think the reason for that must be that I had already
+absorbed so much of it by osmosis from other people I read. It's had an
+enormous impact on some corners of the internet that I frequent. The basic idea
+is that a lot of experts are very poor at predicting the future; that most
+predictions people make don't effectively operationalize the issue in question
+so are too vague to even assess; that in fact it is possible to do better or
+worse at prediction over time; that doing it well matters; that some people
+(usually non-experts!) do in fact do it well pretty consistently; and that we
+can learn from them how to do it better. These are all excellent points, in my
+opinion, and so-called superforecasters do indeed have much to teach the rest
+of us. So even though I didn't encounter any new ideas here, it was nice to see
+them all pulled together, and am happy to recommend this book.
+
+Caleb Campbell's ***Disarming Leviathan: Loving Your Christian Nationalist
+Neighbor*** is not my usual fare. I'm an atheist raised by atheists in Canada,
+who has only lived in the U.S. in left-liberal places (or at least, moved in
+left-liberal circles in those places). So my *direct* (knowing) contact with
+Christian Nationalists is basically nil. And my view of Christianity is
+something like bewildered incomprehension, so I was not in the target audience
+for a book squarely addressed to Christians. (I found the book via Seumas
+MacDonald's
+[substack](https://jeltzz.substack.com/p/disarming-leviathan-loving-your-christian),
+which I found via MacDonald's wonderful [online
+courses](https://thepatrologist.com/shop/), when I studied Latin online during
+the pandemic.) I read the book because although I don't have any (knowing)
+daily contact with Christian nationalists, I am very much at the mercy of their
+political choices. And I was curious to hear the author's strategies for
+dealing with people who start from what seem like shared premises and end up in
+a terrible place.
+
+Campbell describes Christian nationalism as "a movement that calls Christian
+followers to take government power at all costs to advance their preferred way
+of being in the world". Christian nationalism "is a false gospel, a
+leader-driven movement seeking power and influence by indoctrinating its
+followers, preying on their fear, and leveraging their religious devotion." It
+operates like a cult and encourages us/them thinking. He finds it unChristian
+and admits to feeling a lot of anger and disappointment with friends and
+members of the Church who fall into this way of thinking. Campbell makes the
+point that the best attitude for him to take to it is to see Christian
+nationalists as his mission field. Some missionaries travel to exotic locations
+and learn foreign cultures, but there is also value in seeing your own culture
+and its foreign mindsets as a legitimate (and difficult!) mission field as
+well.
+
+The first part of the book was not very useful to me, though I suppose
+necessary. It is devoted to characterizing the mission field so that readers
+understand what they're dealing with. He describes Christian Nationalism in
+some detail and tries to distinguish it from Christian conservativism. I could
+quibble here and there with some of his descriptions, but this was mostly
+preaching to the converted (modulo all of our background differences of
+opinion).
+
+The second part of the book was more interesting to me. It goes through
+strategies for empathizing, listening respectfully, and provoking deeper
+engagement with faith in a way intended to sow the seeds of doubt in Christian
+Nationalism. He points out that we rarely change our minds because someone got
+off a good zinger at our expense or out-argued us. The author himself
+understands conversions, since he was himself a neo-Nazi skinhead as a teenager
+(!). There are some good examples in the book that would be useful to
+Christians having these tough conversations. I'm probably not the one to be
+having them---it's too easy to dismiss a foreign-born atheist from within the
+Christian Nationalist world view. Christians, get to work on your friends and
+neighbours. We need you.
+
+I worked on my French this year by reading Annie Ernaux's ***La Place***.
+Actually, I've been chipping away at this short book for years, often starting
+over and retracing my steps, but only pushed through and finished it in 2025.
+This is a great book for a beginner in French, because Ernaux's spare style
+works well for new learners while also being stylistically interesting in its
+own right. The book is about her father's life, so different from her own, and
+the inevitable distance between them. Recommended. I read a lot of other French
+this year (including news) but don't seem to have finished any other books.
+
+For Italian, I read the beginner book by Capilli, ***Le Avventure Di Paul A
+Roma***. This did what was advertised on the tin: gave me a story to follow in
+Italian, with fairly simple vocabulary and notes. I've also already [mentioned
+in another
+post](https://chrisyoung.net/prose/blog/posts/2025-12-14_cuconato_on_quinean_indispensability_and_commitment/)
+Cuconato's book on ontological commitment. I also read Jhumpa Lahiri's ***In
+Altre Parole***, her first book written in Italian. Lahiri (a celebrated writer
+in English) describes in this book her infatuation with Italian and her various
+attempts to learn it. She now lives in Rome and publishes mostly in Italian.
+This was just great. In addition to being a solid account of learning a
+language, it has a series of worthwhile reflections about her relationship with
+Bengali and English as well as Italian.
+
+For German I read two similar beginner books, Klein's ***Dino Lernt Deutsch***
+and Richard and Rawlings's ***Short Stories in German***. Of these, I preferred
+the Klein, though all these beginner books seem to be pretty dull. The Richard
+and Rawling stories were strange and unsatisfying (though your ymmv---online
+the book seems to have some admirers). I read it twice to cement vocabulary and
+was just sick of it by the time I was done.
+
+My Classical Greek reading group wrapped up Plato's ***Gorgias*** in 2025
+(we're now onto Plato's ***Protagoras***). I've been reading and rereading the
+***Gorgias*** since I took Brad Inwood's wonderful seminar on the book in
+1996(ish). It's my go-to recommendation for people interested in Plato or even
+just in philosophy in general. (Get the Zeyl translation published by Hackett.
+It's excellent.) I also read and enjoyed Seumas MacDonald's ***Ὁ ἐπὶ Τροίᾱν
+Πόλεμος***, a retelling of the Trojan war in basic Greek.
+
+In philosophy, I've already
+[mentioned](https://chrisyoung.net/prose/blog/posts/2025-02-08_recently_read/)
+Ney's ***Metaphysics: An Introduction*** and Smith's wonderful ***An
+Introduction to Formal Logic***. I'm rereading Smith now, actually. Another fun
+introductory read was Papineau's ***Philosophical Devices: Proofs,
+Probabilities, Possibilities, and Sets***---I only wanted it to be longer. I
+read and enjoyed Greg Frost-Arnold's ***Free Logic***, but won't say anything
+about it now, since I hope to write something about it in 2026 after I reread
+it.
+
+I wrapped up my tour through Descartes's philosophical work with ***The
+Philosophical Writings of Descartes, Volume 3***. This volume contains his
+correspondence. Why I do dislike Descartes so much? It can't be the strange
+views, since I happily put up with Plotinus and other wierdos. It can't be that
+he's a jerk, since I've spent years reading Schopenhauer. Anyway, I'm still
+waiting for something to click here and to start enjoying Descartes. I did
+enjoy Gaukroger's ***Descartes: An Intellectual Biography*** more than you'd
+expect considering the subject.
+
+I read Feferman and Feferman's ***Alfred Tarski: Life and Logic***. I think I
+got enough of the life but would have loved even more of the logic---that's a
+statement of preference not a knock on the book, which is after all a
+biography. Stewart's ***Infinity - A Very Short Introduction*** was worthwhile
+and helped me take my first baby steps into this area.
+
+I read two books back-to-back on the Vienna Circle: Edmonds' ***The Murder of
+Professor Schlick*** and Sigmund's ***Exact Thinking in Demented Times***. Both
+were worthwhile, though I think I preferred Edmonds's a bit more. Both books
+need to cover an enormous amount of ground quickly, which means compressed
+accounts of complex ideas. Sometimes this goes off the rails, mainly in
+Sigmund's book. Sigmund's gloss of Kant's categorical imperative (p. 269) was
+very sloppy, for example. He collapses it into the single universal law
+formulation and then says "or, in simpler terms, 'Do X only if you like the
+idea of everyone doing X." Look, I understand the author needs to cover a lot
+of ground quickly, but this seems worse than simply leaving it unexplained. The
+core of the universal law formulation is surely the maxim, which concerns the
+*reason* for which we act. The reasons for which rational agents act need to be
+universalizable in the sense that the maxims need to be consistent. But that
+doesn't mean you should avoid getting a coffee at the shop because if everyone
+got a coffee at the shop all at once billions would be crushed to death. And
+here is Sigmund on Tarski on truth: "His idea mirrored the commonsensical
+correspondence theory of truth. For example, the statement 'Fido is barking' is
+true if and only if Fido is indeed barking. In this example, a higher-level
+statement—namely, 'The following is true'—is applied to a lower-level
+statement—namely, 'Fido is barking.' Formally, this act linking two distinct
+linguistic levels requires a metalanguage, like those that Rudolf Carnap was
+developing at the time." This seems very muddled. For starters (and only for
+starters), the two distinct linguistic levels don't require a third level, the
+metalanguage. The higher of the two is the metalanguage relative to the lower.
+And the relationship between the correspondence theory of truth and Tarski's
+convention T is *much* slippier than this.
+
+Finally, I read Jody Azzouni's *Ontology Without Borders* slowly while taking
+extensive notes. But this is such a rich, perplexing book that I'm not done
+with it and I hope to be writing about it and other work by Azzouni in 2026 so
+you'll have to wait for that.
