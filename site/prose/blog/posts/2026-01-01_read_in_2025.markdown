@@ -296,7 +296,7 @@ metalanguage. The higher of the two is the metalanguage relative to the lower.
 And the relationship between the correspondence theory of truth and Tarski's
 convention T is *much* slippier than this.
 
-Finally, I read Jody Azzouni's *Ontology Without Borders* slowly while taking
-extensive notes. But this is such a rich, perplexing book that I'm not done
-with it and I hope to be writing about it and other work by Azzouni in 2026 so
-you'll have to wait for that.
+Finally, I read Jody Azzouni's ***Ontology Without Borders*** slowly while
+taking extensive notes. But this is such a rich, perplexing book that I'm not
+done with it and I hope to be writing about it and other work by Azzouni in
+2026 so you'll have to wait for that.
