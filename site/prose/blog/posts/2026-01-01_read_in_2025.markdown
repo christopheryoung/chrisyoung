@@ -4,7 +4,7 @@ date: '2026-01-01'
 tags: books
 ---
 
-I only read 37 books in 2025, but I suppose that's partly because I read a lot
+I only read 38 books in 2025, but I suppose that's partly because I read a lot
 of academic papers. I'd like to write more often and in more depth about my
 reading in 2026, including about the academic papers I'm reading. For 2025,
 I'll just do a quick review.
@@ -295,6 +295,10 @@ starters), the two distinct linguistic levels don't require a third level, the
 metalanguage. The higher of the two is the metalanguage relative to the lower.
 And the relationship between the correspondence theory of truth and Tarski's
 convention T is *much* slippier than this.
+
+Szabo and Thomason's ***Philosophy of Language*** is an excellent introduction
+to the subject. It seems to be pitched at linguists, but it doesn't actually
+require any special background in linguistics to be read and enjoyed.
 
 Finally, I read Jody Azzouni's ***Ontology Without Borders*** slowly while
 taking extensive notes. But this is such a rich, perplexing book that I'm not
