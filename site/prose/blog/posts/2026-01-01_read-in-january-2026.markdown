@@ -72,10 +72,11 @@ understanding of the relevant science is weak, apart from any attempt to relate
 it to Buddhism. For example, he seems to go in for a pretty unsophisticated
 version of extrapolative evolutionary psychology, apparently influenced by
 Robert Wright's terrible book *The Moral Animal*. Agreed, humans are a product
-of evolution, but there are a number of ways to go wrong when making specific
-claims and predictions from that fact. It's just very hard to write and think
-about this well, and because he seems unaware of the methodological issues in
-this area, the text is bound to frustrate anyone who is aware of them.
+of evolution, but (once again) there are a number of ways to go wrong when
+making specific claims and predictions from that fact. It's just very hard to
+write and think about this well, and because he seems unaware of the
+methodological issues in this area, the text is bound to frustrate anyone who
+is aware of them.
 
 Here's an example of sloppiness about what science tells us: Glickman repeats
 the claim 'from Psych 101, if the word "Coke" is flashed on a movie screen for
