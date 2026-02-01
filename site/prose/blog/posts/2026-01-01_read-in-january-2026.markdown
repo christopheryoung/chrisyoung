@@ -23,13 +23,13 @@ narratives featuring extended dishonesty make me really uncomfortable. But this
 is of course an eminently reasonable subject for a work of art. The narrator
 also indulges in a wild amount of very unconvincing rationalization. The
 narrator ends his tale, it seemed to me, with a very long way to go in
-understanding what he'd lived through and done. I wasn't sure how much wiser
-the story was than the narrator. In the end, though, I decided that the author
-had done that main thing that I ask of a piece of fiction, which is to raise a
-series of questions that elude any simple resolution. The reworking of themes
-from a novel of Graham Greene is well done. As much as I disliked reading it, I
-have to admit that this novel wasn't bad. Recommended especially for people who
-aren't me.
+understanding what he'd lived through and done. Again, this is fine! But at
+times I wasn't sure how much wiser the story was than the narrator. In the end,
+though, I decided that the author had done that main thing that I ask of a
+piece of fiction, which is to raise a series of questions that elude any simple
+resolution. The reworking of themes from a novel of Graham Greene is well done.
+As much as I disliked reading it, I have to admit that this novel wasn't bad.
+Recommended especially for people who aren't me.
 
 **Marshall Glickman, *Beyond the Breath: Extraordinary Mindfulness Through
 Whole-Body Vipassana Meditation***
