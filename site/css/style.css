@@ -125,6 +125,13 @@ tr {
     margin-top: 1.6em;
 }
 
+.frontbox {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 #front-text {
     list-style-type: none;
 }
