@@ -2,7 +2,7 @@
 {date: '2009-07-17', explananda: '', title: Cronkite, tags: personal}
 
 ---
-Walter Cronkite just died. My oldest political memories are of lying on
+Walter Cronkite just died. My oldest political memories are of lying on the
 living room floor in front of the television and watching Walter Cronkite's
 nightly newscast. In particular, I remember how he used to count off the days
 of the Iranian hostage crisis. I also remember his last broadcast, and how he

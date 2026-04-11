@@ -4,7 +4,7 @@
 ---
 <strong>Richard Price. <em>Lush Life</em></strong>
 
-A run of the mill murder and an equally run of the mill investigation.  The interest here lies in the way the author takes us through it all from start to finish, and from several angles.  Nothing too special about this novel, but it's at least competently written.  Price has written for The Wire, a fact that will surprise no one who reads more than a page of two of the book.  If you're a fan of the show, you'll probably enjoy this book too.  If you're a New Yorker, you'll probably enjoy the depiction of the Lower East Side, where all the action takes place.
+A run of the mill murder and an equally run of the mill investigation.  The interest here lies in the way the author takes us through it all from start to finish, and from several angles.  Nothing too special about this novel, but it's at least competently written.  Price has written for The Wire, a fact that will surprise no one who reads more than a page or two of the book.  If you're a fan of the show, you'll probably enjoy this book too.  If you're a New Yorker, you'll probably enjoy the depiction of the Lower East Side, where all the action takes place.
 
 <strong>Jonathan D. Spence's <em>God's Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan</em></strong>
 

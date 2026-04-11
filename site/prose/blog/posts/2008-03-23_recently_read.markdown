@@ -4,7 +4,7 @@
 ---
 <strong>Brecht.  <em>Galileo</em></strong>
 
-Brecht explores the moral difficulties in Gallileo's decision to recant.  Not bad.
+Brecht explores the moral difficulties in Galileo's decision to recant.  Not bad.
 
 <strong>Paulos, John Allen. <em>Innumeracy</em></strong>
 
@@ -20,4 +20,4 @@ Second quibble: Frank talks throughout about the middle class.  He even put the 
 
 <strong>Tufte, Edward R.<em>The Visual Display of Quantitative Information</em></strong>
 
-Superb.  Tufte wrote the book in the last seventies and early eighties; it changed the way many people think about how to display quantitative information in a clear, engaging and helpful way.  Tufte's book is part polemic against a dumbing down of statistical charts on the grounds that no one finds them interesting, and part analysis of what considerations go into getting it right.  Good stuff.
+Superb.  Tufte wrote the book in the late seventies and early eighties; it changed the way many people think about how to display quantitative information in a clear, engaging and helpful way.  Tufte's book is part polemic against a dumbing down of statistical charts on the grounds that no one finds them interesting, and part analysis of what considerations go into getting it right.  Good stuff.

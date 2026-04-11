@@ -11,7 +11,7 @@ Like many fans of the mysteries, I find myself delighting in Holmes' intuitive l
 
 Of the eight or so books by Wodehouse I've read, this is among the very best.  In fact, it gives <em>The Code of the Woosters</em> a run for its money.
 
-If you like Wodehouse, read this hilarious book immediately.  If you haven't read Wodehouse, either this book or <em>The Code of the Woosters</em> is a good place to start.  Wodehouse was best known for his the Jeeves and Wooster stories, featuring the hapless, dim-witted Bertie Wooster, always getting himself into trouble, and Jeeves, his brilliant butler, who always figures some way out of the mess.  It's mindless fun, but Wodehouse can turn a hell of a sentence and there is always satisfaction in getting to see one of his convoluted plots sort itself out, just as you knew it would, at the very last minute.
+If you like Wodehouse, read this hilarious book immediately.  If you haven't read Wodehouse, either this book or <em>The Code of the Woosters</em> is a good place to start.  Wodehouse was best known for his Jeeves and Wooster stories, featuring the hapless, dim-witted Bertie Wooster, always getting himself into trouble, and Jeeves, his brilliant butler, who always figures some way out of the mess.  It's mindless fun, but Wodehouse can turn a hell of a sentence and there is always satisfaction in getting to see one of his convoluted plots sort itself out, just as you knew it would, at the very last minute.
 
 <strong>P.G. Wodehouse. <em>Much Obliged, Jeeves</em></strong>
 

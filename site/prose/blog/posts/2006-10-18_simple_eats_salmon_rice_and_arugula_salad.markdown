@@ -7,7 +7,7 @@ Nick came over for a cooking lesson tonight.  Nick has terrible memory, no patie
 
 1.  Rice. Put it in the rice cooker and forget about it.
 2.  Salmon fillet.  Rinse under cold water, then coat liberally with salt and pepper.  Heat up the frying pan with some oil (best is safflower oil, since it handles high heat very well) and slap on the fillet, scales down.  Cover with a lid, and then cook for about 10 minutes on medium low heat.  Check that it's done by making a cut in the salmon so that you can see that it's cooked all the way through.  No need to flip it if you've got that lid on and you cook it long enough.  Serve with a splash of lemon.
-3.  While the salmon is cooking, put some arugula in a salad bowl.  If you've washed it, make sure that the argulua is dry.  Add some olive oil, a splash of lemon, freshly grated Parmesan cheese, and pepper.
+3.  While the salmon is cooking, put some arugula in a salad bowl.  If you've washed it, make sure that the arugula is dry.  Add some olive oil, a splash of lemon, freshly grated Parmesan cheese, and pepper.
 
 Done!  Takes 15 minutes if you're moving sluggishly, not counting the rice cooking time.  It also tastes good, and the pink/white/green arrangement on the plate is pleasing to the eye.
 

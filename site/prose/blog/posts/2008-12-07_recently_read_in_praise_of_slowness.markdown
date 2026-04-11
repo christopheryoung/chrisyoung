@@ -108,7 +108,7 @@ I did have some nagging fear that maybe a person who was better read in fiction 
 
 I read through most (all?) of Kundera's books up to and including Unbearable Lightness in high school.  I remember telling my dad that they were really good.  He read Unbearable Lightness, and then pointed out how insipid and shallow Kundera's view of his characters is.  A sort of light died in my eyes.  This is the gift my father gave me, and which I try to pass on to others.
 
-The way Kundera tries to blend essay and fiction into a single form is really intriguing.  If he could pull it off it would be really extraordinary.  But he can't.  It's ok to have stunted to characters.  That can make for some interesting fiction.  But the essays make clear that the characters often describe certain limits in Kundera's appreciation of human beings.  The lustless sex is only the start of the problem.
+The way Kundera tries to blend essay and fiction into a single form is really intriguing.  If he could pull it off it would be really extraordinary.  But he can't.  It's ok to have stunted characters.  That can make for some interesting fiction.  But the essays make clear that the characters often describe certain limits in Kundera's appreciation of human beings.  The lustless sex is only the start of the problem.
 
 I've been meaning to go back and do a big reread to figure out if I'm missing something.  Perhaps some day.
 

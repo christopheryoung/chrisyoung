@@ -14,7 +14,7 @@ Solid, though now somewhat dated (published 2007), account of Canada's involveme
 
 <strong>Edward Gorey. <em>Men and Gods: Myths and Legends of the Ancient Greeks</em></strong>
 
-This book is a children's classic published in 1950 and recently resurrected by the New York Review of Books in their excellent children's series.  The stories are well told, though it dragged in places.  That might just be me, though---I've never had much interest in Greek myth.  A chart at the back helps the reader keep track of Latin equivalents of Greek gods and heros, but there is no introduction explaining why Gorey chose to use the Latin equivalents in the first place.
+This book is a children's classic published in 1950 and recently resurrected by the New York Review of Books in their excellent children's series.  The stories are well told, though it dragged in places.  That might just be me, though---I've never had much interest in Greek myth.  A chart at the back helps the reader keep track of Latin equivalents of Greek gods and heroes, but there is no introduction explaining why Gorey chose to use the Latin equivalents in the first place.
 
 <strong>F&eacute;lix F&eacute;n&eacute;on. <em>Novels in Three Lines</em></strong>
 

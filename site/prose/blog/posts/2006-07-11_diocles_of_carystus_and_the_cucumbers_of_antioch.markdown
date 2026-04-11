@@ -21,7 +21,7 @@ in 301. Almost all the Hellenistic kings were protectors of science and
 philosophy. The dedication of scientific works to princes and other powerful
 men is a custom which begins shortly before Alexander's time and throws much
 light on the relations of philosophical schools and politics. Moreover, in one
-of Diocles' books the cucumbers of of Antioch were recommended. <i>Antioch was
+of Diocles' books the cucumbers of Antioch were recommended. <i>Antioch was
 founded in the year 300 B.C. Thus Diocles wrote his book in the third, not in
 the beginning of the fourth century</i>.</blockquote>I love the relentless
 accumulation of detail, some of it not entirely relevant, building until it

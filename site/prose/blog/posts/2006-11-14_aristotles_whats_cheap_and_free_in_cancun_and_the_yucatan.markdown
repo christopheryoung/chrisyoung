@@ -5,7 +5,7 @@
 ---
 I ordered <a href="http://www.amazon.com/Aristotle-Nicomachean-Translated-Introduction-Commentary/dp/0198250665/sr=8-1/qid=1163553878/ref=sr_1_1/103-4388510-8011037?ie=UTF8&amp;s=books">this</a> from Amazon.com and <a href="http://www.amazon.com/Whats-Cheap-Free-Cancun-Yucatan/dp/0975596306/sr=8-1/qid=1163553816/ref=sr_1_1/103-4388510-8011037?ie=UTF8&amp;s=books">this</a> came instead.  The name and address on the outside of the package is mine, but the book comes wrapped in an inner package with a strange name and a Wisconsin address on it.  I was going to pose with it, as I have in the past, <a href="http://www.explananda.com/archives/001508.html">when I wanted to add pathos to my customer complaints</a>, but I'm feeling too lazy for that now.
 
-Amazon does have it's moments, though.  This summer they recommended that I try reading Aristotle's <i>Nicomachean Ethics</i>, which loyal readers will recognize as the subject of my dissertation.  Good idea, guys.  I may try that some time.
+Amazon does have its moments, though.  This summer they recommended that I try reading Aristotle's <i>Nicomachean Ethics</i>, which loyal readers will recognize as the subject of my dissertation.  Good idea, guys.  I may try that some time.
 
 
 <h1>Comments</h1>
@@ -125,7 +125,7 @@ amazon keeps recommending i buy books on how to write the arabic alphabet becaus
 <em>Author:</em> Anne
 <br/><em>Date:</em> 2006-11-18
 
-Paul, I don't think I had seend your previous fine work. Full marks.
+Paul, I don't think I had seen your previous fine work. Full marks.
 
 And Chris, very nice. Reminiscent of the recurring State sketch in which there's a character, Louie, who comes into a scene, identifies a substance ("Hey, that's some nice guacamole!" "Hey, is that holy water?"  "Hey, the Pacific Ocean!"), and says "I'm gonna dip my balllllls in it!"
 

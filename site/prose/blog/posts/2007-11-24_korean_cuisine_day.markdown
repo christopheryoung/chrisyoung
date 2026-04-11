@@ -52,7 +52,7 @@ Now they're ready for frying.
 
 <img src="/media/explananda/IMG_3012.jpg" alt="Fried mandoo" width="500px" />
 
-And now for the Soon tobu gigae.  This is a soup made from pork, onions, scallions, bean paste, hot pepper paste, hot pepper flakes, silken tofu, zucchini, and shittake mushrooms.  Here are some of the ingredients:
+And now for the Soon tobu gigae.  This is a soup made from pork, onions, scallions, bean paste, hot pepper paste, hot pepper flakes, silken tofu, zucchini, and shiitake mushrooms.  Here are some of the ingredients:
 
 <img src="/media/explananda/IMG_2989.jpg" alt="Ingredients" width="500px" />
 

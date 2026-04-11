@@ -35,7 +35,7 @@ I can also encapsulate that filter using a Q object:
 
 ```
 
-(The documention on Q objects is <a href="http://docs.djangoproject.com/en/dev/topics/db/queries/#complex-lookups-with-q-objects">here</a>.  You can import Q directly from django.db.models (it is imported into that module's __init__.py), but the code for it, if case you want to take a look, actually lives in django.db.models.query_utils.)
+(The documentation on Q objects is <a href="http://docs.djangoproject.com/en/dev/topics/db/queries/#complex-lookups-with-q-objects">here</a>.  You can import Q directly from django.db.models (it is imported into that module's __init__.py), but the code for it, if case you want to take a look, actually lives in django.db.models.query_utils.)
 
 Now suppose I want to construct a query using tags as filters, for some number of tags that won't be determined until runtime.
 

@@ -115,7 +115,7 @@ I honestly can't remember now whether she specifically mentions it.  But <a href
 <em>Author:</em> Bernardo Verda
 <br/><em>Date:</em> 2009-11-30
 
-Arika Okrent devoted a fair amount to Ben Yehuda's project to revive or re-invent a modern Hebrew, largely incorporated in the parts of the book dealing with Esperanto.  Zamenhof and Yehuda's worked on their projects at around around the same time, and even more remarkably actually succeeded in becoming actual "living" languages in practical use today.
+Arika Okrent devoted a fair amount to Ben Yehuda's project to revive or re-invent a modern Hebrew, largely incorporated in the parts of the book dealing with Esperanto.  Zamenhof and Yehuda worked on their projects at around the same time, and even more remarkably actually succeeded in becoming actual "living" languages in practical use today.
 
 She also had at least a chapter's worth about Loglan and Lojban.
 

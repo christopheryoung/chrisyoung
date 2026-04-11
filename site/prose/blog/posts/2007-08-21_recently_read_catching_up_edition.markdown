@@ -20,11 +20,11 @@ I loved this book from the first page.  Clarke depicts a Napoleonic Era England 
 
 <b>James C. Scott. <em>Seeing like a State</em></b>
 
-In <em>Seeing Like a State</em>, Scott explores the various ways in which the modern state has transformed its subjects and their environments in order to render them more intelligible (and pliable) for its own purposes.  To this end, Scott considers Tanzanian land reforms, planned cities such as Brazilia, the imaginary planned cities of Le Corbusier, and the 19th Century revolution in German forestry science, among many other examples.  In each case, a scheme was forced from on high on hapless subjects, in ways cautioned against by local forms of knowledge, for reasons idealistic or bureaucratic or even aesthetic, with predictably detrimental results.
+In <em>Seeing Like a State</em>, Scott explores the various ways in which the modern state has transformed its subjects and their environments in order to render them more intelligible (and pliable) for its own purposes.  To this end, Scott considers Tanzanian land reforms, planned cities such as Brasilia, the imaginary planned cities of Le Corbusier, and the 19th Century revolution in German forestry science, among many other examples.  In each case, a scheme was forced from on high on hapless subjects, in ways cautioned against by local forms of knowledge, for reasons idealistic or bureaucratic or even aesthetic, with predictably detrimental results.
 
 I found especially interesting his discussion of high modernism in urban planning as an <em>aesthetic</em> phenomenon.
 
-<b>Jane Jacob's <em>The Death and Life of Great American Cities</em></b>
+<b>Jane Jacobs's <em>The Death and Life of Great American Cities</em></b>
 
 This book had long been on my read-because-it's-good-for-you list.  It was only when I actually started reading it that I discovered that all along it should have been on my read-because-it's-great-fun list. This one deserves a post of its own, which I'll get to some day.
 
@@ -138,7 +138,7 @@ Tony Judt's "Postwar". Very large, will be the biggest thing I've read when I'm 
 
 "Portrait of the Artist as a Young Man" - Joyce did write beautifully, and hilarious in places.
 
-I've also started "What's the matter with America?" (changed, lamentably, from "Kansas" for the Euro-edition) by Thomas Frank. Fine so far, but perhaps a little dissappointing.
+I've also started "What's the matter with America?" (changed, lamentably, from "Kansas" for the Euro-edition) by Thomas Frank. Fine so far, but perhaps a little disappointing.
 <br/>
 <br/>
 

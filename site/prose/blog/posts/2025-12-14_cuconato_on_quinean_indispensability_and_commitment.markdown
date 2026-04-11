@@ -78,7 +78,7 @@ distorted sense of the full range of live metaontological alternatives to
 Quine. Quinean metaontology was without question *the* dominant approach for
 the second half of the twentieth century. But by the mid 90s, it all started to
 fall apart. There's no mention in Cuconato's survey of Thomasson or easy
-ontology, of Yablo, of Hirsh's quantifier variance or any of the other broadly
+ontology, of Yablo, of Hirsch's quantifier variance or any of the other broadly
 neo-Carnapian alternatives to Quine that have flourished since Quine's
 dominance started to recede (indeed, no mention anywhere of Carnap, an
 important foil and influence for Quine as he developed his own views). A single
@@ -87,7 +87,7 @@ the main text. Cuconato's historical survey mentions the Aristotelian tradition
 and its view of categories of being as a significant alternative to Quine's
 approach to existence, but he does not mention McDaniel's and Turner's 21st
 century revival of ontological pluralism. As the book closes, Cuconato mentions
-the flatness of Quine's ontology, guesting at the now-vast 21st century
+the flatness of Quine's ontology, guesturing at the now-vast 21st century
 literature on grounding and dependence. But a beginner could easily miss a) how
 many alternatives to Quinean metaontology have emerged in the last 30 years;
 and b) how far out of favour Quine's metaontology has fallen, in spite of

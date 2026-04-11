@@ -23,7 +23,7 @@ If Gillibrand is taking risks these days, she's being very modest about it. For
 as long as I've been subscribed to it, her newsletter has described activities
 and interests more suitable for an obscure congressperson with a work-to-rule
 attitude than a senator from New York. Her response to the Trump
-administration's first few weeks continues in the same comotose spirit, which
+administration's first few weeks continues in the same comatose spirit, which
 is remarkable considering the stakes.
 
 Last week's newsletter (January 31st) devoted one of six items to Trump. The
@@ -32,11 +32,11 @@ New Yorkers. Her response was to *call* on the Trump administration to reverse
 the spending freeze. That was all the comment she felt necessary to offer on
 Trump's first week and a half in power. Yesterday's newsletter (February 8th)
 devoted two of seven items to Trump: First, she complains that the hiring
-freeze "is playing games with Americans' retirements benefits" on the grounds
+freeze "is playing games with Americans' retirement benefits" on the grounds
 that staffing shortages are likely to disrupt the provision of benefits. Her
 response? A press conference "urging" Trump to reverse his decision. The second
 item is another complaint about the funding freeze, culminating in this
-hilariously anti-climatic passage: "That’s why Kirsten is fighting back. This
+hilariously anti-climactic passage: "That’s why Kirsten is fighting back. This
 week, she held a press conference to sound the alarm about the disastrous
 impact that a funding freeze would have on New Yorkers and called on the
 president to immediately reverse course."

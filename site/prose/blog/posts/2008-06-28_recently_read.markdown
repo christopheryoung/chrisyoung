@@ -16,7 +16,7 @@ I liked Breakfast at Tiffany's better than the other three stories.  But still, 
 
 <strong>Rajiv Chandrasekaran.  <em>Imperial Life in the Emerald City: Inside Iraq's Green Zone</em></strong>
 
-A scathing indictment of the occupation of Iraq by the former Washington Post Baghdad bureau chief.  The outlines of this story are well known, of course.  But the details are often lost in the big picture.  Chandrasekaran's book is very helpful in this respect.  I've seen it frequently claimed, for example, that the CPA often passed over highly qualified people in favour of young Republicans with no experience.  But up this point I hadn't seen these allegations carefully unpacked over several hundred pages.
+A scathing indictment of the occupation of Iraq by the former Washington Post Baghdad bureau chief.  The outlines of this story are well known, of course.  But the details are often lost in the big picture.  Chandrasekaran's book is very helpful in this respect.  I've seen it frequently claimed, for example, that the CPA often passed over highly qualified people in favour of young Republicans with no experience.  But up to this point I hadn't seen these allegations carefully unpacked over several hundred pages.
 
 
 <h1>Comments</h1>

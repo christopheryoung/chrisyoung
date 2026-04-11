@@ -14,10 +14,10 @@ breathtaking mainly because I'm laughing too hard to breathe properly:
 their sinewy strength is slackened at its source they emit a voice similar to
 that of females. This slackening may be illustrated in the following way. It is
 as though you were to stretch a cord and make it taut by hanging some weight on
-to it, just as women do who weave at the loom; they stetch the warp by hanging
+to it, just as women do who weave at the loom; they stretch the warp by hanging
 stone weights on to it. This is the way in which the testes are attached to the
 seminal passages, which in their turn are attached to the blood-vessel which
-has its starting-point at the heart near the part which sets the voince in
+has its starting-point at the heart near the part which sets the voice in
 movement. And so, as the seminal passages undergo a change at the approach of
 the age when they can secrete semen, this part undergoes a simultaneous change.
 And as this changes, so too does the voice . . . If the testes are removed, the

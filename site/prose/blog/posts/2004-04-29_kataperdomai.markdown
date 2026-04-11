@@ -2,7 +2,7 @@
 {date: '2004-04-29', explananda: '', title: Kataperdomai, tags: anecdotes, personal, classics, greek}
 
 ---
-"Kataperdomai" is one of my favourite words from Classical Greek, a language I've been more or less incompetently picking up for the last decade as part of my study of Greek philosophy.  The standard Classical Greek dictionary, the great Liddell-Scott-Jones (that Liddell being the real-life father of Alice of <i>Alice in Wonderland</i> fame), gives the meaning "break wind at," but they were obviously working in the era before Monty Python.  Coming after the efforts of the British comedy troop, the contemporary rendering is practically inevitable: "I fart in your general direction."
+"Kataperdomai" is one of my favourite words from Classical Greek, a language I've been more or less incompetently picking up for the last decade as part of my study of Greek philosophy.  The standard Classical Greek dictionary, the great Liddell-Scott-Jones (that Liddell being the real-life father of Alice of <i>Alice in Wonderland</i> fame), gives the meaning "break wind at," but they were obviously working in the era before Monty Python.  Coming after the efforts of the British comedy troupe, the contemporary rendering is practically inevitable: "I fart in your general direction."
 
 "Kataperdomai" remains one of my favourite words from Classical Greek in spite of its starring role in a Very Painful Memory of mine.  And although painful memories are sometimes best left repressed, what is a blog if it is not a chair one can pull up to history's greatest experiment in group therapy?  Here, then, is my painful memory.
 
@@ -73,7 +73,7 @@ This is weird. I posted as Chris Young (with the Aristophanes), 'cos it's my nam
 <em>Author:</em> Chris
 <br/><em>Date:</em> 2004-05-01
 
-Wow!  I've never met another Chris Young before.  I'm notoriously gullible, so friends are likely just playing pranks in the comments - not an unusual occurrance.   Cheers!
+Wow!  I've never met another Chris Young before.  I'm notoriously gullible, so friends are likely just playing pranks in the comments - not an unusual occurrence.   Cheers!
 
 <br/>
 <br/>

@@ -30,9 +30,9 @@ basic move in Quine's Tarskian semantics here is to assume a particular
 interpretation of quantifiers in the metalanguage (not, if I understand
 correctly, one that is actually shared by Tarski himself!), without adequate
 justification. To interpret the metalanguage domain this way is a choice, and
-not forced us on by any considerations that Quine appeals to. It's that choice
-that makes the object language existential quantifier appear ontologically
-significant.
+not forced on us on by any considerations that Quine appeals to. It's that
+choice that makes the object language existential quantifier appear
+ontologically significant.
 
 Anyway, this is a point that I associate most with Jody Azzouni. See, e.g., p.
 xii and the appendix to the General Introduction of his *Ontology Without

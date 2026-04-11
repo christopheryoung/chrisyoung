@@ -149,7 +149,7 @@ Not to mention that the London Tube has a zone system for fares and closes at 1 
 
 Commuting by New York subway is only going to get more hellish as more people move into the city.  There's been talk for years of adding a new line to the east of the 4-5-6, but there doesn't seem to be any movement on that front.  Have you ever taken the 6 train on a Saturday afternoon?  It's more crowded than a rush hour B train.
 
-I'm trying to assess whether it's a good idea for me to put down more-or-less permanent roots in this city (like eventually buying a place) because I have all these dystopian visions of what NYC might be like in the future. One of the factors contributing to the dystopia is the public transportation system. On many rIoutes they can't really add many more trains because the tracks can't accommodate them.  And even if there was enough political will to start building entirely new lines, I imagine it would take freaking forever to do.  The Cortland St. R station is *still* a construction zone, 7 years after 9/11.
+I'm trying to assess whether it's a good idea for me to put down more-or-less permanent roots in this city (like eventually buying a place) because I have all these dystopian visions of what NYC might be like in the future. One of the factors contributing to the dystopia is the public transportation system. On many routes they can't really add many more trains because the tracks can't accommodate them.  And even if there was enough political will to start building entirely new lines, I imagine it would take freaking forever to do.  The Cortland St. R station is *still* a construction zone, 7 years after 9/11.
 <br/>
 <br/>
 

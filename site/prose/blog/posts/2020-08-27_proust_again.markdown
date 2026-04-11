@@ -5,7 +5,7 @@ tags: proust, literature
 ---
 
 At the beginning of July I finished reading Proust's <em>In Search of Lost
-Time</em> again, my fourth read through the book, and barring some unforseen
+Time</em> again, my fourth read through the book, and barring some unforeseen
 misfortune certainly not my last. What struck me this time, more than others:
 Proust's extraordinary intellectual independence in many of the subjects he
 mentions; how well Proust's aesthetic discussions, of painting and music and

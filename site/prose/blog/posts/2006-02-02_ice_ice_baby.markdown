@@ -7,7 +7,7 @@ href="http://www.amazon.com/gp/product/0802136516/sr=1-1/qid=1138938804/ref=sr_1
 Depends on Dinner</i></a>, p. 292: <blockquote>The Norwegians cut ice and sold
 it to most of Europe during the nineteenth century. In 1822, when the first
 Norwegian ice cargo arrived in Britain, it caused consternation at the customs
-house, becuase it did not fit into classification lists for import duties. By
+house, because it did not fit into classification lists for import duties. By
 the time it was decided that ice was "dry goods," the whole cargo had
 liquefied.</blockquote>
 

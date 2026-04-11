@@ -20,7 +20,7 @@ Cathy O'Neill
 to two interesting pieces on standardized tests that are worth reading
 together: Meredith Broussard's
 [Why Poor Schools Can't Win At Standardized Testing](http://www.theatlantic.com/features/archive/2014/07/why-poor-schools-cant-win-at-standardized-testing/374287/)
-at the Atlantic Monthly and and Rachel Aviv's
+at the Atlantic Monthly and Rachel Aviv's
 [Wrong Answer](http://www.newyorker.com/magazine/2014/07/21/wrong-answer) in
 the New Yorker. These pieces make a nice follow-up to Dale Russakoff's
 [Schooled](http://www.newyorker.com/magazine/2014/05/19/schooled) in a recent

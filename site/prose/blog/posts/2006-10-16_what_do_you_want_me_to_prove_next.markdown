@@ -18,7 +18,7 @@ Prexaspes knew well enough that the king's mind was unbalanced, so in fear for h
 <em>Author:</em> OneFatEnglishman
 <br/><em>Date:</em> 2006-10-17
 
-Herodotus blogging should certainly be the wave of the future, and if I could persuade somebody else to pay my mortgage and buy all my food, I'd be inclined to do it myself. But I wonder if I'm suffering from delusions: I was convinced H. had something to say about Persian noses somewhere, and I simply couldn't find it. Any idea where it is, or am I imagining it.
+Herodotus blogging should certainly be the wave of the future, and if I could persuade somebody else to pay my mortgage and buy all my food, I'd be inclined to do it myself. But I wonder if I'm suffering from delusions: I was convinced H. had something to say about Persian noses somewhere, and I simply couldn't find it. Any idea where it is, or am I imagining it?
 
 This is a wonderful passage by the way, which I'd completely forgotten. Whose translation? Your own?
 <br/>

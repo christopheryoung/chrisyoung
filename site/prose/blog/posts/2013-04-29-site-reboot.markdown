@@ -7,7 +7,7 @@ tags: metablog
 After a long hiatus, I've decided to revamp my personal website, and this blog
 along with it.
 
-I'm not sure when I first slapped up a website on this domain. It must be been
+I'm not sure when I first slapped up a website on this domain. It must have been
 2003 at the latest, though. At the time, I was a graduate student in Philosophy
 and my little head was filled with Classical Greek and Aristotle, with little
 room for html. I believe the site consisted of a bunch of hastily assembled
