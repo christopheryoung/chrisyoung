@@ -13,7 +13,7 @@ singer named Christopher Young, the football player named Christopher Young,
 the baseball player named Christopher Young, or the British Christopher Young
 who leaves astute comments on the same blogs I read using our name, thus saving
 me the trouble of leaving those comments myself. These Christopher Youngs are
-undoubtedly all excellent in their own way, but they're not me.
+surely all excellent in their own way, but they're not me.
 
 You're at the right place if you're looking for the Canadian (and, as of 2019,
 American) Christopher Young who grew up (mostly) in Ottawa, studied philosophy
@@ -22,13 +22,13 @@ field, eventually dropped out, taught himself to code while waiting for a Green
 Card, became a software developer, and now lives very happily in Brooklyn, NY
 with his wife, `Yoon Sun Choi <http://yoonsunchoi.com>`_, and his son, Oliver.
 
-
 **Elsewhere**
 
 I used to be on Twitter at `@donkeyhotty <https://twitter.com/donkeyhotty>`_
 but have since moved on to BlueSky at `@donkeyhotty.bsky.social
 <https://bsky.app/profile/donkeyhotty.bsky.social>`_ and Mastodon at
-`@donkeyhotty <https://zirk.us/@donkeyhotty>`_.
+`@donkeyhotty <https://zirk.us/@donkeyhotty>`_. My books are catalogued on
+`library thing<https://www.librarything.com/catalog/chrisyoung>`_.
 
 **Credits**
 

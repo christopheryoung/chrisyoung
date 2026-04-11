@@ -7,13 +7,14 @@ title: Prose
 My rarely updated personal blog, *Notes and Queries*, is `here </prose/blog/>`_
 
 For several years I ran a group blog devoted to politics, books, etc., called
-`explananda <http://explananda.com>`_.
+`explananda <http://explananda.com>`_. I imported a few of the old posts there
+into my personal blog.
 
 **Publications (and invited talks)**
 
 Young, Christopher and Andrew Brook. 'Schopenhauer and the Mind' in *The New
 Cambridge Companion to Schopenhauer*, ed. Sandra Shapshay and Colin Marshall.
-[Appearing in 2026]
+[Appearing in 2026 or 2027]
 
 Brook, Andrew and Christopher Young. 'Schopenhauer and Freud' in `*The Oxford
 Handbook of Philosophy and
