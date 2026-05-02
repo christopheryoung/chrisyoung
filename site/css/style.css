@@ -276,3 +276,30 @@ h1.pagetitle {
     text-decoration: none;
     margin-left: 0.3em;
 }
+
+/* Hover translation tooltip */
+.translation {
+    border-bottom: 1px dotted #990000;
+    cursor: help;
+    position: relative;
+}
+
+.translation:hover::after {
+    content: attr(title);
+    position: absolute;
+    bottom: 100%;
+    right: 0;
+    background: #fff;
+    color: #333;
+    border: 2px solid #215675;
+    padding: 8px 12px;
+    border-radius: 3px;
+    font-size: 0.8em;
+    line-height: 1.4em;
+    max-width: 500px;
+    width: max-content;
+    white-space: normal;
+    z-index: 10;
+    pointer-events: none;
+    margin-bottom: 6px;
+}
