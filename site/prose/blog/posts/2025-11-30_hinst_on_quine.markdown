@@ -25,14 +25,18 @@ that it generates much broader commitments than intended, and then formulates a
 more precise version.
 
 The second part of the paper argues against Quine's claim that the existential
-quantifier has any ontological significance at all. Hinst complains that the
-basic move in Quine's Tarskian semantics here is to assume a particular
-interpretation of quantifiers in the metalanguage (not, if I understand
-correctly, one that is actually shared by Tarski himself!), without adequate
-justification. To interpret the metalanguage domain this way is a choice, and
-not forced on us on by any considerations that Quine appeals to. It's that
-choice that makes the object language existential quantifier appear
-ontologically significant.
+quantifier is ontologically significant. Hinst complains that the basic move in
+Quine's Tarskian semantics here is to assume a particular interpretation of
+quantifiers in the metalanguage (not, if I understand correctly, one that is
+actually shared by Tarski himself!), without adequate justification. To
+interpret statements about the domain in the metalanguage in this way is a
+choice, and not forced on us on by any considerations that Quine appeals to.
+It's that choice that makes the object language existential quantifier appear
+ontologically significant. If I understand correctly, this is *not* the point
+that we can interpret quantifiers substitutionally, but rather that the
+objectual interpretation of quanitifiers is not by itself committing. And the
+complaint is that taking them to be committing is an additional step, and one
+that requires argument.
 
 Anyway, this is a point that I associate most with Jody Azzouni. See, e.g., p.
 xii and the appendix to the General Introduction of his *Ontology Without
